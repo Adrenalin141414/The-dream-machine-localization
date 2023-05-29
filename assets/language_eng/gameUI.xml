@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	<0_main_menu caption="Играть" />
+	<1_main_menu caption="Загрузить" />
+	<2_main_menu caption="Настройки" />
+	
+	<3_tutorialQuery caption="Вы уже играли в демо-версию The Dream Machine?" />
+	<4_tutorialQuery caption="Да" />
+	<5_tutorialQuery caption="Нет" />
+	
+	<6_loadGame caption="Пусто" />
+	<7_loadGame caption="Автосохранение" />
+	<8_loadGame caption="Закрыть" />
+	
+	<9_qualityOption caption="Качество изображения" />
+	<10_qualityOption caption="Настройте качество изображения, чтобы повлиять на производительность" />
+	<11_qualityOption caption="Высокое" />
+	<12_qualityOption caption="Среднее" />
+	<13_qualityOption caption="Низкое" />
+	
+	<14_soundOption caption="Звук" />
+	<15_soundOption caption="Включить или выключить все звуки" />
+	<16_soundOption caption="Вкл" />
+	<17_soundOption caption="Выкл" />
+	
+	<18_tutorialOption caption="Обучение" />
+	<19_tutorialOption caption="Включение или отключение обучающей информации" />
+	<20_tutorialOption caption="Вкл" />
+	<21_tutorialOption caption="Выкл" />
+
+	<22_colorOption caption="Цветовая помощь" />
+	<23_colorOption caption="Функция доступности: используйте оттенки серого в цветных головоломках." />
+	<24_colorOption caption="Вкл" />
+	<25_colorOption caption="Выкл" />
+
+	<26_hearingOption caption="Слуховая помощь" />
+	<27_hearingOption caption="Функция доступности: Добавить текстовые подсказки для важных звуковых событий" />
+	<28_hearingOption caption="Вкл" />
+	<29_hearingOption caption="Выкл" />
+
+	<30_animationOption caption="Эффекты анимации" />
+	<31_animationOption caption="Включение или выключение эффектов, интенсивно использующих процессор" />
+	<32_animationOption caption="Вкл" />
+	<33_animationOption caption="Выкл" />
+
+	<34_gameMenu caption="Меню" />
+	<35_gameMenu caption="Меню" />
+	<36_gameMenu caption="Вернуться" />
+	<37_gameMenu caption="Сохранить" />
+	<38_gameMenu caption="Загрузить" />
+	<39_gameMenu caption="Настройки" />
+	<40_gameMenu caption="Выйти" />
+	
+	<41_gameMenu caption="Сохранить" />
+	
+	<42_endgame caption="Вы действительно хотите закончить игру?" />
+	
+	<43_autoSave caption="Сохранение..." />
+	
+	<44_connectionError caption="Обнаружен &#10;прогресс игры" />
+	<45_connectionError caption="Хотите восстановить прогресс игры?" />
+	
+	<46_autoSave caption="Сохранено" />
+	
+	<47_connectionError caption="Обнаружена ошибка загрузки" />
+	<48_connectionError caption="На сервере не найдены важные файлы игры!" />
+	
+	<49_main_menu caption="Веб-сайт" />
+
+	<50_connectionError caption="Обнаружена ошибка загрузки" />
+	<51_connectionError caption="Игре не удалось загрузить запрошенный файл!" />
+
+	<52_beta_signup caption="Зарегистрироваться" />
+	<53_beta_signup caption="Зарегистрируйтесь и получите уведомление по электронной почте, как только игра будет готова!" />
+	<54_beta_signup caption="Ваш e-mail" />
+	<55_beta_signup caption="Отправить" />
+	<56_beta_signup caption="Отмена" />
+	<57_beta_signup caption="Отправка…" />
+	<58_beta_signup caption="Ошибка" />
+	<59_beta_signup caption="Произошла ошибка при попытке отправить вашу информацию. &#10;Пожалуйста, повторите попытку позже!" />
+	<60_beta_signup caption="Успех" />
+	<61_beta_signup caption="Спасибо за регистрацию! Мы отправим вам письмо, как только выпустим игру!" />
+	
+	<62_user_survey caption="Опрос пользователей" />
+
+	<63_user_survey caption="Имя" />
+	<64_user_survey caption="Ваше имя" />
+	<65_user_survey caption="E-mail" />
+	<66_user_survey caption="Ваш e-mail" />
+	<67_user_survey caption="Год рождения" />
+	<68_user_survey caption="Год вашего рождения" />
+	<69_user_survey caption="Пол" />
+	<70_user_survey caption="Ваш пол" />
+	<71_user_survey caption="Страна происхождения" />
+	<72_user_survey caption="Страна вашего происхождения" />
+	<73_user_survey caption="Оценка игры" />
+	<74_user_survey caption="Как бы вы оценили игру?" />
+	<75_user_survey caption="Цена игры" />
+	<76_user_survey caption="Сколько вы готовы заплатить за такую игру?" />
+	<77_user_survey caption="Любимый жанр" />
+	<78_user_survey caption="Ваш любимый игровой жанр" />
+	<79_user_survey caption="Игровые привычки" />
+	<80_user_survey caption="Ваши игровые привычки" />
+	<81_user_survey caption="Сообщение" />
+	<82_user_survey caption="Ваше сообщение" />
+
+	<83_user_survey caption="Отправить" />
+
+	<84_beta_signup caption="Ошибка" />
+	<85_beta_signup caption="Произошла ошибка при попытке отправить ваш опрос. &#10;Пожалуйста, повторите попытку позже!" />
+	<86_beta_signup caption="Успех" />
+	<87_beta_signup caption="Ваш опрос отправлен. &#10;Спасибо, что помогаете нам делать игру лучше!" />
+
+	<88_user_survey caption="Бесполезно" />
+	<89_user_survey caption="Средне" />
+	<90_user_survey caption="Превосходно" />
+
+	<91_user_survey caption="Ничего" />
+	<92_user_survey caption="или больше" />
+
+	<93_general caption="Кажется, это не работает." />
+	<94_general caption="Ваш инвентарь полон. Освободите место, используя некоторые из ваших предметов." />
+
+	<95_chapter caption="Глава 1" />
+	<96_chapter caption="Глава 2" />
+	<97_chapter caption="Глава 3" />
+	<98_chapter caption="Глава 4" />
+	<99_chapter caption="Глава 5" />
+
+	<100_chapter caption="Выбрать главу" />
+	
+	<101_beta_signup caption="Указанный вами адрес электронной почты уже используется другим аккаунтом!" />
+
+	<102_loginGame caption="Ваш пароль" />
+	<103_loginGame caption="Выйти" />
+	<104_loginGame caption="" />
+	
+	<105_account_handling caption="" />
+	<106_account_handling caption="Аккаунт" />
+	
+	<107_tutorialQuery caption="Пропустить демо" />
+	<108_tutorialQuery caption="Вы уже играли в демо-часть игры и хотите ее пропустить?" />
+	<109_tutorialQuery caption="Пропустить интро" />
+	<110_tutorialQuery caption="Вы хотите пропустить вступление?" />
+
+	<111_loginGame caption="Вход в учетную запись" />
+	<112_loginGame caption="Войдите в свою учетную запись и сразу же начните играть в игру.&#10;&#10; Мы храним ваш прогресс и настройки на нашем сервере, чтобы вы могли играть с любого компьютера." />
+	<113_loginGame caption="Запомнить меня" />
+	<114_loginGame caption="Войти" />
+	<115_loginGame caption="Создать новый аккаунт&#10; " />
+	<116_loginGame caption="Забыли пароль?&#10; " />
+	<117_loginGame caption="Забытый пароль" />
+	<118_loginGame caption="Нажмите здесь, чтобы войти" />
+	<119_loginGame caption="Введите адрес вашей электронной почты в поле ниже, и мы вышлем вам новый пароль." />
+	<120_loginGame caption="Вход выполнен успешно" />
+	<121_loginGame caption="Вы успешно авторизованы! &#10;&#10;Информация о ваших покупках, прогресс и настройки загружены." />
+	<122_loginGame caption="Ошибка входа" />
+	<123_loginGame caption="Попытка входа не удалась, что означает, что сервер может быть сильно загружен. Пожалуйста, повторите попытку позже." />
+	<124_loginGame caption="Введенный адрес электронной почты не привязан к учетной записи. Пожалуйста, попробуйте еще раз, используя действительный адрес электронной почты учетной записи." />
+	<125_loginGame caption="Вы ввели неверный пароль. Пожалуйста, попробуйте еще раз, используя правильный пароль." />
+	<126_loginGame caption="Назад" />
+	
+	<127_createAccount caption="Создать аккаунт" />
+	<128_createAccount caption="Если вы создадите учетную запись, мы сохраним ваш прогресс и настройки в Интернете, чтобы вы могли играть с любого компьютера." />
+	<129_createAccount caption="Повторите пароль" />
+	<130_createAccount caption="Отправить" />
+	<131_createAccount caption="Аккаунт создан" />
+	<132_createAccount caption="Ваш аккаунт успешно создан! &#10;&#10; Ваш прогресс и настройки будут сохранены в сети, так что вы сможете играть с любого компьютера." />
+	<133_createAccount caption="Не удалось создать учетную запись" />
+	<134_createAccount caption="По неизвестным причинам ваша учетная запись не может быть создана. Пожалуйста, повторите попытку позже." />
+	<135_createAccount caption="Введенный адрес электронной почты уже привязан к учетной записи. Пожалуйста, попробуйте еще раз, используя другой адрес электронной почты." />
+
+	<136_loginGame caption="Мы отправили новый пароль на указанный адрес электронной почты. Обратите внимание, что он может оказаться в папке «Спам», поскольку он создается автоматически." />
+	<137_loginGame caption="По неизвестным причинам мы не смогли отправить ваш пароль на указанный адрес электронной почты." />
+	<138_loginGame caption="Введенный адрес электронной почты не привязан к учетной записи. Пожалуйста, попробуйте еще раз, используя действительный адрес электронной почты учетной записи." />
+	
+	<139_inventoryGame caption="Я уже смотрю на это." />
+	
+	<140_loginGame caption="Восстановление сохранения" />
+	<141_loginGame caption="Завершить игру" />
+	
+	<142_loginGame caption="Готово" />
+	<143_loginGame caption="Без названия" />
+	
+	<144_changePassword caption="Изменить пароль&#10; " />
+	<145_changePassword caption="Заполните поля ниже, чтобы изменить пароль." />
+	<146_changePassword caption="Старый пароль" />
+	<147_changePassword caption="Новый пароль" />
+	<148_changePassword caption="Повторите новый пароль" />
+	<149_changePassword caption="Вам необходимо войти в систему, чтобы изменить пароль. Пожалуйста, войдите." />
+	<150_changePassword caption="Введенный вами старый пароль не соответствует тому, который был привязан к учетной записи." />
+	<151_changePassword caption="Ваш пароль успешно изменен!" />
+	<152_changePassword caption="По неизвестным причинам мы не смогли изменить ваш пароль. Пожалуйста, повторите попытку позже." />
+	
+	<153_main_menu caption="Выйти из полноэкранного режима" />
+	<154_main_menu caption="Выйти в меню &#10; " />
+	<155_main_menu caption="Покинуть" />
+	<156_main_menu caption="Играть в демо-версию" />
+
+	<157_tutorialOption caption="Полноэкранный режим" />
+	<158_tutorialOption caption="Включить или выключить полноэкранный режим" />
+	<159_tutorialOption caption="Вкл" />
+	<160_tutorialOption caption="Выкл" />
+	
+	<161_tutorialOption caption="Сочетание клавиш: &#10;F" />
+	
+	<162_tutorialOption caption="Дополнительная информация" />
+	<163_tutorialOption caption="При желании вы также можете ввести дополнительную информацию о себе." />
+	<164_createAccount caption="Ошибка входа" />
+	<165_createAccount caption="По неизвестным причинам ваш вход не удался. Пожалуйста, повторите попытку позже." />
+	<166_createAccount caption="Произведен выход из системы" />
+	<167_createAccount caption="Вы успешно вышли из системы." />
+	<168_createAccount caption="Кажется, я не могу пойти туда." />
+	<169_createAccount caption="Вы не авторизованы" />
+
+	<170_createAccount caption="Достигнут лимит времени" />
+	<171_createAccount caption="Достигнут максимальный лимит времени. Возможно, сервер сильно загружен. Пожалуйста, повторите попытку позже." />
+	
+	<172_puchasePages caption="Пожалуйста, внимательно прочитайте настоящие Условия Использования. Если вы хотите приобрести игру, вам необходимо согласиться с условиями, изложенными ниже." />
+	<173_puchasePages caption="Я соглашаюсь" />
+	<174_puchasePages caption="После завершения покупки нажмите кнопку «Обновить», чтобы обновить информацию о покупке." />
+	<175_puchasePages caption="Обновить" />
+	<176_puchasePages caption="Покупка пока не обнаружена. &#10;Нажмите кнопку «Обновить» или попробуйте войти позже." />
+	<177_puchasePages caption="Ваша покупка успешно завершена! Большое спасибо за покупку игры и поддержку разработки The Dream Machine!" />
+	<178_puchasePages caption="Условия Использования" />
+	<179_puchasePages caption="Ожидаем PayPal" />
+	
+	<180_puchasePages caption="Обзор покупки" />
+	<181_puchasePages caption="Транзакции PayPal авторизуются через веб-сайт PayPal. Нажмите кнопку ниже, чтобы открыть новое окно веб-браузера и инициировать транзакцию." />
+	<182_puchasePages caption="Ваша покупка" />
+	<183_puchasePages caption="Продолжить" />
+	<184_puchasePages caption="Итого" />
+	<185_puchasePages caption="Я соглашаюсь с &#10;Условиями Использования и Политикой Конфиденциальности" />
+	<186_puchasePages caption="Начать покупку через PayPal" />
+	<187_puchasePages caption="Обновление..." />
+	<188_puchasePages caption="Покупка завершена" />
+	
+	<189_puchasePages caption="Чтобы купить игру, вам необходимо войти в систему. Пожалуйста, сделайте это или создайте новую учетную запись с помощью опции ниже." />
+	<190_puchasePages caption="Ожидание покупки" />
+
+	<191_puchasePages caption="Глава куплена" />
+	<192_puchasePages caption="Глава не куплена" />
+	<193_puchasePages caption="Играть в главу" />
+	<194_puchasePages caption="Заблокировано" />
+	<195_puchasePages caption="Глава разблокирована" />
+	<196_puchasePages caption="Сейчас" />
+
+	<197_puchasePages caption="Ошибка сервера" />
+	<198_puchasePages caption="При попытке получить покупку возникла проблема. Пожалуйста, попробуйте еще раз или войдите позже. Отправьте нам письмо, если проблема не устранена." />
+	
+	<199_fullscreenAlert caption="Из-за функции безопасности во Flash весь ввод с клавиатуры, кроме клавиши Escape, отключен в полноэкранном режиме." />
+	
+	<200_fullscreenAlert caption="Нет зарегистрированных покупок" />
+	<201_fullscreenAlert caption="Мы не можем найти ни одной покупки, связанной с вашей учетной записью. Отправьте нам электронное письмо, если вы что-то купили, и мы рассмотрим это." />
+	<202_fullscreenAlert caption="Войдите, чтобы разблокировать &#10;полную главу" />
+	<203_fullscreenAlert caption="Перетащите, чтобы использовать с &#10;другими объектами." />
+	<204_fullscreenAlert caption="Обновление информации о покупке" />
+	
+	<205_privacyPages caption="Политика Конфиденциальности" />
+	<206_privacyPages caption="Пожалуйста, внимательно прочитайте Политику Конфиденциальности. Если вы хотите использовать эту страницу, вам необходимо согласиться с условиями, изложенными ниже." />
+	
+	<207_tutorialOption caption="Сочетание клавиш: &#10;Esc" />
+	<208_tutorialOption caption="Играть" />
+	
+	<209_fullscreenAlert caption="Из-за функции безопасности во Flash весь ввод с клавиатуры, кроме клавиши Esc, отключен в полноэкранном режиме. &#10;&#10;Нажмите Esc, чтобы выйти из полноэкранного режима." />
+	
+	<210_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты слишком короткий" />
+	<211_emailValidation caption="Ошибка адреса электронной почты: &#10;Пожалуйста, используйте настоящий адрес электронной почты" />
+	<212_emailValidation caption="Ошибка адреса электронной почты: &#10;В адресе электронной почты обнаружен недопустимый символ" />
+	<213_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты должен содержать символ @" />
+	<214_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты должен содержать хотя бы один символ точки." />
+	<215_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты написан в неправильном формате" />
+	<216_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты не может содержать две собаки @@ или две точки .. подряд" />
+	<217_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты не может содержать пробел" />
+	<218_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты не может содержать два символа собаки @" />
+	<219_emailValidation caption="Ошибка адреса электронной почты: &#10;Одноразовые адреса электронной почты не допускаются" />
+	
+	<220_chapterAccess caption="Глава заблокирована" />
+	<221_emailValidation caption="Ошибка адреса электронной почты: &#10;Адрес электронной почты не может содержать разрыв строки" />
+	
+	<222_alertMessage caption="Сочетание клавиш: &#10;F" />
+	<223_alertMessage caption="Сочетание клавиш: &#10;F" />
+	<224_alertMessage caption="Некорректное название сохраненной игры: &#10;Недопустимый символ - " />
+
+	<225_exitApp caption="Выйти из игры" />
+	<226_exitApp caption="Вы действительно хотите выйти из игры?" />
+	
+	<227_saveError caption="Ошибка: не удалось сохранить игру! Пожалуйста, повторите попытку позже." />
+	<228_saveError caption="Ошибка: не удалось сохранить игру! Соединение с базой данных не обнаружено." />
+	
+	<229_hearingOption caption="Помощь в чтении" />
+	<230_hearingOption caption="Функция доступности: тексты читаются голосовым синтезатором." />
+	<231_hearingOption caption="Вкл" />
+	<232_hearingOption caption="Выкл" />
+	
+	<233_fullscreenAlert caption="Из-за функции безопасности во Flash весь ввод с клавиатуры отключен в полноэкранном режиме." />
+
+	<234_hearingOption caption="Играть в Главу 1" />
+	
+	<235_alertMessage caption="Сочетание клавиш: &#10;Q" />
+	<236_alertMessage caption="Сочетание клавиш: &#10;S" />
+	
+	<237_tutorialOption caption="Геймпад" />
+	<238_tutorialOption caption="Включить или отключить поддержку геймпада" />
+	<239_tutorialOption caption="Вкл" />
+	<240_tutorialOption caption="Выкл" />
+	
+	<241_tutorialOption caption="Конвертировать сохраненные игры" />
+	<242_tutorialOption caption="Пожалуйста, подождите, пока мы конвертируем ваше старое сохранение в новый формат." />
+	<243_tutorialOption caption="Конвертирование..." />
+	
+	<244_tutorialOption caption="Ваши сохраненные игры успешно конвертированы в новый формат.&#10;&#10;Пожалуйста, воздержитесь от использования каких-либо инструментов для удаления Flash cookie, иначе они могут удалить ваши сохраненные игры!" />
+	
+	<245_tutorialOption caption="Выйти из игры" />
+	<246_tutorialOption caption="Куда именно вы хотите выйти?" />
+	<247_tutorialOption caption="Главное меню" />
+	<248_tutorialOption caption="Рабочий стол" />
+	
+	<249_tutorialOption caption="пароль" />
+	<250_debugMode caption="Режим отладки" />
+	<251_debugMode caption="Пожалуйста, введите пароль режима отладки" />
+	<252_debugMode caption="Войти" />
+	
+	<253_title caption="отмеченная наградами приключенческая игра" />
+	<254_title caption="сделанная из глины и картона" />
+	
+	<255_title caption="Доступно" />
+	<256_toBeAnnounced caption="Сейчас" />
+	<257_title caption="Загрузка сохранённых игр..." />
+	<258_title caption="Сохранение настроек..." />
+	<259_title caption="Настройки сохранены" />
+	<260_title caption="Не удалось сохранить настройки!" />
+	<261_title caption="Не удалось сохранить игру!" />
+	<262_title caption="Автосохранение" />
+	<263_title caption="Закрытие приложения..." />
+	<264_title caption="выбрано" />
+
+	<265_title caption="Глава 1" />
+	<266_title caption="Глава 2" />
+	<267_title caption="Глава 3" />
+	<268_title caption="Глава 4" />
+	<269_title caption="Глава 5" />
+	<270_title caption="Глава 6" />
+	
+	<271_settings caption="Скорость чтения" />
+	<272_settings caption="Настройте насколько быстро строки диалога исчезают с экрана" />
+	<273_settings caption="1 = Быстро&#10;15 = Медленно&#10;Выкл = Щелчок для продолжения&#10;Сочетание клавиш: &#10;R" />
+	
+	<274_temp caption="Свернуть игру" />
+	<275_temp caption="Сочетание клавиш: &#10;B" />
+	
+	<276_soundOption caption="Музыка" />
+	<277_soundOption caption="Включить или выключить музыку" />
+	<278_soundOption caption="Вкл" />
+	<279_soundOption caption="Выкл" />
+	
+	<280_alertMessage caption="Сочетание клавиш: &#10;M" />
+	
+	<281_textToSpeechMessage caption="Пожалуйста, обратите внимание:&#10;Мы рекомендуем включать этот параметр только в случае, если у вас имеются проблемы со зрением." />
+	
+	<282_hintsOption caption="Режим помощи" />
+	<283_hintsOption caption="Получите помощь от Виктора в некоторых головоломках" />
+	<284_hintsOption caption="Вкл" />
+	<285_hintsOption caption="Выкл" />
+	
+	<286_chapterTitle caption="Мы как сновидец" />
+	<287_chapterTitle caption="Маленький человечек, которого там не было" />
+	<288_chapterTitle caption="Лодка под солнечным небом" />
+	<289_chapterTitle caption="Выбирайся как можно раньше" />
+	<290_chapterTitle caption="Взгляни в бездну" />
+	<291_chapterTitle caption="Проснись, проснись, мой маленький мальчик" />
+	
+	<292_hintsOption caption="Если включено, Виктор предлагает дополнительные советы по некоторым головоломкам." />
+	
+	<293_endLine caption="Продолжение следует..." />
+	<294_endLine caption="Завершение следует..." />
+	<295_endLine caption="Несколько часов спустя..." />
+	<296_endLine caption="Несколько минут спустя..." />
+	<297_endLine caption="Конец" />
+	
+	<298_chapterTitle caption="Мы словно&#10;сновидец" />
+	<299_chapterTitle caption="Маленький человечек,&#10;которого там не было" />
+	<300_chapterTitle caption="Лодка под&#10;солнечным небом" />
+	<301_chapterTitle caption="Выбирайся как можно&#10;раньше" />
+	<302_chapterTitle caption="Взгляни в&#10;бездну" />
+	<303_chapterTitle caption="Проснись, проснись,&#10;мой маленький мальчик" />
+	
+	<304_title caption="Глава 7" />
+	<305_chapterTitle caption="Где я заканчиваю" />
+	
+	<306_settings caption="Скорость ходьбы" />
+	<307_settings caption="Настройте, насколько быстро Виктор должен ходить" />
+	<308_settings caption="2.0 = Быстро&#10;1.5 = Нормально&#10;Сочетание клавиш: &#10;W" />
+	
+    <309_settings caption="Демо-версия" />
+    
+	<310_credits caption="Посмотреть титры" />
+    <311_credits caption="Пропустить титры" />
+	<312_credits caption="Вы хотите пропустить титры?" />
+    
+    <313_examineInventoryAlert caption="Нажмите, чтобы осмотреть объекты &#10;в вашем инвентаре." />
+    
+    <314_debugLoad caption="[Сохранить текст файла]" />
+	<315_debugLoad caption="Текстовая загрузка" />
+	<316_debugLoad caption="Пожалуйста, вставьте сюда текст вашего файла сохранения:" />
+	<317_debugLoad caption="Загрузить" />
+    
+    <318_debugLoad caption="Нажмите ПРОБЕЛ,&#10;чтобы выделить области взаимодействия" />
+    
+    <319_general caption="" />
+    
+    <320_soundOption caption="Язык" />
+	<321_soundOption caption="Изменить язык" />
+    
+    <322_general caption="Вы должны перезапустить игру, чтобы смена языка вступила в силу." />
+    
+    <323_debugLoad caption="[Сохранить текст файла]" />
+	<324_debugLoad caption="Текстовая загрузка" />
+	<325_debugLoad caption="Пожалуйста, вставьте сюда текст вашего файла сохранения:" />
+	<326_debugLoad caption="Загрузить" />
+    
+    <327_commentLoad caption="Воспроизвести" />
+    <328_commentLoad caption="Стоп" />
+    <329_commentLoad caption="комментировать" />
+    <330_commentLoad caption="Аудио выключено" />
+    
+    <331_hintsOption caption="" />
+	<331_hintsOption caption="" />
+	<333_hintsOption caption="" />
+	<334_hintsOption caption="" />
+    <335_hintsOption caption="" />
+    
+    <336_achievementViewer caption="Достижения" />
+    <337_achievementViewer caption="Просмотр достижений" />
+    
+    <338_soundOption caption="Индикаторы взаимодействия" />
+	<339_soundOption caption="Включение и отключение индикаторов взаимодействия" />
+	<340_soundOption caption="Вкл" />
+	<341_soundOption caption="Выкл" />
+	
+	<342_alertMessage caption="Чтобы отобразить индикаторы, удерживайте&#10;ПРОБЕЛ&#10;во время игры" />
+    
+    <343_alertMessage caption="Индикаторы взаимодействия отключены. Включите их в настройках." />
+    
+</siteCopy>

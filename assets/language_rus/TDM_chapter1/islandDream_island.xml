@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_general caption="" />
+	<1_pole caption="Возможно, с помощью этого я смогу поймать рыбу." />
+	
+	<2_trees caption="Это кокосы?" />
+    
+	<3_boat caption="Лодка разбилась о тот камень." />
+    <4_boat caption="Неужто так я здесь оказался?" />
+    <5_boat caption="Странно, что я не могу вспомнить что-то подобное..." />
+
+	<6_wood caption="На удивление сухо." />
+	<7_wood caption="Вероятно, я смогу использовать это для растопки." />
+    
+	<8_general caption="" />
+	
+	<9_rock caption="Кажется, это убило рыбу." />
+	<10_rock caption="Рыба уже мертва." />
+    <11_rock caption="Ударами лопатой по камню ничего не добьёшься." />
+    
+	<12_general caption="" />
+	
+	<13_general caption="" />
+	<14_general caption="" />
+	
+	<15_general caption="" />
+	<16_general caption="" />
+	<17_general caption="" />
+	
+	<18_general caption="" />
+	<19_general caption="" />
+	
+	<20_general caption="" />
+	<21_general caption="" />
+	
+	<22_general caption="" />
+	<23_general caption="" />
+	<24_general caption="" />
+	<25_general caption="" />
+	<26_general caption="" />
+	<27_general caption="" />
+	<28_general caption="" />
+	<29_general caption="" />
+	<30_general caption="" />
+	<31_general caption="" />
+	<32_general caption="" />
+	<33_general caption="" />
+	
+</siteCopy>

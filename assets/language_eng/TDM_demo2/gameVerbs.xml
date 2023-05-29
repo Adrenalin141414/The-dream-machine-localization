@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_verbs caption="Нажать2" />
+	<1_verbs caption="Войти2" />
+	<2_verbs caption="Подобрать2" />
+	<3_verbs caption="Встать сюда2" />
+	<4_verbs caption="Осмотреть2" />
+	<5_verbs caption="Использовать2" />
+	<6_verbs caption="с2" />
+	<7_verbs caption="Наблюдать2" />
+	<8_verbs caption="Поднять2" />
+	<9_verbs caption="Смыть2" />
+	<10_verbs caption="Посмотреть на2" />
+	<11_verbs caption="Открыть2" />
+	<12_verbs caption="Закрыть2" />
+	<13_verbs caption="Включить2" />
+	<14_verbs caption="Выключить2" />
+	<15_verbs caption="Идти2" />
+	<16_verbs caption="Посмотреть в2" />
+	<17_verbs caption="Повесить трубку2" />
+	<18_verbs caption="Положить2" />
+	<19_verbs caption="Толкать2" />
+	<20_verbs caption="Выловить2" />
+
+</siteCopy>

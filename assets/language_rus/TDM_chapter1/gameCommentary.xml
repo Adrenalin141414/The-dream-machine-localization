@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+    <0_caption caption="Заголовок комментария указывается здесь" />
+    
+	<1_comment caption="Комментарий указывается здесь." />
+      
+    <2_extra caption="" />
+	
+</siteCopy>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+    
+    <1_achievementViewer caption="Island Life" />
+    <2_achievementViewer caption="Escape the island" />
+    
+    <3_achievementViewer caption="The New House" />
+    <4_achievementViewer caption="Explore the estate" />
+    
+    <5_achievementViewer caption="Alicia's Dream" />
+    <6_achievementViewer caption="Listen to your wife's dream" />
+    
+    <7_achievementViewer caption="Electrical Engineer" />
+    <8_achievementViewer caption="Solve the floor board puzzle" />
+    
+    <9_achievementViewer caption="End Chapter 1" />
+    <10_achievementViewer caption="Complete the first chapter" />
+    
+    <11_achievementViewer caption="'Naughty, naughty'" />
+    <12_achievementViewer caption="Solve the gramophone puzzle prematurely" />
+
+    <13_achievementViewer caption="Mind Blown" />
+    <14_achievementViewer caption="Enter your first dream" />
+
+    <15_achievementViewer caption="One Down" />
+    <16_achievementViewer caption="Kill Mr Morton's tentacle" />
+
+    <17_achievementViewer caption="'I Have A Feeling I'm Being Watched...'" />
+    <18_achievementViewer caption="Access Mr Morton's secret room" />
+
+    <19_achievementViewer caption="End Chapter 2" />
+    <20_achievementViewer caption="Complete the second chapter" />
+
+    <21_achievementViewer caption="Menial Labour" />
+    <22_achievementViewer caption="Complete the tasks" />
+
+    <23_achievementViewer caption="'I May Have Committed Some Light Arson...'" />
+    <24_achievementViewer caption="Commit arson" />
+
+    <25_achievementViewer caption="'Blackmail Is Such An Ugly Word...'" />
+    <26_achievementViewer caption="Complete the blackmail letter" />
+
+    <27_achievementViewer caption="Tend The Tender" />
+    <28_achievementViewer caption="Save the bartender from dying" />
+
+    <29_achievementViewer caption="Among The Elite" />
+    <30_achievementViewer caption="Get promoted to Command" />
+
+    <31_achievementViewer caption="Two Down" />
+    <32_achievementViewer caption="Kill Alicia's tentacle" />
+
+    <33_achievementViewer caption="End Chapter 3" />
+    <34_achievementViewer caption="Complete the third chapter" />
+
+    <35_achievementViewer caption="Doctor Sleep" />
+    <36_achievementViewer caption="Make sleeping powder" />
+
+    <37_achievementViewer caption="Party Pooper" />
+    <38_achievementViewer caption="Disrupt the tea party" />
+
+    <39_achievementViewer caption="The Teddy Bear's Lament" />
+    <40_achievementViewer caption="Listen to the teddy bear's song" />
+
+    <41_achievementViewer caption="Too Late For That" />
+    <42_achievementViewer caption="Try to escape your fate" />
+
+    <43_achievementViewer caption="'I Like To Watch'" />
+    <44_achievementViewer caption="Be a peeping tom" />
+
+    <45_achievementViewer caption="Three Down" />
+    <46_achievementViewer caption="Kill Edie's tentacle" />
+
+    <47_achievementViewer caption="End Chapter 4" />
+    <48_achievementViewer caption="Complete the fourth chapter" />
+
+    <49_achievementViewer caption="Crank Caller" />
+    <50_achievementViewer caption="Harass your neighbour, a lot" />
+
+    <51_achievementViewer caption="Angry Neighbour" />
+    <52_achievementViewer caption="Harass your neighbour, a lot" />
+
+    <53_achievementViewer caption="Move On Out" />
+    <54_achievementViewer caption="Purge the mover's dream" />
+
+    <55_achievementViewer caption="The Pumpkin Prince" />
+    <56_achievementViewer caption="Restore the pumpkin kingdom" />
+
+    <57_achievementViewer caption="Big Boy" />
+    <58_achievementViewer caption="Make the witch's potion" />
+
+    <59_achievementViewer caption="Grave Robber" />
+    <60_achievementViewer caption="Steal from the dead" />
+
+    <61_achievementViewer caption="The Secret Glades" />
+    <62_achievementViewer caption="Find a secret glade" />
+
+    <63_achievementViewer caption="Five Down" />
+    <64_achievementViewer caption="Kill Martin's and Selma's tentacles" />
+
+    <65_achievementViewer caption="'You've Always Been The Caretaker'" />
+    <66_achievementViewer caption="Continue his work" />
+
+    <67_achievementViewer caption="End Chapter 5" />
+    <68_achievementViewer caption="Complete the fifth chapter" />
+
+    <69_achievementViewer caption="Through The Looking Glass" />
+    <70_achievementViewer caption="Wake up again" />
+
+    <71_achievementViewer caption="The Ultimate Promotion" />
+    <72_achievementViewer caption="Get a new job" />
+
+    <73_achievementViewer caption="Old Friends" />
+    <74_achievementViewer caption="Meet an old friend" />
+    
+    <84_achievementViewer caption="Thy Kingdom Come" />
+    <85_achievementViewer caption="Appoint a new king" />
+
+    <76_achievementViewer caption="Heart Of Gold" />
+    <77_achievementViewer caption="Return the locket" />
+
+    <78_achievementViewer caption="Six Easy Pieces" />
+    <89_achievementViewer caption="Find all map pieces" />
+
+    <80_achievementViewer caption="End Of The Line" />
+    <81_achievementViewer caption="Solve the maze puzzle" />
+
+    <82_achievementViewer caption="Retroactive Abortion" />
+    <83_achievementViewer caption="Circumnavigate yourself" />
+
+    <84_achievementViewer caption="Deliver Unto Me" />
+    <85_achievementViewer caption="Circumnavigate yourself" />
+
+    <86_achievementViewer caption="End Chapter 6" />
+    <87_achievementViewer caption="Complete the sixth chapter" />
+
+    <88_achievementViewer caption="'I Woke Up And One of Us Was...'" />
+    <89_achievementViewer caption="Complete the game" />
+
+    <90_achievementViewer caption="Straight Flush" />
+    <91_achievementViewer caption="Flush every toilet" />
+
+    <92_achievementViewer caption="" />
+    <93_achievementViewer caption="" />
+    
+    <96_achievementViewer caption="" />
+    <97_achievementViewer caption="" />
+    
+    <98_achievementViewer caption="" />
+    <99_achievementViewer caption="" />
+    
+    <100_achievementViewer caption="" />
+    <101_achievementViewer caption="" />
+    
+    <102_achievementViewer caption="Hidden Achievement" />
+    <103_achievementViewer caption="Unlock to reveal" />
+    
+</siteCopy>

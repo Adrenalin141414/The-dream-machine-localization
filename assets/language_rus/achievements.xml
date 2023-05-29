@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+    
+    <1_achievementViewer caption="Островная Жизнь" />
+    <2_achievementViewer caption="Выбраться с острова" />
+    
+    <3_achievementViewer caption="Новый Дом" />
+    <4_achievementViewer caption="Исследуйте поместье" />
+    
+    <5_achievementViewer caption="Сон Алисии" />
+    <6_achievementViewer caption="Выслушай сон своей жены" />
+    
+    <7_achievementViewer caption="Инженер-электрик" />
+    <8_achievementViewer caption="Решите головоломку с напольной доской" />
+    
+    <9_achievementViewer caption="Завершить Главу 1" />
+    <10_achievementViewer caption="Завершите первую главу" />
+    
+    <11_achievementViewer caption="'Капризный, капризный'" />
+    <12_achievementViewer caption="Решите загадку граммофона раньше времени" />
+
+    <13_achievementViewer caption="Взорванный Разум" />
+    <14_achievementViewer caption="Войдите в свой первый сон" />
+
+    <15_achievementViewer caption="Один готов" />
+    <16_achievementViewer caption="Убить щупальце мистера Мортона" />
+
+    <17_achievementViewer caption="'У Меня Такое Чувство, Что За Мной Следят...'" />
+    <18_achievementViewer caption="Получите доступ к секретной комнате мистера Мортона." />
+
+    <19_achievementViewer caption="Завершить Главу 2" />
+    <20_achievementViewer caption="Завершите вторую главу" />
+
+    <21_achievementViewer caption="Чёрная работа" />
+    <22_achievementViewer caption="Выполнить задания" />
+
+    <23_achievementViewer caption="'Возможно, я совершил легкий поджог...'" />
+    <24_achievementViewer caption="Совершить поджог" />
+
+    <25_achievementViewer caption="'Шантаж — Такое Уродливое Слово...'" />
+    <26_achievementViewer caption="Завершить шантажирующее письмо" />
+
+    <27_achievementViewer caption="Позаботиться о Заботящемся" />
+    <28_achievementViewer caption="Спасите бармена от смерти" />
+
+    <29_achievementViewer caption="Среди Элиты" />
+    <30_achievementViewer caption="Получите повышение до командира" />
+
+    <31_achievementViewer caption="Двое готовы" />
+    <32_achievementViewer caption="Убить щупальце Алисии" />
+
+    <33_achievementViewer caption="Завершить Главу 3" />
+    <34_achievementViewer caption="Завершите третью главу" />
+
+    <35_achievementViewer caption="Доктор Сон" />
+    <36_achievementViewer caption="Сделать сонный порошок" />
+
+    <37_achievementViewer caption="Кайфоломщик на вечеринке" />
+    <38_achievementViewer caption="Сорвать чаепитие" />
+
+    <39_achievementViewer caption="Плач Плюшевого Мишки" />
+    <40_achievementViewer caption="Послушать песню плюшевого мишки" />
+
+    <41_achievementViewer caption="Слишком Поздно Для Этого" />
+    <42_achievementViewer caption="Попробуй убежать от своей судьбы" />
+
+    <43_achievementViewer caption="'Мне Нравится Наблюдать'" />
+    <44_achievementViewer caption="Будь любопытной Варварой" />
+
+    <45_achievementViewer caption="Трое Готовы" />
+    <46_achievementViewer caption="Убить щупальце Эди" />
+
+    <47_achievementViewer caption="Завершить Главу 4" />
+    <48_achievementViewer caption="Завершите четвертую главу" />
+
+    <49_achievementViewer caption="Звонящий Чудак" />
+    <50_achievementViewer caption="Беспокоить своего соседа, много" />
+
+    <51_achievementViewer caption="Злой Сосед" />
+    <52_achievementViewer caption="Беспокоить своего соседа, много" />
+
+    <53_achievementViewer caption="Двигайся Дальше" />
+    <54_achievementViewer caption="Очистите сон перевозчика" />
+
+    <55_achievementViewer caption="Тыквенный Принц" />
+    <56_achievementViewer caption="Восстановите тыквенное королевство" />
+
+    <57_achievementViewer caption="Большой Мальчик" />
+    <58_achievementViewer caption="Сделайте зелье ведьмы" />
+
+    <59_achievementViewer caption="Расхититель Гробниц" />
+    <60_achievementViewer caption="Обокрасть мертвецов" />
+
+    <61_achievementViewer caption="Тайные поляны" />
+    <62_achievementViewer caption="Найдите секретную поляну" />
+
+    <63_achievementViewer caption="Пятеро готовы" />
+    <64_achievementViewer caption="Убейте щупальца Мартина и Сельмы." />
+
+    <65_achievementViewer caption="'Вы Всегда Были Сторожем'" />
+    <66_achievementViewer caption="Продолжить его работу" />
+
+    <67_achievementViewer caption="Завершить Главу 5" />
+    <68_achievementViewer caption="Завершите пятую главу" />
+
+    <69_achievementViewer caption="Через Зазеркалье" />
+    <70_achievementViewer caption="Проснись снова" />
+
+    <71_achievementViewer caption="Максимальное Продвижение" />
+    <72_achievementViewer caption="Устроиться на новую работу" />
+
+    <73_achievementViewer caption="Старые Друзья" />
+    <74_achievementViewer caption="Встретить старого друга" />
+    
+    <84_achievementViewer caption="Да Приидет Царствие Твоё" />
+    <85_achievementViewer caption="Назначить нового короля" />
+
+    <76_achievementViewer caption="Золотое Сердце" />
+    <77_achievementViewer caption="Вернуть медальон" />
+
+    <78_achievementViewer caption="Шесть Легких Кусочков" />
+    <89_achievementViewer caption="Найти все фрагменты карты" />
+
+    <80_achievementViewer caption="Конец Линии" />
+    <81_achievementViewer caption="Решите головоломку с лабиринтом" />
+
+    <82_achievementViewer caption="Ретроактивный Аборт" />
+    <83_achievementViewer caption="Обойди себя вокруг" />
+
+    <84_achievementViewer caption="Доставьте Ко Мне" />
+    <85_achievementViewer caption="Обойди себя вокруг" />
+
+    <86_achievementViewer caption="Завершить Главу 6" />
+    <87_achievementViewer caption="Завершите шестую главу" />
+
+    <88_achievementViewer caption="'Я Проснулся, И Один из Нас Был...'" />
+    <89_achievementViewer caption="Завершить игру" />
+
+    <90_achievementViewer caption="Стрит-флеш" />
+    <91_achievementViewer caption="Смыть каждый унитаз" />
+
+    <92_achievementViewer caption="" />
+    <93_achievementViewer caption="" />
+    
+    <96_achievementViewer caption="" />
+    <97_achievementViewer caption="" />
+    
+    <98_achievementViewer caption="" />
+    <99_achievementViewer caption="" />
+    
+    <100_achievementViewer caption="" />
+    <101_achievementViewer caption="" />
+    
+    <102_achievementViewer caption="Скрытое Достижение" />
+    <103_achievementViewer caption="Разблокируйте, чтобы посмотреть" />
+    
+</siteCopy>

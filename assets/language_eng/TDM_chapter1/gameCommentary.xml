@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+    <0_caption caption="Comment header goes here" />
+    
+	<1_comment caption="Comment goes here." />
+      
+    <2_extra caption="" />
+	
+</siteCopy>

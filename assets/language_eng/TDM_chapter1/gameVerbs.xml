@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+
+	<!-- ******************************** -->
+	<!-- * Location: islandDream_island * -->
+	<!-- ******************************** -->
+	
+	<0_verbs caption="Close" />
+	<1_verbs caption="Enter" />
+	<2_verbs caption="Examine" />
+	<3_verbs caption="Flush" />
+	<4_verbs caption="Go" />
+	<5_verbs caption="Hang up" />
+	<6_verbs caption="Lift" />
+	<7_verbs caption="Look at" />
+	<8_verbs caption="Look through" />
+	<9_verbs caption="Move" />
+	<10_verbs caption="Open" />
+	<11_verbs caption="Pick up" />
+	<12_verbs caption="Press" />
+	<13_verbs caption="Push" />
+	<14_verbs caption="Put down" />
+	<15_verbs caption="Reel in" />
+	<16_verbs caption="Stand on" />
+	<17_verbs caption="Turn off" />
+	<18_verbs caption="Turn on" />
+	<19_verbs caption="Use" />
+	<20_verbs caption="Watch" />
+	<21_verbs caption="with" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_bedRoom * -->
+	<!-- ************************** -->
+
+	<22_verbs caption="Remove" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_greyRoom * -->
+	<!-- *************************** -->
+
+	<23_verbs caption="Look inside" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_hallway * -->
+	<!-- ************************** -->
+
+	<24_verbs caption="Leave" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_kitchen * -->
+	<!-- ************************** -->
+
+	<25_verbs caption="Talk to" />
+	<26_verbs caption="Turn" />
+
+
+
+	<!-- ***************************** -->
+	<!-- * Location: neff_livingRoom * -->
+	<!-- ***************************** -->
+	
+	<27_verbs caption="Sit down by" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_bathRoom * -->
+	<!-- *************************** -->
+
+	<28_verbs caption="Take" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_2 * -->
+	<!-- **************************** -->
+
+	<29_verbs caption="Call" />
+	<30_verbs caption="Exit" />
+	<31_verbs caption="Ring" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_1 * -->
+	<!-- **************************** -->
+
+	<32_verbs caption="End" />
+
+	<!-- * morton_window * -->
+	<33_verbs caption="Raise" />
+
+</siteCopy>

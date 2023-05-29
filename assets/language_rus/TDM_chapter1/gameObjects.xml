@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<!-- ******************************** -->
+	<!-- * Location: islandDream_island * -->
+	<!-- ******************************** -->
+
+	<0_objects caption="кострище" />
+	<1_objects caption="рыбу" />
+	<2_objects caption="удочку" />
+	<3_objects caption="разветвлённую ветку" />
+	<4_objects caption="жареную рыбу" />
+	<5_objects caption="землю" />
+	<6_objects caption="яму" />
+	<7_objects caption="карту" />
+	<8_objects caption="зажигалку" />
+	<9_objects caption="океан" />
+	<10_objects caption="деревяшку" />
+	<11_objects caption="камень" />
+	<12_objects caption="лопату" />
+	<13_objects caption="три деревяшки" />
+	<14_objects caption="деревья" />
+	<15_objects caption="две деревяшки" />
+	<16_objects caption="обломки" />	
+	<17_objects caption="червяка" />
+	<18_objects caption="себя" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_bedRoom * -->
+	<!-- ************************** -->
+
+	<19_objects caption="будильник" />
+	<20_objects caption="кровать" />
+	<21_objects caption="коробку" />
+	<22_objects caption="коробки" />	
+	<23_objects caption="кнопку" />
+	<24_objects caption="камеру" />
+	<25_objects caption="половицу" />
+	<26_objects caption="лампу" />
+	<27_objects caption="детскую" />
+	<28_objects caption="картину" />
+	<29_objects caption="подушку" />
+	<30_objects caption="батарею" />
+	<31_objects caption="вентиляционную решётку" />
+	<32_objects caption="окно" />
+
+	<!-- * hole * -->
+	<33_objects caption="сгоревший предохранитель" />
+	<34_objects caption="предохранитель" />
+	<35_objects caption="устройство" />
+	<36_objects caption="машину" />
+	<37_objects caption="измеритель" />
+	<38_objects caption="резистор" />
+	<39_objects caption="разъём" />
+	<40_objects caption="переключатель" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_greyRoom * -->
+	<!-- *************************** -->
+
+	<41_objects caption="гитару" />
+	<42_objects caption="спальню" />
+	<43_objects caption="прихожую" />
+	<44_objects caption="кухню" />
+	<45_objects caption="розетку" />
+	<46_objects caption="телефон" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_hallway * -->
+	<!-- ************************** -->
+
+	<47_objects caption="квартиру" />
+	<48_objects caption="ключ от квартиры" />
+	<49_objects caption="пальто" />
+	<50_objects caption="дверь" />
+	<51_objects caption="домофон" />
+	<52_objects caption="конверт" />
+	<53_objects caption="крючок" />
+	<54_objects caption="письмо" />
+	<55_objects caption="почту" />
+	<56_objects caption="телефонную розетку" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_kitchen * -->
+	<!-- ************************** -->
+
+	<57_objects caption="Alicia" />
+	<58_objects caption="ванную" />
+	<59_objects caption="кран с холодной водой" />
+	<60_objects caption="шкафчик" />
+	<61_objects caption="выдвижной ящик" />
+	<62_objects caption="пустую коробку" />
+	<63_objects caption="пол" />
+	<64_objects caption="холодильник" />
+	<65_objects caption="гостиную" />
+	<66_objects caption="духовку" />
+	<67_objects caption="раковину" />
+	<68_objects caption="плиту" />
+	<69_objects caption="кран с тёплой водой" />
+
+
+
+	<!-- ***************************** -->
+	<!-- * Location: neff_livingRoom * -->
+	<!-- ***************************** -->
+
+	<70_objects caption="пепельницу" />
+	<71_objects caption="скомканную бумагу" />
+	<72_objects caption="обрывки письма" />
+	<73_objects caption="растения" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_bathRoom * -->
+	<!-- *************************** -->
+
+	<74_objects caption="детское масло" />
+	<75_objects caption="кондиционер" />
+	<76_objects caption="крышку" />
+	<77_objects caption="зеркало" />
+	<78_objects caption="отражение в зеркале" />
+	<79_objects caption="шампунь" />
+	<80_objects caption="душ" />
+	<81_objects caption="лосьон для кожи" />
+	<82_objects caption="унитаз" />
+	<83_objects caption="вешалку для полотенец" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_2 * -->
+	<!-- **************************** -->
+
+	<84_verbs caption="кнопку сигнала тревоги" />
+	<85_verbs caption="дверь кладовки" />
+	<86_verbs caption="дверной звонок" />
+	<87_verbs caption="лифт" />
+	<88_verbs caption="кнопку 1-го этажа" />
+	<89_verbs caption="кнопку 2-го этажа" />
+	<90_verbs caption="кнопку 3-го этажа" />
+	<91_verbs caption="замочную скважину" />
+	<92_verbs caption="дверь квартиры слева" />
+	<93_verbs caption="дверь на лестничную клетку" />
+	<94_verbs caption="свою квартиру" />
+	<95_verbs caption="дверь своей квартиры" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_3 * -->
+	<!-- **************************** -->
+
+	<96_verbs caption="уборочный инвентарь" />
+	<97_verbs caption="дверь квартиры справа" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_1 * -->
+	<!-- **************************** -->
+
+	<98_verbs caption="Главу 1" />
+	<99_verbs caption="дверь слева" />
+	<100_verbs caption="лобби" />
+
+	<!-- * morton_window * -->
+	<101_verbs caption="штемпельную подушку" />	
+	<102_verbs caption="ключ" />
+	<103_verbs caption="ключ от офиса Мортона" />
+	<104_verbs caption="щель" />
+	<105_verbs caption="штамп" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: estate_lobby * -->
+	<!-- ************************** -->
+
+	<106_verbs caption="визитную карточку" />
+	<107_verbs caption="вешалку" />
+	<108_verbs caption="монтировку" />
+	<109_verbs caption="почтовые ящики" />
+	<110_verbs caption="грузчик" />
+	<111_verbs caption="диван" />
+
+	<!-- * mail_boxes * -->
+	<112_verbs caption="первый почтовый ящик" />	
+	<113_verbs caption="второй почтовый ящик" />	
+	<114_verbs caption="третий почтовый ящик" />
+	<115_verbs caption="четвёртый почтовый ящик" />
+	<116_verbs caption="пятый почтовый ящик" />
+	<117_verbs caption="шестой почтовый ящик" />
+	
+</siteCopy>

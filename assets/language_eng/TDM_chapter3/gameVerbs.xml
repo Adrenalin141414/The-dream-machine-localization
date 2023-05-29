@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_verbs caption="Press" />
+	<1_verbs caption="Enter" />
+	<2_verbs caption="Pick up" />
+	<3_verbs caption="Stand on" />
+	<4_verbs caption="Examine" />
+	<5_verbs caption="Use" />
+	<6_verbs caption="with" />
+	<7_verbs caption="Watch" />
+	<8_verbs caption="Lift" />
+	<9_verbs caption="Flush" />
+	<10_verbs caption="Look at" />
+	<11_verbs caption="Open" />
+	<12_verbs caption="Close" />
+	<13_verbs caption="Turn on" />
+	<14_verbs caption="Turn off" />
+	<15_verbs caption="Go" />
+	<16_verbs caption="Look through" />
+	<17_verbs caption="Hang up" />
+	<18_verbs caption="Put down" />
+	<19_verbs caption="Push" />
+	<20_verbs caption="Reel in" />
+
+</siteCopy>

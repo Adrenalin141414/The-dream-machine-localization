@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_speech caption="" action="" />
+	<1_speech caption="This shouldn't be possible yet." action="Use master key with keyhole" />
+	<2_speech caption="I'd rather hold on to the fish." action="Use fish with forked branch" />
+	<3_speech caption="I don't think he needs it; he probably has a master key." action="Use apartment key with Mr Morton" />
+	<4_speech caption="He's clearly untrustworthy." action="Use apartment key with mover" />
+	<5_speech caption="That would destroy the letter completely." action="Use letter pieces with sink" />
+	<6_speech caption="I think it would be better just to place it on the floor." action="Use empty box with radiator" />
+	<7_speech caption="I don't think he cares about this letter, or much else for that matter." action="Use letter with mover" />
+	<8_speech caption="It's too short, it won't give me enough leverage." action="Use apartment key with floorboard" />
+	<9_speech caption="I think there's a better spot to place them." action="Use three pieces of wood with ground" />
+	<10_speech caption="He hired the realtor, I'm sure he's seen it already." action="Use letter with Mr Morton" />
+	<11_speech caption="Nice work, Victor!" action="Use apartment key with Alicia" />
+	<12_speech caption="I don't think it would bite." action="Use fishing rod with rock" />
+	<13_speech caption="I think there's better uses for them." action="Use three pieces of wood with forked branch" />
+	<14_speech caption="The rock doesn't look hungry." action="Use grilled fish with rock" />
+	<15_speech caption="I don't want to use it on myself." action="Use empty box with yourself" />
+	<16_speech caption="-------condition-------" action="Use letter with Alicia" caption1="She's on the phone." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="She's too far away." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<17_speech caption="I don't want to throw it in the ocean, it might be useful." action="Use map with ocean" />
+	<18_speech caption="Why? To make baby keys?" action="Use apartment key with key" />
+	<19_speech caption="I can't reach it." action="Use crowbar with ventilation grate" />
+	<20_speech caption="That would only make them soggy and harder to read." action="Use letter pieces with warm water tap" />
+	<21_speech caption="Why would I want to smear the letter in lemon juice?" action="Use letter with lemon" />
+	<22_speech caption="I'd love to, but I'm afraid I need him." action="Use worm with ocean" />
+	<23_speech caption="I could make this look like a pirate letter if I burned the edges." action="Use letter with stove" />
+	<24_speech caption="Yeah, that rock could use some style." action="Use map with rock" />
+	<25_speech caption="To flush or to snort?" action="Use letter pieces with lid" />
+	<26_speech caption="I don't want to add the fishing rod to the kindling pile." action="Use piece of wood with fishing rod" />
+	<27_speech caption="I don't want to add the fishing rod to the kindling pile." action="Use two pieces of wood with fishing rod" />
+	<28_speech caption="I don't want to add the shovel to the kindling pile." action="Use two pieces of wood with shovel" />
+	<29_speech caption="I don't want to add the fishing rod to the kindling pile." action="Use three pieces of wood with fishing rod" />
+	<30_speech caption="-------condition-------" action="Use piece of wood with fish" caption1="That seems to have killed the fish." condition1="checkState('killed_fish') == false" caption2="The fish is already dead, and I don't want to reduce it to a pulp." condition2="checkState('killed_fish') == true" />
+	<31_speech caption="-------condition-------" action="Use two pieces of wood with fish" caption1="That seems to have killed the fish." condition1="checkState('killed_fish') == false" caption2="The fish is already dead, and I don't want to reduce it to a pulp." condition2="checkState('killed_fish') == true" />
+	<32_speech caption="-------condition-------" action="Use three pieces of wood with fish" caption1="That seems to have killed the fish." condition1="checkState('killed_fish') == false" caption2="The fish is already dead, and I don't want to reduce it to a pulp." condition2="checkState('killed_fish') == true" />
+	<33_speech caption="Mirror, mirror, on the wall, who's the greasiest of them all?" action="Use baby oil with mirror" />
+	<34_speech caption="That's a good idea but I don't think the pieces needs to be flipped in order to be readable." action="Use letter pieces with mirror" />
+	<35_speech caption="I don't want to set it on fire." action="Use lighter with forked branch" />
+	<36_speech caption="Nah, he already knows the address." action="Use envelope with mover" />
+	<37_speech caption="Why did you want to show me that, mr Neff?" action="Use envelope with Mr Morton" />
+	<38_speech caption="They're too flimsy." action="Use letter pieces with opening" />
+	<39_speech caption="There's enough litter in this city already." action="Use letter pieces with window" />
+	<40_speech caption="Paper is a bad conductor of electricity." action="Use letter pieces with fuse" />
+	<41_speech caption="I'd better hold on to them." action="Use letter pieces with left apartment door" />
+	<42_speech caption="It already has a faint citrus scent." action="Use baby oil with lemon" />
+	<43_speech caption="I think it's better to put it in the middle of the room." action="Use empty box with plants" />
+	<44_speech caption="Why? To use as bait for bigger fish?" action="Use grilled fish with fishing rod" />
+	<45_speech caption="It's not an automatic treasure finding shovel." action="Use map with shovel" />
+	<46_speech caption="Room temperature is plenty." action="Use baby oil with warm water" />
+	<47_speech caption="The envelope is now uselessly lemon scented." action="Use envelope with lemon" />
+	<48_speech caption="I don't need to burn it." action="Use envelope with stove" />
+	<49_speech caption="Believe me, there's been times when I've felt like it, but I still love her to death and could never knowingly harm her." action="Use crowbar with Alicia" />
+	<50_speech caption="The map indicates where to dig. It's useless in itself." action="Use map with forked branch" />
+	<51_speech caption="I think they're too useful to just throw in the ocean." action="Use two pieces of wood with ocean" />
+	<52_speech caption="I think they're too useful to just throw in the ocean." action="Use three pieces of wood with ocean" />
+	<53_speech caption="Why would I want to do that? He seems perfectly agreeable." action="Use crowbar with Mr Morton" />
+	<54_speech caption="They're too flimsy." action="Use letter pieces with key" />
+	<55_speech caption="I don't want to destroy what doesn't belong to us." action="Use crowbar with painting" />
+	<56_speech caption="I need to find an outlet for the phone." action="Use telephone with boxes" />
+	<57_speech caption="The map only indicates where to dig. It's useless in itself." action="Use map with fishing rod" />
+	<58_speech caption="The map only indicates where to dig. It's useless in itself." action="Use shovel with map" />
+	<59_speech caption="They're already dead. No need to kill them further." action="Use baby oil with plants" />
+	<60_speech caption="No, that would be a senseless waste of a tasty fish." action="Use grilled fish with ocean" />
+	<61_speech caption="I won't be able to open it." action="Use baby oil with ventilation grate" />
+	<62_speech caption="It's usefull for fishing, I don't want to set it on fire." action="Use lighter with forked branch" />
+	<63_speech caption="No, having a soft place to sleep really comes in handy sometimes." action="Use crowbar with bed" />
+	<64_speech caption="No, a radiator might come in handy during the winter." action="Use crowbar with radiator" />
+	<65_speech caption="No, it's useful for fishing." action="Use lighter with fishing rod" />
+	<66_speech caption="No way!" action="Use baby oil with guitar" />
+	<67_speech caption="The map only indicates where something is burried, but I can't use it for digging!" action="Use map with ground" />
+	<68_speech caption="No, it has already been cooked enough." action="Use grilled fish with fireplace" />
+	<69_speech caption="No, it might be useful for something." action="Use worm with fireplace" />
+	<70_speech caption="I don't want to smash the poor thing." action="Use worm with rock" />
+	<71_speech caption="Greasing up radiators is not part of my job description." action="Use baby oil with radiator" />
+	<72_speech caption="No, there's probably a better use for this box." action="Use empty box with boxes" />
+	<73_speech caption="I'll leave the destruction of the ugly lamp to Alicia." action="Use crowbar with lamp" />
+	<74_speech caption="I don't need to call her, she's standing right in front of me." action="Use telephone with Alicia" />
+	<75_speech caption="That would likely cause a short." action="Use baby oil with lamp" />
+	<76_speech caption="That would probably only result in the wick getting wet." action="Use lighter with ocean" />
+	<77_speech caption="I don't know how to pick locks, and I don't think a coat hanger is thin enough." action="Use coat hanger with keyhole" />
+	<78_speech caption="-------condition-------" action="Use envelope with Alicia" caption1="She's on the phone." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="She's too far away." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<79_speech caption="I don't want to chuck the box out the window." action="Use empty box with window" />
+	<80_speech caption="I don't need to smash them against the rock." action="Use three pieces of wood with rock" />
+	<81_speech caption="No, there's better uses for a tasty fish." action="Use grilled fish with forked branch" />
+	<82_speech caption="It's already quite dead." action="Use shovel with grilled fish" />
+	<83_speech caption="I don't know how to pick locks." action="Use coat hanger with door" />
+	<84_speech caption="It's already quite dead." action="Use grilled fish with shovel" />
+	<85_speech caption="No way, Alicia would kill me!" action="Use baby oil with coat" />
+	<86_speech caption="I don't need to break them." action="Use crowbar with boxes" />
+	<87_speech caption="I don't need to break it." action="Use crowbar with box" />
+	<88_speech caption="I don't need to hide them." action="Use letter pieces with plants" />
+	<89_speech caption="It's ringing just fine by itself." action="Use telephone with alarm clock" />
+	<90_speech caption="I'd call them an ambulance, but they're already dead." action="Use telephone with plants" />
+	<91_speech caption="I don't need to smash them." action="Use shovel with three pieces of wood" />
+	<92_speech caption="Cheesy as it may be, I don't want to ruin it." action="Use baby oil with painting" />
+	<93_speech caption="No, they're handy for hanging clothes on." action="Use crowbar with hook" />
+	<94_speech caption="Shining light through it won't reveal anything new." action="Use letter pieces with lamp" />
+	<95_speech caption="This room is ventilated enough as it is." action="Use crowbar with window" />
+	<96_speech caption="No way!" action="Use crowbar with guitar" />
+	<97_speech caption="I don't know how to pick locks." action="Use coat hanger with right door" />
+	<98_speech caption="I don't know how to pick locks." action="Use coat hanger with left door" />
+	<99_speech caption="There's no need to grease it up." action="Use baby oil with fridge" />
+	<100_speech caption="I can lift it with my bare hands." action="Use crowbar with lid" />
+	<101_speech caption="'Fridge, phone home!'" action="Use telephone with fridge" />
+	<102_speech caption="No, Alicia would only make me buy a new one." action="Use crowbar with mirror" />
+	<103_speech caption="Placing the pieces in the fridge won't make them easier to read." action="Use letter pieces with fridge" />
+	<104_speech caption="No, I prefer my windows clean." action="Use baby oil with window" />
+	<105_speech caption="They're already dead." action="Use crowbar with plants" />
+	<106_speech caption="Alicia wouldn't appreciate me ruining her favorite coat." action="Use crowbar with coat" />
+	<107_speech caption="Kinky!" action="Use baby oil with bed" />
+	<108_speech caption="That would probably cook it eventually, but it would take ages!" action="Use lighter with fish" />
+	<109_speech caption="It's not the flammable kind of rock!" action="Use lighter with rock" />
+	<110_speech caption="I'm not ready to die quite yet!" action="Use crowbar with power outlet" />
+	<111_speech caption="I won't be able to open it." action="Use apartment key with ventilation grate" />
+	<112_speech caption="The door jam has been fixed already." action="Use crowbar with elevator" />
+	<113_speech caption="The would only result in a huge mess." action="Use crowbar with sink" />
+	<114_speech caption="No, this stove will be useful in the years to come." action="Use crowbar with stove" />
+	<115_speech caption="I don't need to hide them." action="Use letter pieces with ventilation grate" />
+	<116_speech caption="I don't need a key to operate the elevator." action="Use apartment key with elevator" />
+	<117_speech caption="I need to unfold it if I am to heat it evenly." action="Use crumpled paper with stove" />
+	<118_speech caption="I don't need to break the cleaning gear." action="Use crowbar with gear" />
+	<119_speech caption="Yes, but where specifically?" action="Use apartment key with hole" />
+	<120_speech caption="I think it might be more useful with something else." action="Use worm with forked branch" />
+	<121_speech caption="There's enough violence in the world already." action="Use worm with shovel" />
+	<122_speech caption="I think fish prefer them raw." action="Use worm with lighter" />
+	<123_speech caption="The sofa is stuck, I won't be able to move it." action="Use apartment key with sofa" />
+	<124_speech caption="No, the text isn't written backwards." action="Use crumpled paper with mirror" />
+	<125_speech caption="The signal is pretty annoying, but until I've bought a replacment this clock will have to do." action="Use crowbar with alarm clock" />
+	<126_speech caption="It's probably better if I unfold it first." action="Use crumpled paper with Alicia" />
+	<127_speech caption="The soil won't sustain a fire." action="Use lighter with ground" />
+	<128_speech caption="The wood is more useful somewhere else." action="Use piece of wood with forked branch" />
+	<129_speech caption="I'd rather hang clothes I'm not currently wearing." action="Use coat hanger with yourself" />
+	<130_speech caption="That would ruin the mechanism." action="Use baby oil with alarm clock" />
+	<131_speech caption="Alicia would kill me." action="Use baby oil with pillow" />
+	<132_speech caption="'Guitar, phone home!'." action="Use telephone with guitar" />
+	<133_speech caption="'Guitar, phone home!'" action="Use telephone with guitar" />
+	<134_speech caption="I prefer it dry." action="Use baby oil with box" />
+	<135_speech caption="It's a bit dirty, but I only think that works on silver and brass." action="Use apartment key with lemon" />
+	<136_speech caption="I'd rather hold onto them." action="Use letter pieces with boxes" />
+	<137_speech caption="'Radiator, phone home!'" action="Use telephone with radiator" />
+	<138_speech caption="No, it's more useful for digging." action="Use lighter with shovel" />
+	<139_speech caption="I'm not willing to commit a crime unless I have a damn good reason." action="Use crowbar with keyhole" />
+	<140_speech caption="Mmmm... Lukewarm babyoil. My favorite!" action="Use baby oil with warm water tap" />
+	<141_speech caption="No, that might cause a short." action="Use baby oil with power outlet" />
+	<142_speech caption="No, that might cause a short." action="Use baby oil with right power outlet" />
+	<143_speech caption="No, that might cause a short." action="Use baby oil with left power outlet" />
+	<144_speech caption="A portable phone, small enough to wear in your coat pocket? Those exist already, and this isn't one of them." action="Use telephone with coat" />
+	<145_speech caption="No, I prefer it off the hook." action="Use telephone with hook" />
+	<146_speech caption="The fridge door isn't locked." action="Use crowbar with fridge" />
+	<147_speech caption="Yeah, but which one more specifically?" action="Use apartment key with mail boxes" />
+	<148_speech caption="Phone-on-lamp action is my third favorite type of houshold item porn." action="Use telephone with lamp" />
+	<149_speech caption="There's no hook loop on the bottle." action="Use baby oil with hook" />
+	<150_speech caption="If this was a wrestling match, I'd put my money on the crowbar." action="Use crowbar with lemon" />
+	<151_speech caption="Water will only make the ink run." action="Use letter pieces with cold water tap" />
+	<152_speech caption="What would I possibly want to fish on land?" action="Use fishing rod with ground" />
+	<153_speech caption="I don't need to tamper with the electronics." action="Use crowbar with right power outlet" />
+	<154_speech caption="I don't need to tamper with the electronics." action="Use crowbar with left power outlet" />
+	<155_speech caption="If it could read, I'm sure it would be facinated." action="Use letter pieces with elevator" />
+	<156_speech caption="I'd rather hold onto them." action="Use letter pieces with first mailbox" />
+	<157_speech caption="I'd rather hold onto them." action="Use letter pieces with second mailbox" />
+	<158_speech caption="I'd rather hold onto them." action="Use letter pieces with third mailbox" />
+	<159_speech caption="I'd rather hold onto them." action="Use letter pieces with forth mailbox" />
+	<160_speech caption="I'd rather hold onto them." action="Use letter pieces with fifth mailbox" />
+	<161_speech caption="I'd rather hold onto them." action="Use letter pieces with sixth mailbox" />
+	<162_speech caption="The lid doesn't need to be propped up." action="Use coat hanger with lid" />
+	<163_speech caption="There's no telephone outlet in the bathroom." action="Use telephone with lid" />
+	<164_speech caption="I don't need to open it, and this hanger would be too flimsy if I did." action="Use coat hanger with ventilation grate" />
+	<165_speech caption="This isn't a tuning key." action="Use apartment key with guitar" />
+	<166_speech caption="No, no, no." action="Use coat hanger with Alicia" />
+	<167_speech caption="I have no need for a torch in this bright sunlight." action="Use lighter with piece of wood" />
+	<168_speech caption="That's a good idea but maybe I should place them somewhere first." action="Use lighter with two pieces of wood" />
+	<169_speech caption="That's a good idea but maybe I should place them somewhere first." action="Use lighter with three pieces of wood" />
+	<170_speech caption="I don't need to klobber the poor thing." action="Use worm with piece of wood" />
+	<171_speech caption="I don't need to klobber the poor thing." action="Use worm with two pieces of wood" />
+	<172_speech caption="I don't need to klobber the poor thing." action="Use worm with three pieces of wood" />
+	<173_speech caption="I've baited the hook with the worm." action="Use worm with fishing rod" />
+	<174_speech caption="-------condition-------" action="Use shovel with fish" caption1="That seems to have killed the fish." condition1="checkState('killed_fish') == false" caption2="The fish is already dead, and I don't want to reduce it to a pulp." condition2="checkState('killed_fish') == true" />
+	<175_speech caption="That would only make a mess." action="Use baby oil with letter pieces" />
+	<176_speech caption="That would only make it harder to read." action="Use baby oil with letter" />
+	<177_speech caption="I can open it with my hands." action="Use baby oil with mail" />
+	<178_speech caption="That doesn't seem to need any lubrication." action="Use baby oil with envelope" />
+	<179_speech caption="I don't want to put it back in there." action="Use letter with envelope" />
+	<180_speech caption="I don't need to put them in the envelope." action="Use letter pieces with envelope" />
+	<181_speech caption="I'm pretty sure that would break the phone." action="Use baby oil with telephone" />
+	<182_speech caption="The phone is too big to fit in the envelope." action="Use telephone with envelope" />
+	<183_speech caption="That's not how you use a crowbar." action="Use crowbar with coat hanger" />
+	<184_speech caption="No, I can't bare to hook the poor thing again." action="Use fish with fishing rod" />
+	<185_speech caption="No, I can't dig that." action="Use shovel with fishing rod" />
+	<186_speech caption="I'd better not tamper with the fuse right now." action="Use coat hanger with fuse" />
+	<187_speech caption="I don't need to put it back." action="Use coat hanger with sofa" />
+	<188_speech caption="It would be fun to force him to swallow it, but Alicia wouldn't approve." action="Use coat hanger with mover" />
+	<189_speech caption="I can remove the fuse with my hands." action="Use coat hanger with burned fuse" />
+	<190_speech caption="No way! I might scratch it." action="Use coat hanger with guitar" />
+	<191_speech caption="Yeah, because nobody likes cold coat hangers." action="Use coat hanger with radiator" />
+	<192_speech caption="I don't need to store it." action="Use coat hanger with box" />
+	<193_speech caption="I don't need to store it." action="Use coat hanger with boxes" />
+	<194_speech caption="Messing with that lamp will probably get me electrocuted." action="Use coat hanger with lamp" />
+	<195_speech caption="I don't think he'd like it." action="Use coat hanger with Mr Morton" />
+	<196_speech caption="I might be able to improve it, but I still think Alicia would want me to get rid of it." action="Use coat hanger with painting" />
+	<197_speech caption="I don't need to mess with the doors." action="Use coat hanger with left apartment door" />
+	<198_speech caption="I don't need to mess with the doors." action="Use coat hanger with right apartment door" />
+	<199_speech caption="Messing with the doors won't make a good first impression on the neighbors." action="Use coat hanger with right apartment" />
+	<200_speech caption="I don't need to mess with the doors." action="Use coat hanger with your apartment door" />
+	<201_speech caption="Messing with the doors won't make a good first impression on the neighbors." action="Use coat hanger with your apartment" />
+	<202_speech caption="There's no need to cook the coat hanger." action="Use coat hanger with stove" />
+	<203_speech caption="I'd rather not mess with it. It's in good working condition." action="Use coat hanger with alarm clock" />
+	<204_speech caption="Coat hangers need to sleep too." action="Use coat hanger with bed" />
+	<205_speech caption="It's not hangable." action="Use coat hanger with gear" />
+	<206_speech caption="They're dead already." action="Use coat hanger with plants" />
+	<207_speech caption="The view is so nice I'd like to frame it and hang it!" action="Use coat hanger with window" />
+	<208_speech caption="I'd like to mess with it, but I also know better than to tamper with evidence." action="Use coat hanger with camera" />
+	<209_speech caption="It's already quite cool." action="Use coat hanger with fridge" />
+	<210_speech caption="I see myself holding a coat hanger!" action="Use coat hanger with mirror" />
+	<211_speech caption="It's already clean." action="Use coat hanger with sink" />
+	<212_speech caption="You open it, I've got my hands full." action="Use mail with Alicia" />
+	<213_speech caption="Yeah, it might be raw in the centre." action="Use apartment key with stove" />
+	<214_speech caption="There's probably a better use for this box." action="Use empty box with box" />
+	<215_speech caption="Time for some raunchy box-on-box action!" action="Use empty box with boxes" />
+	<216_speech caption="Do cardboard boxes dream of cardboard sheep!" action="Use empty box with bed" />
+	<217_speech caption="Covering it won't make it go away." action="Use empty box with floorboard" />
+	<218_speech caption="It's not torn letter bedtime yet." action="Use letter pieces with bed" />
+	<219_speech caption="I could create a modern art masterpiece with this!" action="Use letter pieces with painting" />
+	<220_speech caption="I could create a modern art masterpiece with this!" action="Use crumpled paper with painting" />
+	<221_speech caption="I could create a modern art masterpiece with this!" action="Use telephone with painting" />
+	<222_speech caption="Slipping them through the cracks won't do any good." action="Use letter pieces with floorboard" />
+	<223_speech caption="Slipping it through the cracks won't do any good." action="Use letter with floorboard" />
+	<224_speech caption="Slipping it through the cracks won't do any good." action="Use mail with floorboard" />
+	<225_speech caption="That would only make it harder to read." action="Use letter with sink" />
+	<226_speech caption="I prefer soft pillows." action="Use coat hanger with pillow" />
+	<227_speech caption="I think she'd prefer a love letter." action="Use mail with pillow" />
+	<228_speech caption="I'd rather not tamper with the fuse." action="Use envelope with fuse" />
+	<229_speech caption="Slipping it between the cracks won't do any good." action="Use envelope with floorboard" />
+	<230_speech caption="I can lift the lid without assistance." action="Use envelope with lid" />
+	<231_speech caption="It's not the right tool for this job." action="Use crowbar with key" />
+	<232_speech caption="I don't want to put it back." action="Use telephone with box" />
+	<233_speech caption="I don't want to put it back." action="Use telephone with boxes" />
+	<234_speech caption="'Hello? Anyone down there?'" action="Use telephone with floorboard" />
+	<235_speech caption="I'd like to, but cooking it would make it unusable." action="Use telephone with stove" />
+	<236_speech caption="It already has a fishing float." action="Use fishing rod with piece of wood" />
+	<237_speech caption="I don't need to dilute it." action="Use baby oil with cold water tap" />
+	<238_speech caption="Electronics and water is a bad combination." action="Use telephone with cold water tap" />
+	<239_speech caption="Electronics and water is a bad combination." action="Use telephone with warm water tap" />
+	<240_speech caption="Electronics and water is a bad combination." action="Use telephone with sink" />
+	<241_speech caption="It's not the telephone's bedtime yet." action="Use telephone with bed" />
+	<242_speech caption="I'm useless at pillow talk." action="Use telephone with pillow" />
+	<243_speech caption="I can't fit this through the grate." action="Use telephone with ventilation grate" />
+	<244_speech caption="If I wanted to contact the outside world, I could just open the window and shout." action="Use telephone with window" />
+	<245_speech caption="I prefer it non-slippery." action="Use baby oil with apartment key" />
+	<246_speech caption="-------condition-------" action="Use baby oil with floor" caption1="'Create a death trap in the convenience of your own home!'" caption2="'Fun for the whole family!'" condition="speechEvent" />
+	<247_speech caption="That wouldn't make a good first impression on the neighbors." action="Use baby oil with right door" />
+	<248_speech caption="That wouldn't make a good first impression on the neighbors." action="Use baby oil with left door" />
+	<249_speech caption="I don't need to store it." action="Use baby oil with box" />
+	<250_speech caption="I don't need to store it." action="Use baby oil with boxes" />
+	<251_speech caption="I don't need to block the camera." action="Use letter with camera" />
+	<252_speech caption="No amount of trickery will bring these plants back to life." action="Use crumpled paper with plants" />
+	<253_speech caption="Она слишком большая, чтобы поместить ее в раковину." action="Use empty box with sink" />
+	<254_speech caption="I'd rather hold onto it." action="Use letter with lid" />
+	<255_speech caption="I don't need to block the camera." action="Use envelope with camera" />
+	<256_speech caption="I'd rather hold onto it." action="Use apartment key with coat" />
+	<257_speech caption="I'd rather hold onto them." action="Use letter pieces with first mailbox" />
+	<258_speech caption="I'd rather hold onto them." action="Use letter pieces with second mailbox" />
+	<259_speech caption="I'd rather hold onto them." action="Use letter pieces with third mailbox" />
+	<260_speech caption="I'd rather hold onto them." action="Use letter pieces with fourth mailbox" />
+	<261_speech caption="I'd rather hold onto them." action="Use letter pieces with fifth mailbox" />
+	<262_speech caption="I'd rather hold onto them." action="Use letter pieces with sixth mailbox" />
+	<263_speech caption="There's no lock on the bed." action="Use apartment key with bed" />
+	<264_speech caption="I beat the stuffing out of the pillow." action="Use crowbar with pillow" />
+	<265_speech caption="I can't reach that high." action="Use envelope with ventilation grate" />
+	<266_speech caption="The letter isn't big enough to cover the ugly painting." action="Use letter with painting" />
+	<267_speech caption="I'd need to put it in a bottle first." action="Use mail with painting" />
+	<268_speech caption="I'd rather hold onto them." action="Use letter pieces with floor" />
+	<269_speech caption="I'd rather hold onto it." action="Use crumpled paper with floor" />
+	<270_speech caption="I'd rather hold onto it." action="Use letter with floor" />
+	<271_speech caption="I'd rather hold onto it." action="Use envelope with floor" />
+	<272_speech caption="I'd rather hold onto it." action="Use mail with floor" />
+	<273_speech caption="I'd rather hold onto them." action="Use letter pieces with sofa" />
+	<274_speech caption="I'd rather hold onto it." action="Use envelope with sink" />
+	<275_speech caption="There's no visible lock on the painting." action="Use apartment key with painting" />
+	<276_speech caption="I can't reach that high." action="Use empty box with ventilation grate" />
+	<277_speech caption="I don't need to block the camera." action="Use letter pieces with camera" />
+	<278_speech caption="I'd rather hold onto it." action="Use apartment key with box" />
+	<279_speech caption="I'd rather hold onto it." action="Use letter with coat" />
+	<280_speech caption="I don't have any fridge magnets." action="Use letter with fridge" />
+	<281_speech caption="I think it'll keep in room temperature." action="Use mail with fridge" />
+	<282_speech caption="I think it'll keep in room temperature." action="Use crumpled paper with fridge" />
+	<283_speech caption="A flimsy letter won't get this sofa free." action="Use letter with sofa" />
+	<284_speech caption="It's not diggable." action="Use shovel with piece of wood" />
+	<285_speech caption="I don't want to mess with Mr Morton's office equipment." action="Use letter pieces with stamp" />
+	<286_speech caption="Shining light through it won't reveal anything new." action="Use envelope with lamp" />
+	<287_speech caption="They look plenty rested." action="Use letter pieces with pillow" />
+	<288_speech caption="There's no hook loop on the bottle." action="Use baby oil with towel hanger" />
+	<289_speech caption="Hanger-on-hanger is my favorite type of household item porn." action="Use coat hanger with towel hanger" />
+	<290_speech caption="The guitar is too big to fit in this box." action="Use empty box with guitar" />
+	<291_speech caption="I'd rather hold onto it." action="Use letter with door" />
+	<292_speech caption="It's probably best if I just use my hands to handle it." action="Use crumpled paper with lid" />
+	<293_speech caption="You got mail!" action="Use letter with mirror" />
+	<294_speech caption="You got mail!" action="Use mail with mirror" />
+	<295_speech caption="-------condition-------" action="Use telephone with letter" caption1="I've committed the number to memory." condition1="checkState('neff_letter_read') == true" caption2="I need to read the letter first." condition2="checkState('neff_letter_read') == false" />
+	<296_speech caption="The box is too big to fit in the fridge." action="Use empty box with fridge" />
+	<297_speech caption="I don't need to store it." action="Use baby oil with empty box" />
+	<298_speech caption="There's no lock on it." action="Use apartment key with sink" />
+	<299_speech caption="Rinsing it with water would probably destroy it." action="Use crumpled paper with sink" />
+	<300_speech caption="I can probably unfold it with my hands." action="Use crumpled paper with lid" />
+	<301_speech caption="KS marB &#10; 21 tserC tnoPuD &#10; ffeN srM &amp; rM" action="Use envelope with mirror" />
+	<302_speech caption="I'd rather hold on to it." action="Use envelope with door" />
+	<303_speech caption="I'd rather hold on to them." action="Use letter pieces with door" />
+	<304_speech caption="Are you the Gatekeeper?" action="Use apartment key with mirror" />
+	<305_speech caption="Are you the Gatekeeper?" action="Use apartment key with lamp" />
+	<306_speech caption="Casually throwing keys out windows is a really bad idea." action="Use apartment key with window" />
+	<307_speech caption="Shining light through it won't reveal anything new." action="Use letter with lamp" />
+	<308_speech caption="Shining light through it won't reveal anything new." action="Use mail with lamp" />
+	<309_speech caption="I don't want to clogg up the ventilation. I prefer breathing." action="Use letter with ventilation grate" />
+	<310_speech caption="That reveals nothing." action="Use letter with window" />
+	<311_speech caption="I'd rather hold on to it." action="Use envelope with window" />
+	<312_speech caption="I'd rather hold on to it." action="Use mail with window" />
+	<313_speech caption="I don't need to store it." action="Use apartment key with boxes" />
+	<314_speech caption="I'll bleed it later, once we're more settled in." action="Use apartment key with radiator" />
+	<315_speech caption="I'll bleed them later, once we're more settled in." action="Use apartment key with radiators" />
+	<316_speech caption="-------condition-------" action="Use letter with fuse" caption1="I can remove it with my hands." condition1="checkState('fuseBlown') == true" caption2="I'll leave it there for now. It seems to be doing it's job." condition2="checkState('fuseBlown') == false" />
+	<317_speech caption="-------condition-------" action="Use envelope with fuse" caption1="I can remove it with my hands." condition1="checkState('fuseBlown') == true" caption2="I'll leave it there for now. It seems to be doing it's job." condition2="checkState('fuseBlown') == false" />
+	<318_speech caption="-------condition-------" action="Use letter pieces with fuse" caption1="I can remove it with my hands." condition1="checkState('fuseBlown') == true" caption2="I'll leave it there for now. It seems to be doing it's job." condition2="checkState('fuseBlown') == false" />
+	<319_speech caption="I don't want to tamper any more with this elevator." action="Use coat hanger with elevator" />
+	<320_speech caption="I'd better hold on to it." action="Use letter with left apartment door" />
+	<321_speech caption="I'd better hold on to it." action="Use envelope with left apartment door" />
+	<322_speech caption="I'd better hold on to them." action="Use letter pieces with left apartment door" />
+	<323_speech caption="I'd better hold on to it." action="Use letter with right apartment door" />
+	<324_speech caption="I'd better hold on to it." action="Use envelope with right apartment door" />
+	<325_speech caption="I'd better hold on to them." action="Use letter pieces with right apartment door" />
+	<326_speech caption="I'd better hold on to it." action="Use letter with your apartment door" />
+	<327_speech caption="I'd better hold on to it." action="Use envelope with your apartment door" />
+	<328_speech caption="I'd better hold on to them." action="Use letter pieces with your apartment door" />
+	<329_speech caption="Redecorating can wait until we've settled in." action="Use crowbar with towel hanger" />
+	<330_speech caption="Redecorating can wait until we've settled in." action="Use empty box with lamp" />
+	<331_speech caption="The letter's shredded enough as it is." action="Use letter pieces with guitar" />
+	<332_speech caption="It's not a mail box." action="Use letter with box" />
+	<333_speech caption="It's not a mail box." action="Use envelope with box" />
+	<334_speech caption="It's not a mail box." action="Use mail with box" />
+	<335_speech caption="These aren't mail boxes." action="Use mail with boxes" />
+	<336_speech caption="I'd rather hold on to them." action="Use letter pieces with box" />
+	<337_speech caption="I don't need to store it." action="Use letter with boxes" />
+	<338_speech caption="I don't need to store it." action="Use envelope with boxes" />
+	<339_speech caption="-------condition-------" action="Use letter with telephone" caption1="I've already memorized the number." condition1="checkState('note_read') == true" caption2="I'd better read the letter." condition2="checkState('note_read') == false" />
+	<340_speech caption="I'd rather hold on to them." action="Use letter pieces with box" />
+	<341_speech caption="I'd better read the note first." action="Use crumpled paper with ventilation grate" />
+	<342_speech caption="I'd better read the note first." action="Use crumpled paper with ventilation grate" />
+	<343_speech caption="If I try to mail it in this it would only return here." action="Use envelope with painting" />
+	<344_speech caption="The box is old-school. It doesn't run on electricity." action="Use empty box with power outlet" />
+	<345_speech caption="They say you're supposed to talk to your plants, but reading them mail seems a bit overkill." action="Use letter with plants" />
+	<346_speech caption="If I try to mail them in this they would only return here." action="Use envelope with plants" />
+	<347_speech caption="That's not how you send mail!" action="Use envelope with elevator" />
+	<348_speech caption="That's not how you send mail!" action="Use letter with elevator" />
+	<349_speech caption="Are you the Gatekeeper?" action="Use apartment key with gear" />
+	<350_speech caption="That would be a really bad idea." action="Use apartment key with left power outlet" />
+	<351_speech caption="That would be a really bad idea." action="Use apartment key with right power outlet" />
+	<352_speech caption="I don't need to smear ink on them." action="Use letter pieces with ink pad" />
+	<353_speech caption="I don't need to smear ink on it." action="Use letter with ink pad" />
+	<354_speech caption="I don't need to smear ink on it." action="Use envelope with ink pad" />
+	<355_speech caption="Are you the Gatekeeper?" action="Use apartment key with pillow" />
+	<356_speech caption="Are you the Gatekeeper?" action="Use apartment key with pillow" />
+	<357_speech caption="Redecorating can wait until we've settled in." action="Use empty box with alarm clock" />
+	<358_speech caption="That's too kinky for me, I'm afraid." action="Use baby oil with telephone outlet" />
+	<359_speech caption="It doesn't need refrigeration." action="Use envelope with fridge" />
+	<360_speech caption="It doesn't need refrigeration." action="Use envelope with fridge" />
+	<361_speech caption="It doesn't need to be heated." action="Use crumpled paper with radiator" />
+	<362_speech caption="They don't need to be heated." action="Use letter pieces with radiator" />
+	<363_speech caption="It doesn't need to be heated." action="Use letter with radiator" />
+	<364_speech caption="It doesn't need to be heated." action="Use envelope with radiator" />
+	<365_speech caption="It doesn't need to be heated." action="Use mail with radiator" />
+	<366_speech caption="It doesn't need to be heated." action="Use mail with radiator" />
+	<367_speech caption="There's no phone outlet in this room." action="Use telephone with floor" />
+	<368_speech caption="Destroying the flooring would probably get us evicted." action="Use crowbar with floor" />
+	<369_speech caption="There's nothing to unlock here." action="Use apartment key with floor" />
+	<370_speech caption="You got mail!" action="Use letter with gear" />
+	<371_speech caption="You got mail!" action="Use envelope with gear" />
+	<372_speech caption="That would probably make it harder to read than it already is." action="Use letter pieces with gear" />
+	<373_speech caption="There's no lock on the coat hanger." action="Use coat hanger with apartment key" />
+	<374_speech caption="I don't need to put it back." action="Use piece of wood with ground" />
+	<375_speech caption="I don't need to put them back." action="Use two pieces of wood with ground" />
+	<376_speech caption="I don't need to put them back." action="Use three pieces of wood with ground" />
+	<377_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use apartment key with towel hanger" />
+	<378_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use empty box with lid" />
+	<379_speech caption="They sure would look nice hanging on that wall, but I'd rather hold on to them." action="Use letter pieces with towel hanger" />
+	<380_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use letter with towel hanger" />
+	<381_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use envelope with towel hanger" />
+	<382_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use mail with towel hanger" />
+	<383_speech caption="It sure would look nice hanging on that wall, but I'd rather hold on to it." action="Use telephone with towel hanger" />
+	<384_speech caption="You wind it with a key, but this isn't the right one." action="Use apartment key with alarm clock" />
+	<385_speech caption="You wind it with a key, but this isn't the right one." action="Use apartment key with alarm clock" />
+	<386_speech caption="That would only destroy it further." action="Use crumpled paper with baby oil" />
+	<387_speech caption="Redecorating can wait until we're more settled in." action="Use empty box with painting" />
+	<388_speech caption="I'd rather hold on to them." action="Use letter pieces with alarm clock" />
+	<389_speech caption="I'd rather hold on to it." action="Use mail with alarm clock" />
+	<390_speech caption="I'd rather hold on to it." action="Use letter with alarm clock" />
+	<391_speech caption="I'd rather hold on to it." action="Use envelope with alarm clock" />
+	<392_speech caption="It's too flimsy to pick with." action="Use envelope with guitar" />
+	<393_speech caption="It's too flimsy to pick with." action="Use mail with guitar" />
+	<394_speech caption="It's too flimsy to pick with." action="Use letter with guitar" />
+	<395_speech caption="This would make a perfect aquarium!" action="Use empty box with cold water tap" />
+	<396_speech caption="This would make a perfect aquarium!" action="Use empty box with warm water tap" />
+	<397_speech caption="I don't need to put them in the envelope." action="Use letter pieces with mail" />
+	<398_speech caption="I don't need to store it." action="Use telephone with empty box" />
+	<399_speech caption="I don't need to store it." action="Use crumpled paper with empty box" />
+	<400_speech caption="I don't need to store them." action="Use letter pieces with empty box" />
+	<401_speech caption="I don't need to store it." action="Use letter with empty box" />
+	<402_speech caption="I don't need to store it." action="Use envelope with empty box" />
+	<403_speech caption="I don't need to store it." action="Use mail with empty box" />
+	<404_speech caption="I don't need to store it." action="Use apartment key with empty box" />
+	<405_speech caption="I don't want to break the key." action="Use crowbar with apartment key" />
+	<406_speech caption="I don't need a key to push the button." action="Use apartment key with alarm button" />
+	<407_speech caption="I don't want to upset our new neighbour." action="Use baby oil with left apartment door" />
+	<408_speech caption="The door doesn't seem squeaky." action="Use baby oil with right apartment door" />
+	<409_speech caption="The door doesn't seem squeaky." action="Use baby oil with your apartment door" />
+	<410_speech caption="I'd rather hold on to it." action="Use letter with left door" />
+	<411_speech caption="I'd rather hold on to it." action="Use envelope with left door" />
+	<412_speech caption="I'd rather hold on to it." action="Use crumpled paper with left door" />
+	<413_speech caption="I'd rather hold on to them." action="Use letter pieces with left door" />
+	<414_speech caption="I'd rather hold on to it." action="Use letter with right door" />
+	<415_speech caption="I'd rather hold on to it." action="Use envelope with right door" />
+	<416_speech caption="I'd rather hold on to it." action="Use crumpled paper with right door" />
+	<417_speech caption="I'd rather hold on to them." action="Use letter pieces with right door" />
+	<418_speech caption="There's are no locks on the letter pieces." action="Use apartment key with letter pieces" />
+	<419_speech caption="There's are no lock on the letter." action="Use apartment key with letter" />
+	<420_speech caption="I can just unfold the paper with my hands." action="Use apartment key with crumpled paper" />
+	<421_speech caption="The envelope's already open." action="Use apartment key with envelope" />
+	<422_speech caption="He can't help me with this. Or anything else for that matter." action="Use crumpled paper with mover" />
+	<423_speech caption="It's too flimsy to be of any use here." action="Use letter with sofa" />
+	<424_speech caption="It's too flimsy to be of any use here." action="Use envelope with sofa" />
+	<425_speech caption="It's too flimsy to be of any use here." action="Use crumpled paper with sofa" />
+	<426_speech caption="They're too flimsy to be of any use here." action="Use letter pieces with sofa" />
+	<427_speech caption="I won't get enough leverage." action="Use apartment key with sofa" />
+	<428_speech caption="There's no lock on it." action="Use apartment key with lid" />
+	<429_speech caption="It would look lovely hanging on that wall, but I'd rather hold on to it." action="Use empty box with towel hanger" />
+	<430_speech caption="That would only make a mess." action="Use baby oil with crumpled paper" />
+	<431_speech caption="It's not the crumpled paper's bedtime yet." action="Use crumpled paper with bed" />
+	<432_speech caption="It's not the crumpled paper's bedtime yet." action="Use crumpled paper with pillow" />
+	<433_speech caption="There's enough litter in this city already." action="Use crumpled paper with window" />
+	<434_speech caption="I'd rather hold on to it." action="Use crumpled paper with alarm clock" />
+	<435_speech caption="Shining light through it won't reveal anything new." action="Use crumpled paper with lamp" />
+	<436_speech caption="I don't need to store it." action="Use crumpled paper with box" />
+	<437_speech caption="I don't need to store it." action="Use crumpled paper with boxes" />
+	<438_speech caption="I don't need to store it." action="Use empty box with pillow" />
+	<439_speech caption="It's not the envelope's bedtime yet." action="Use envelope with bed" />
+	<440_speech caption="It's not the letter's bedtime yet." action="Use letter with bed" />
+	<441_speech caption="It's not the envelope's bedtime yet." action="Use envelope with pillow" />
+	<442_speech caption="It's not the letter's bedtime yet." action="Use letter with pillow" />
+	<443_speech caption="It's not the mail's bedtime yet." action="Use mail with bed" />
+	<444_speech caption="I'd rather hold on to them." action="Use letter pieces with hole" />
+	<445_speech caption="I'd rather hold on to it." action="Use letter with hole" />
+	<446_speech caption="I'd rather hold on to it." action="Use envelope with hole" />
+	<447_speech caption="I'd rather hold on to it." action="Use envelope with hole" />
+	<448_speech caption="I can't combine them." action="Use letter with letter pieces" />
+	<449_speech caption="I can't combine them." action="Use coat hanger with letter" />
+	<450_speech caption="I can't combine them." action="Use coat hanger with envelope" />
+	<451_speech caption="I can't combine them." action="Use coat hanger with letter pieces" />
+	<452_speech caption="It's too flimsy to pick with." action="Use crumpled paper with guitar" />
+	<453_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter pieces with power outlet" />
+	<454_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter with power outlet" />
+	<455_speech caption="Jamming random objects into power outlets is a bad idea." action="Use envelope with power outlet" />
+	<456_speech caption="Jamming random objects into power outlets is a bad idea." action="Use mail with power outlet" />
+	<457_speech caption="Jamming random objects into power outlets is a bad idea." action="Use crumpled paper with power outlet" />
+	<458_speech caption="There's no phone number on the letter pieces." action="Use letter pieces with telephone" />
+	<459_speech caption="There's no phone number on the envelope." action="Use envelope with telephone" />
+	<460_speech caption="There's no phone number on the envelope." action="Use mail with telephone" />
+	<461_speech caption="I see no phone number on the crumpled paper." action="Use crumpled paper with telephone" />
+	<462_speech caption="They would look lovely hanging on that wall, but I'd rather hold on to them." action="Use letter pieces with hook" />
+	<463_speech caption="It would look lovely hanging on that wall, but I'd rather hold on to it." action="Use letter with hook" />
+	<464_speech caption="It would look lovely hanging on that wall, but I'd rather hold on to it." action="Use envelope with hook" />
+	<465_speech caption="It would look lovely hanging on that wall, but I'd rather hold on to it." action="Use mail with hook" />
+	<466_speech caption="Hanger-on-hook is my second favorite type of household item porn." action="Use coat hanger with hook" />
+	<467_speech caption="I'll hang on to it for now." action="Use apartment key with hook" />
+	<468_speech caption="-------condition-------" action="Use letter pieces with Alicia" caption1="She's on the phone." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="She's too far away." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<469_speech caption="Jamming random objects into outlets is a bad idea." action="Use letter pieces with telephone outlet" />
+	<470_speech caption="Jamming random objects into outlets is a bad idea." action="Use crumpled paper with telephone outlet" />
+	<471_speech caption="Jamming random objects into outlets is a bad idea." action="Use letter with telephone outlet" />
+	<472_speech caption="Jamming random objects into outlets is a bad idea." action="Use envelope with telephone outlet" />
+	<473_speech caption="Jamming random objects into outlets is a bad idea." action="Use mail with telephone outlet" />
+	<474_speech caption="Коробка олдскульная. Она не работает от электричества." action="Use empty box with telephone outlet" />
+	<475_speech caption="No, the phone might still be useful." action="Use crowbar with telephone" />
+	<476_speech caption="I don't need to rinse the hanger off." action="Use coat hanger with warm water tap" />
+	<477_speech caption="I don't need to rinse the hanger off." action="Use coat hanger with cold water tap" />
+	<478_speech caption="Destroying the plumbing would probably get us evicted." action="Use crowbar with warm water tap" />
+	<479_speech caption="Destroying the plumbing would probably get us evicted." action="Use crowbar with cold water tap" />
+	<480_speech caption="There's nothing to unlock." action="Use apartment key with plants" />
+	<481_speech caption="-------condition-------" action="Use apartment key with right apartment" caption1="I don't need to lock the door." condition1="currentLocation == 'estate_floor_2'" caption2="It's not the right key." condition2="currentLocation != 'estate_floor_2'" />
+	<482_speech caption="-------condition-------" action="Use apartment key with your apartment" caption1="I don't need to lock the door." condition1="currentLocation == 'estate_floor_2'" caption2="It's not the right key." condition2="currentLocation != 'estate_floor_2'" />
+	<483_speech caption="It's not the right key." action="Use apartment key with right door" />
+	<484_speech caption="It's not the right key." action="Use apartment key with left apartment" />
+	<485_speech caption="It's not the right key." action="Use apartment key with left door" />
+	<486_speech caption="I can just unfold the paper with my hands." action="Use crumpled paper with elevator" />
+	<487_speech caption="I don't need to jam paper into the elevator." action="Use crumpled paper with elevator" />
+	<488_speech caption="I don't need to jam paper into the doors." action="Use crumpled paper with left apartment door" />
+	<489_speech caption="I don't need to jam paper into the doors." action="Use crumpled paper with right apartment door" />
+	<490_speech caption="I don't need to jam paper into the doors." action="Use crumpled paper with your apartment door" />
+	<491_speech caption="I don't need to jam paper into the doors." action="Use crumpled paper with left door" />
+	<492_speech caption="I don't need to jam paper into the doors." action="Use crumpled paper with right door" />
+	<493_speech caption="I don't need it to push the button." action="Use crumpled paper with alarm button" />
+	<494_speech caption="I don't need it to push the button." action="Use letter pieces with alarm button" />
+	<495_speech caption="I don't need it to push the button." action="Use letter with alarm button" />
+	<496_speech caption="I don't need it to push the button." action="Use envelope with alarm button" />
+	<497_speech caption="I don't need it to push the button." action="Use crowbar with alarm button" />
+	<498_speech caption="I don't need it to push the button." action="Use coat hanger with alarm button" />
+	<499_speech caption="I don't need to destroy the letter pieces." action="Use crowbar with letter pieces" />
+	<500_speech caption="I don't need to destroy the letter." action="Use crowbar with letter" />
+	<501_speech caption="I don't need a crowbar to open an envelope." action="Use crowbar with envelope" />
+	<502_speech caption="I can unfold the paper with my hands." action="Use crowbar with crumpled paper" />
+	<503_speech caption="I don't know how to pick locks, and I don't think this is the right tool for it anyway." action="Use letter pieces with keyhole" />
+	<504_speech caption="I don't know how to pick locks, and I don't think this is the right tool for it anyway." action="Use letter with keyhole" />
+	<505_speech caption="I don't know how to pick locks, and I don't think this is the right tool for it anyway." action="Use envelope with keyhole" />
+	<506_speech caption="I don't know how to pick locks, and I don't think this is the right tool for it anyway." action="Use crumpled paper with keyhole" />
+	<507_speech caption="That's not how you start a fire." action="Use piece of wood with rock" />
+	<508_speech caption="That's not how you start a fire." action="Use two pieces of wood with rock" />
+	<509_speech caption="That's not how you start a fire." action="Use three pieces of wood with rock" />
+	<510_speech caption="Objects in mirror are closer than they appear." action="Use empty box with mirror" />
+	<511_speech caption="I talk to myself enough as it is." action="Use telephone with mirror" />
+	<512_speech caption="There's no lock on the fridge." action="Use apartment key with fridge" />
+	<513_speech caption="That would probably destroy it." action="Use crumpled paper with warm water tap" />
+	<514_speech caption="That would probably destroy it." action="Use crumpled paper with cold water tap" />
+	<515_speech caption="Running water over it will only make it harder to read." action="Use mail with sink" />
+	<516_speech caption="That would probably destroy it." action="Use mail with warm water tap" />
+	<517_speech caption="That would probably destroy it." action="Use mail with cold water tap" />
+	<518_speech caption="That would probably destroy it." action="Use envelope with warm water tap" />
+	<519_speech caption="That would probably destroy it." action="Use envelope with cold water tap" />
+	<520_speech caption="That would probably destroy it." action="Use letter with warm water tap" />
+	<521_speech caption="That would probably destroy it." action="Use letter with cold water tap" />
+	<522_speech caption="That would probably destroy them." action="Use letter pieces with warm water tap" />
+	<523_speech caption="That would probably destroy them." action="Use letter pieces with cold water tap" />
+	<524_speech caption="It's not a mail box." action="Use mail with box" />
+	<525_speech caption="These aren't mail boxes." action="Use mail with boxes" />
+	<526_speech caption="I rather hold on to it for now." action="Use mail with coat" />
+	<527_speech caption="They say you're supposed to talk to your plants, but reading them mail sounds like overkill." action="Use mail with plants" />
+	<528_speech caption="It looks like spam, but I still want to read it before I throw it away." action="Use mail with lid" />
+	<529_speech caption="I don't need to store it. Alicia is using it." action="Use empty box with coat" />
+	<530_speech caption="I rather hold on to them for now." action="Use letter pieces box with coat" />
+	<531_speech caption="I rather hold on to it for now." action="Use crumpled paper box with coat" />
+	<532_speech caption="Jamming random objects into power outlets is a bad idea." action="Use crumpled paper with right power outlet" />
+	<533_speech caption="Jamming random objects into power outlets is a bad idea." action="Use crumpled paper with left power outlet" />
+	<534_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter pieces with right power outlet" />
+	<535_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter pieces with left power outlet" />
+	<536_speech caption="Jamming random objects into power outlets is a bad idea." action="Use envelope with right power outlet" />
+	<537_speech caption="Jamming random objects into power outlets is a bad idea." action="Use envelope with left power outlet" />
+	<538_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter with right power outlet" />
+	<539_speech caption="Jamming random objects into power outlets is a bad idea." action="Use letter with left power outlet" />
+	<540_speech caption="It won't conduct electricity." action="Use letter with socket" />
+	<541_speech caption="It won't conduct electricity." action="Use letter pieces with socket" />
+	<542_speech caption="It won't conduct electricity." action="Use envelope with socket" />
+	<543_speech caption="There's enough crap in Alicia's pockets already." action="Use letter pieces with coat" />
+	<544_speech caption="There's enough crap in Alicia's pockets already." action="Use crumpled paper with coat" />
+	<545_speech caption="There's enough crap in Alicia's pockets already." action="Use envelope with coat" />
+	<546_speech caption="I don't need tools to unfold it." action="Use crumpled paper with towel hanger" />
+	<547_speech caption="I don't need tools to unfold it." action="Use crumpled paper with gear" />
+	<548_speech caption="I don't want to throw this away, it might be useful." action="Use piece of wood with ocean" />
+	<549_speech caption="I don't want to throw this away, it might be useful." action="Use shovel with ocean" />
+	<550_speech caption="They like each other, I can tell." action="Use two pieces of wood with forked branch" />
+	<551_speech caption="I don't need Mr Morton's help unfolding a piece of paper." action="Use crumpled paper with Mr Morton" />
+	<552_speech caption="Shoving metallic objects into power sources is a REALLY bad idea." action="Use apartment key with power outlet" />
+	<553_speech caption="It's not a waste basket." action="Use crumpled paper with hole" />
+	<554_speech caption="I don't need insulation, I can remove it with my bare hands." action="Use envelope with burned fuse" />
+	<555_speech caption="I don't need insulation, I can remove it with my bare hands." action="Use letter with burned fuse" />
+	<556_speech caption="I don't need to rinse it." action="Use apartment key with warm water tap" />
+	<557_speech caption="I don't need to rinse it." action="Use apartment key with cold water tap" />
+	<558_speech caption="I don't need tools to unfold it." action="Use crumpled paper with coat hanger" />
+	<559_speech caption="Putting large paper object on a cooking surface is a bad idea." action="Use empty box with stove" />
+	<560_speech caption="People get enough spam as it is." action="Use envelope with mail boxes" />
+	<561_speech caption="People get enough spam as it is." action="Use letter with mail boxes" />
+	<562_speech caption="I don't want to worry my new neighbors. They might see torn, burned letters as threatening." action="Use letter pieces with mail boxes" />
+	<563_speech caption="It's to flimsy to get any leverage." action="Use crumpled paper with floorboard" />
+	<564_speech caption="That's not useful." action="Use crumpled paper with letter" />
+	<565_speech caption="I don't need to put it in the envelope." action="Use envelope with crumpled paper" />
+	<566_speech caption="I don't need to put it in the envelope." action="Use mail with crumpled paper" />
+	<567_speech caption="It's not the right key." action="Use apartment key with keyhole" />
+	<568_speech caption="I don't want to burn it up." action="Use lighter with map" />
+	<569_speech caption="Alicia wouldn't appreciate that." action="Use baby oil with shampoo" />
+	<570_speech caption="Alicia wouldn't appreciate that." action="Use baby oil with sofa" />
+	<571_speech caption="There's no lock on the card." action="Use calling card with key" />
+	<572_speech caption="I'm pretty sure he doesn't need to call himself." action="Use calling card with mover" />
+	<573_speech caption="To make sparks? The rock would have to be flint for that to work." action="Use shovel with rock" />
+	<574_speech caption="I don't need to grease its hinges." action="Use baby oil with door" />
+	<575_speech caption="That's tempting..." action="Use baby oil with mover" />
+	<576_speech caption="Alicia wouldn't appreciate that." action="Use baby oil with conditioner" />
+	<577_speech caption="Alicia wouldn't appreciate that." action="Use baby oil with skin lotion" />
+	<578_speech caption="I don't need to grease it." action="Use baby oil with keyhole" />
+	<579_speech caption="That's not our door." action="Use apartment key with left apartment door" />
+	<580_speech caption="The card doesn't have a lock on it." action="Use calling card with apartment key" />
+	<581_speech caption="I don't need to grease it." action="Use coat hanger with baby oil" />
+	<582_speech caption="No way, I don't even like sushi." action="Use fish with yourself" />
+	<583_speech caption="I don't need to cook it anymore." action="Use grilled fish with lighter" />
+	<584_speech caption="I don't need to dig it up." action="Use shovel with forked branch" />
+	<585_speech caption="I don't need to grease it." action="Use baby oil with key" />
+	<586_speech caption="That would just create a mess." action="Use coat hanger with skin lotion" />
+	<587_speech caption="That would just create a mess." action="Use baby oil with floorboard" />
+
+</siteCopy>

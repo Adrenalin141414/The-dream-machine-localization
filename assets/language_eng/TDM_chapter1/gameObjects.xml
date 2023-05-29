@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<!-- ******************************** -->
+	<!-- * Location: islandDream_island * -->
+	<!-- ******************************** -->
+
+	<0_objects caption="fireplace" />
+	<1_objects caption="fish" />
+	<2_objects caption="fishing rod" />
+	<3_objects caption="forked branch" />
+	<4_objects caption="grilled fish" />
+	<5_objects caption="ground" />
+	<6_objects caption="hole" />
+	<7_objects caption="map" />
+	<8_objects caption="lighter" />
+	<9_objects caption="ocean" />
+	<10_objects caption="piece of wood" />
+	<11_objects caption="rock" />
+	<12_objects caption="shovel" />
+	<13_objects caption="three pieces of wood" />
+	<14_objects caption="trees" />
+	<15_objects caption="two pieces of wood" />
+	<16_objects caption="wreck" />
+	<17_objects caption="worm" />
+	<18_objects caption="yourself" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_bedRoom * -->
+	<!-- ************************** -->
+
+	<19_objects caption="alarm clock" />
+	<20_objects caption="bed" />
+	<21_objects caption="box" />
+	<22_objects caption="boxes" />	
+	<23_objects caption="button" />
+	<24_objects caption="camera" />
+	<25_objects caption="floorboard" />
+	<26_objects caption="lamp" />
+	<27_objects caption="nursery" />
+	<28_objects caption="painting" />
+	<29_objects caption="pillow" />
+	<30_objects caption="radiator" />
+	<31_objects caption="ventilation grate" />
+	<32_objects caption="window" />
+
+	<!-- * hole * -->
+	<33_objects caption="burned fuse" />
+	<34_objects caption="fuse" />
+	<35_objects caption="device" />
+	<36_objects caption="machine" />
+	<37_objects caption="meter" />
+	<38_objects caption="resistor" />
+	<39_objects caption="socket" />
+	<40_objects caption="switch" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_greyRoom * -->
+	<!-- *************************** -->
+
+	<41_objects caption="guitar" />
+	<42_objects caption="bedroom" />
+	<43_objects caption="hallway" />
+	<44_objects caption="kitchen" />
+	<45_objects caption="power outlet" />
+	<46_objects caption="telephone" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_hallway * -->
+	<!-- ************************** -->
+
+	<47_objects caption="apartment" />
+	<48_objects caption="apartment key" />
+	<49_objects caption="coat" />
+	<50_objects caption="door" />
+	<51_objects caption="entry phone" />
+	<52_objects caption="envelope" />
+	<53_objects caption="hook" />
+	<54_objects caption="letter" />
+	<55_objects caption="mail" />
+	<56_objects caption="telephone outlet" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_kitchen * -->
+	<!-- ************************** -->
+
+	<57_objects caption="Alicia" />
+	<58_objects caption="bathroom" />
+	<50_objects caption="cold water tap" />
+	<60_objects caption="cupboard" />
+	<61_objects caption="drawer" />
+	<62_objects caption="empty box" />
+	<63_objects caption="floor" />
+	<64_objects caption="fridge" />
+	<65_objects caption="living room" />
+	<66_objects caption="oven" />
+	<67_objects caption="sink" />
+	<68_objects caption="stove" />
+	<69_objects caption="warm water tap" />
+
+
+
+	<!-- ***************************** -->
+	<!-- * Location: neff_livingRoom * -->
+	<!-- ***************************** -->
+
+	<70_objects caption="ashtray" />
+	<71_objects caption="crumpled paper" />
+	<72_objects caption="letter pieces" />
+	<73_objects caption="plants" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_bathRoom * -->
+	<!-- *************************** -->
+
+	<74_objects caption="baby oil" />
+	<75_objects caption="conditioner" />
+	<76_objects caption="lid" />
+	<77_objects caption="mirror" />
+	<78_objects caption="mirror image" />
+	<79_objects caption="shampoo" />
+	<80_objects caption="shower" />
+	<81_objects caption="skin lotion" />
+	<82_objects caption="toilet" />
+	<83_objects caption="towel hanger" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_2 * -->
+	<!-- **************************** -->
+
+	<84_verbs caption="alarm button" />
+	<85_verbs caption="closet door" />
+	<86_verbs caption="door bell" />
+	<87_verbs caption="elevator" />
+	<88_verbs caption="floor 1 button" />
+	<89_verbs caption="floor 2 button" />
+	<90_verbs caption="floor 3 button" />
+	<91_verbs caption="keyhole" />
+	<92_verbs caption="left apartment door" />
+	<93_verbs caption="stairwell door" />
+	<94_verbs caption="your apartment" />
+	<95_verbs caption="your apartment door" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_3 * -->
+	<!-- **************************** -->
+
+	<96_verbs caption="cleaning gear" />
+	<97_verbs caption="right apartment door" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_1 * -->
+	<!-- **************************** -->
+
+	<98_verbs caption="Chapter 1" />
+	<99_verbs caption="left door" />
+	<100_verbs caption="lobby" />
+
+	<!-- * morton_window * -->
+	<101_verbs caption="ink pad" />	
+	<102_verbs caption="key" />
+	<103_verbs caption="Morton's office key" />
+	<104_verbs caption="opening" />
+	<105_verbs caption="stamp" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: estate_lobby * -->
+	<!-- ************************** -->
+
+	<106_verbs caption="calling card" />
+	<107_verbs caption="coat hanger" />
+	<108_verbs caption="crowbar" />
+	<109_verbs caption="mail boxes" />
+	<110_verbs caption="mover" />
+	<111_verbs caption="sofa" />
+
+	<!-- * mail_boxes * -->
+	<112_verbs caption="first mailbox" />	
+	<113_verbs caption="second mailbox" />	
+	<114_verbs caption="third mailbox" />
+	<115_verbs caption="fourth mailbox" />
+	<116_verbs caption="fifth mailbox" />
+	<117_verbs caption="sixth mailbox" />
+	
+</siteCopy>

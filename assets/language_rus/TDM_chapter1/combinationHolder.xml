@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_speech caption="" action="" />
+	<1_speech caption="Это пока не должно быть возможным." action="Use master key with keyhole" />
+	<2_speech caption="Я лучше придержу рыбу." action="Use fish with forked branch" />
+	<3_speech caption="Не думаю, что ему это нужно; у него наверняка есть мастер-ключ." action="Use apartment key with Mr Morton" />
+	<4_speech caption="Ему явно не стоит доверять." action="Use apartment key with mover" />
+	<5_speech caption="Это бы полностью уничтожило письмо." action="Use letter pieces with sink" />
+	<6_speech caption="Думаю, было бы лучше просто поставить её на пол." action="Use empty box with radiator" />
+	<7_speech caption="Я не думаю, что его волнует это письмо, да и многое другое, раз уж на то пошло." action="Use letter with mover" />
+	<8_speech caption="Он слишком короткий, он не даст мне достаточного рычага." action="Use apartment key with floorboard" />
+	<9_speech caption="Я думаю, что есть более подходящее место для их размещения." action="Use three pieces of wood with ground" />
+	<10_speech caption="Он лично нанимал риэлтора, я уверен, что он уже видел это." action="Use letter with Mr Morton" />
+	<11_speech caption="Отличная работа, Виктор!" action="Use apartment key with Alicia" />
+	<12_speech caption="Не думаю, что он бы клюнул." action="Use fishing rod with rock" />
+	<13_speech caption="Я думаю, им есть лучшее применение." action="Use three pieces of wood with forked branch" />
+	<14_speech caption="Камень не выглядит голодным." action="Use grilled fish with rock" />
+	<15_speech caption="Я не хочу применять её на себя" action="Use empty box with yourself" />
+	<16_speech caption="-------condition-------" action="Use letter with Alicia" caption1="Она разговаривает по телефону." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="Она слишком далеко." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<17_speech caption="Я не хочу выбрасывать её в океан, она может пригодиться." action="Use map with ocean" />
+	<18_speech caption="Зачем? Чтобы наделать ключиков-детишек?" action="Use apartment key with key" />
+	<19_speech caption="Я не могу до неё дотянуться." action="Use crowbar with ventilation grate" />
+	<20_speech caption="Это только сделает их размокшими и более трудными для чтения." action="Use letter pieces with warm water tap" />
+	<21_speech caption="С чего бы мне хотеть мазать письмо лимонным соком?" action="Use letter with lemon" />
+	<22_speech caption="Я бы с радостью, но боюсь, что он мне нужен." action="Use worm with ocean" />
+	<23_speech caption="Я мог бы сделать его похожим на пиратское письмо, если бы опалил края." action="Use letter with stove" />
+	<24_speech caption="Да, этому камню не помешало бы немного стиля." action="Use map with rock" />
+	<25_speech caption="Чтобы смыть или чтобы нюхнуть?" action="Use letter pieces with lid" />
+	<26_speech caption="Я не хочу добавлять удочку в кучу хвороста." action="Use piece of wood with fishing rod" />
+	<27_speech caption="Я не хочу добавлять удочку в кучу хвороста." action="Use two pieces of wood with fishing rod" />
+	<28_speech caption="Я не хочу добавлять лопату в кучу хвороста." action="Use two pieces of wood with shovel" />
+	<29_speech caption="Я не хочу добавлять удочку в кучу хвороста." action="Use three pieces of wood with fishing rod" />
+	<30_speech caption="-------condition-------" action="Use piece of wood with fish" caption1="Кажется, это убило рыбу." condition1="checkState('killed_fish') == false" caption2="Рыба уже мертва, и я не хочу превращать её в месиво." condition2="checkState('killed_fish') == true" />
+	<31_speech caption="-------condition-------" action="Use two pieces of wood with fish" caption1="Кажется, это убило рыбу." condition1="checkState('killed_fish') == false" caption2="Рыба уже мертва, и я не хочу превращать её в месиво." condition2="checkState('killed_fish') == true" />
+	<32_speech caption="-------condition-------" action="Use three pieces of wood with fish" caption1="Кажется, это убило рыбу." condition1="checkState('killed_fish') == false" caption2="Рыба уже мертва, и я не хочу превращать её в месиво." condition2="checkState('killed_fish') == true" />
+	<33_speech caption="Свет мой, зеркальце! скажи,&#10;Да всю правду доложи:&#10;Кто из масел всех жирнее,&#10;Всех смазливей, маслянее?" action="Use baby oil with mirror" />
+	<34_speech caption="Это хорошая идея, но я не думаю, что обрывки нужно зеркально отражать, чтобы их можно было читать." action="Use letter pieces with mirror" />
+	<35_speech caption="Я не хочу её поджигать." action="Use lighter with forked branch" />
+	<36_speech caption="Не-е, он уже знает адрес." action="Use envelope with mover" />
+	<37_speech caption="Почему вы захотели показать мне это, мистер Нефф?" action="Use envelope with Mr Morton" />
+	<38_speech caption="Они слишком хлипкие." action="Use letter pieces with opening" />
+	<39_speech caption="В городе уже и так достаточно мусора." action="Use letter pieces with window" />
+	<40_speech caption="Бумага — плохой проводник электричества." action="Use letter pieces with fuse" />
+	<41_speech caption="Мне лучше попридержать их." action="Use letter pieces with left apartment door" />
+	<42_speech caption="Он уже имеет слабый цитрусовый аромат." action="Use baby oil with lemon" />
+	<43_speech caption="Думаю, лучше поставить её в центре комнаты." action="Use empty box with plants" />
+	<44_speech caption="Зачем? Чтобы использовать как приманку для более крупной рыбы?" action="Use grilled fish with fishing rod" />
+	<45_speech caption="Это не автоматическая кладоискательная лопата." action="Use map with shovel" />
+	<46_speech caption="Комнатной температуры вполне достаточно." action="Use baby oil with warm water" />
+	<47_speech caption="Конверт теперь бесполезно ароматизирован лимоном." action="Use envelope with lemon" />
+	<48_speech caption="Мне не нужно его сжигать." action="Use envelope with stove" />
+	<49_speech caption="Поверьте, бывали моменты, когда я чувствовал себя так, но я всё ещё люблю её до смерти и никогда не смог бы намеренно причинить ей вред." action="Use crowbar with Alicia" />
+	<50_speech caption="Карта указывает, где копать. Сама по себе она бесполезна." action="Use map with forked branch" />
+	<51_speech caption="Я думаю, что они слишком полезны, чтобы просто выбрасывать их в океан." action="Use two pieces of wood with ocean" />
+	<52_speech caption="Я думаю, что они слишком полезны, чтобы просто выбрасывать их в океан." action="Use three pieces of wood with ocean" />
+	<53_speech caption="С чего бы мне хотеть делать это? Он кажется вполне сговорчивым." action="Use crowbar with Mr Morton" />
+	<54_speech caption="Они слишком хлипкие." action="Use letter pieces with key" />
+	<55_speech caption="Я не хочу разрушать то, что нам не принадлежит." action="Use crowbar with painting" />
+	<56_speech caption="Мне нужно найти розетку для телефона." action="Use telephone with boxes" />
+	<57_speech caption="Карта лишь указывает, где копать. Сама по себе она бесполезна." action="Use map with fishing rod" />
+	<58_speech caption="Карта лишь указывает, где копать. Сама по себе она бесполезна." action="Use shovel with map" />
+	<59_speech caption="Они уже мертвы. Нет необходимости убивать их дальше." action="Use baby oil with plants" />
+	<60_speech caption="Нет, это было бы бессмысленной тратой вкусной рыбы." action="Use grilled fish with ocean" />
+	<61_speech caption="Я не смогу её открыть." action="Use baby oil with ventilation grate" />
+	<62_speech caption="Она подходит для рыбалки, я не хочу её поджигать." action="Use lighter with forked branch" />
+	<63_speech caption="Нет, наличие мягкого места для сна иногда бывает очень кстати." action="Use crowbar with bed" />
+	<64_speech caption="Нет, радиатор может пригодиться зимой." action="Use crowbar with radiator" />
+	<65_speech caption="Нет, она пригодна для рыбалки." action="Use lighter with fishing rod" />
+	<66_speech caption="Ни за что!" action="Use baby oil with guitar" />
+	<67_speech caption="Карта только указывает, где что-то зарыто, я не могу ею воспользоваться для копания!" action="Use map with ground" />
+	<68_speech caption="Нет, она уже достаточно приготовлена." action="Use grilled fish with fireplace" />
+	<69_speech caption="Нет, он может для чего-нибудь пригодиться." action="Use worm with fireplace" />
+	<70_speech caption="Я не хочу раздавливать бедняжку." action="Use worm with rock" />
+	<71_speech caption="Смазка радиаторов не входит в мои обязанности." action="Use baby oil with radiator" />
+	<72_speech caption="Нет, пожалуй, для этой коробки есть более подходящее применение." action="Use empty box with boxes" />
+	<73_speech caption="Я приберегу уничтожение уродливой лампы для Алисии." action="Use crowbar with lamp" />
+	<74_speech caption="Мне не нужно ей звонить, она стоит прямо передо мной." action="Use telephone with Alicia" />
+	<75_speech caption="Это может привести к короткому замыканию." action="Use baby oil with lamp" />
+	<76_speech caption="Это, вероятно, лишь приведёт к намоканию фитиля." action="Use lighter with ocean" />
+	<77_speech caption="Я не знаю, как взламывать замки, и не думаю, что вешалка для одежды достаточно тонкая." action="Use coat hanger with keyhole" />
+	<78_speech caption="-------condition-------" action="Use envelope with Alicia" caption1="Она разговаривает по телефону." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="Она слишком далеко." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<79_speech caption="Я не хочу выбрасывать коробку в окно." action="Use empty box with window" />
+	<80_speech caption="Мне не нужно разбивать их о камень." action="Use three pieces of wood with rock" />
+	<81_speech caption="Нет, для вкусной рыбы есть более подходящее применение." action="Use grilled fish with forked branch" />
+	<82_speech caption="Она уже достаточно мёртвая." action="Use shovel with grilled fish" />
+	<83_speech caption="Я не знаю, как взламывать замки." action="Use coat hanger with door" />
+	<84_speech caption="Она уже достаточно мёртвая." action="Use grilled fish with shovel" />
+	<85_speech caption="Ни за что, Алисия бы убила меня!" action="Use baby oil with coat" />
+	<86_speech caption="Мне не нужно их ломать." action="Use crowbar with boxes" />
+	<87_speech caption="Мне не нужно её ломать." action="Use crowbar with box" />
+	<88_speech caption="Мне не нужно их прятать." action="Use letter pieces with plants" />
+	<89_speech caption="Он прекрасно звонит и сам по себе." action="Use telephone with alarm clock" />
+	<90_speech caption="Я бы вызвал им скорую, но они уже мертвы." action="Use telephone with plants" />
+	<91_speech caption="Мне не нужно их дробить." action="Use shovel with three pieces of wood" />
+	<92_speech caption="Как бы банально это ни звучало, я не хочу всё испортить." action="Use baby oil with painting" />
+	<93_speech caption="Нет, на них удобно вешать одежду." action="Use crowbar with hook" />
+	<94_speech caption="Проникающий сквозь него свет, не откроет ничего нового." action="Use letter pieces with lamp" />
+	<95_speech caption="Эта комната и так достаточно проветривается." action="Use crowbar with window" />
+	<96_speech caption="Ни за что!" action="Use crowbar with guitar" />
+	<97_speech caption="Я не знаю, как взламывать замки." action="Use coat hanger with right door" />
+	<98_speech caption="Я не знаю, как взламывать замки." action="Use coat hanger with left door" />
+	<99_speech caption="Нет необходимости смазывать его." action="Use baby oil with fridge" />
+	<100_speech caption="Я могу поднять её голыми руками." action="Use crowbar with lid" />
+	<101_speech caption="'Холодильник, позвони домой!'" action="Use telephone with fridge" />
+	<102_speech caption="Нет, Алисия только заставит меня купить новое." action="Use crowbar with mirror" />
+	<103_speech caption="Если положить обрывки письма в холодильник, они не станут от этого легче читаться." action="Use letter pieces with fridge" />
+	<104_speech caption="Нет, я предпочитаю, чтобы мои окна были чистыми." action="Use baby oil with window" />
+	<105_speech caption="Они уже мертвы." action="Use crowbar with plants" />
+	<106_speech caption="Алисия не оценит, если я испорчу её любимое пальто." action="Use crowbar with coat" />
+	<107_speech caption="Извращение!" action="Use baby oil with bed" />
+	<108_speech caption="Это, вероятно, приготовило бы её в конце концов, но на такое ушли бы годы!" action="Use lighter with fish" />
+	<109_speech caption="Это не воспламеняющаяся порода камня!" action="Use lighter with rock" />
+	<110_speech caption="Я пока ещё не совсем готов умереть!" action="Use crowbar with power outlet" />
+	<111_speech caption="Я не смогу её открыть." action="Use apartment key with ventilation grate" />
+	<112_speech caption="Заедание двери уже устранено." action="Use crowbar with elevator" />
+	<113_speech caption="Это приведёт только к огромному беспорядку." action="Use crowbar with sink" />
+	<114_speech caption="Нет, эта плита пригодится в ближайшие годы." action="Use crowbar with stove" />
+	<115_speech caption="Мне не нужно их прятать." action="Use letter pieces with ventilation grate" />
+	<116_speech caption="Мне не нужен ключ, чтобы управлять лифтом." action="Use apartment key with elevator" />
+	<117_speech caption="Мне нужно развернуть её, чтобы равномерно нагреть." action="Use crumpled paper with stove" />
+	<118_speech caption="Мне не нужно ломать приспособления для уборки." action="Use crowbar with gear" />
+	<119_speech caption="Да, но где конкретно?" action="Use apartment key with hole" />
+	<120_speech caption="Я думаю, что он может быть более полезен с чем-то другим." action="Use worm with forked branch" />
+	<121_speech caption="В мире и так достаточно насилия." action="Use worm with shovel" />
+	<122_speech caption="Я думаю, что рыба предпочитает их сырыми." action="Use worm with lighter" />
+	<123_speech caption="Диван застрял, я не смогу его сдвинуть." action="Use apartment key with sofa" />
+	<124_speech caption="Нет, текст не написан задом наперёд." action="Use crumpled paper with mirror" />
+	<125_speech caption="Сигнал довольно раздражающий, но пока я не купил замену, этот будильник будет работать." action="Use crowbar with alarm clock" />
+	<126_speech caption="Наверное, будет лучше, если я сначала разверну её." action="Use crumpled paper with Alicia" />
+	<127_speech caption="Почва не сможет поддерживать огонь." action="Use lighter with ground" />
+	<128_speech caption="Древесина более полезна где-нибудь в другом месте." action="Use piece of wood with forked branch" />
+	<129_speech caption="Я предпочитаю вешать одежду, которую в данный момент не ношу." action="Use coat hanger with yourself" />
+	<130_speech caption="Это испортило бы механизм." action="Use baby oil with alarm clock" />
+	<131_speech caption="Алисия бы убила меня." action="Use baby oil with pillow" />
+	<132_speech caption="'Гитара, позвони домой!'." action="Use telephone with guitar" />
+	<133_speech caption="'Гитара, позвони домой!'" action="Use telephone with guitar" />
+	<134_speech caption="Я предпочитаю её в сухом виде." action="Use baby oil with box" />
+	<135_speech caption="Он немного грязный, но я думаю, что это работает только на серебре и латуни." action="Use apartment key with lemon" />
+	<136_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with boxes" />
+	<137_speech caption="'Батарея, позвони домой!'" action="Use telephone with radiator" />
+	<138_speech caption="Нет, она больше подходит для копания." action="Use lighter with shovel" />
+	<139_speech caption="Я не хочу совершать преступление, если у меня нет чертовски веской причины." action="Use crowbar with keyhole" />
+	<140_speech caption="Мммм... Тёплое детское масло. Мое любимое!" action="Use baby oil with warm water tap" />
+	<141_speech caption="Нет, это может вызвать короткое замыкание." action="Use baby oil with power outlet" />
+	<142_speech caption="Нет, это может вызвать короткое замыкание." action="Use baby oil with right power outlet" />
+	<143_speech caption="Нет, это может вызвать короткое замыкание." action="Use baby oil with left power outlet" />
+	<144_speech caption="Портативный телефон, достаточно маленький, чтобы носить его в кармане пальто? Такие телефоны уже существуют, и это не один из них." action="Use telephone with coat" />
+	<145_speech caption="Нет, я предпочитаю его без крючка." action="Use telephone with hook" />
+	<146_speech caption="Дверца холодильника не закрыта." action="Use crowbar with fridge" />
+	<147_speech caption="Да, но какой из них конкретно?" action="Use apartment key with mail boxes" />
+	<148_speech caption="Действие с телефоном на лампе — мой третий любимый вид порно с предметами домашнего обихода." action="Use telephone with lamp" />
+	<149_speech caption="На бутылке нет петли для крючка." action="Use baby oil with hook" />
+	<150_speech caption="Если бы это был матч по рестлингу, я бы поставил на монтировку." action="Use crowbar with lemon" />
+	<151_speech caption="Вода только заставит чернила растечься." action="Use letter pieces with cold water tap" />
+	<152_speech caption="Что я мог бы захотеть выловить на суше?" action="Use fishing rod with ground" />
+	<153_speech caption="Мне не нужно портить электронику." action="Use crowbar with right power outlet" />
+	<154_speech caption="Мне не нужно портить электронику." action="Use crowbar with left power outlet" />
+	<155_speech caption="Если бы он умел читать, я уверен, что он был бы восхищён." action="Use letter pieces with elevator" />
+	<156_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with first mailbox" />
+	<157_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with second mailbox" />
+	<158_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with third mailbox" />
+	<159_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with forth mailbox" />
+	<160_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with fifth mailbox" />
+	<161_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with sixth mailbox" />
+	<162_speech caption="Крышку подпирать не нужно." action="Use coat hanger with lid" />
+	<163_speech caption="В ванной нет телефонной розетки." action="Use telephone with lid" />
+	<164_speech caption="Мне не нужно её открывать, и эта вешалка была бы слишком непрочной, если бы я это делал." action="Use coat hanger with ventilation grate" />
+	<165_speech caption="Это не настроечный ключ." action="Use apartment key with guitar" />
+	<166_speech caption="Нет, нет, нет." action="Use coat hanger with Alicia" />
+	<167_speech caption="Мне не нужен факел при таком ярком солнечном свете." action="Use lighter with piece of wood" />
+	<168_speech caption="Это хорошая идея, но, возможно, мне стоит сначала разместить их где-нибудь." action="Use lighter with two pieces of wood" />
+	<169_speech caption="Это хорошая идея, но, возможно, мне стоит сначала разместить их где-нибудь." action="Use lighter with three pieces of wood" />
+	<170_speech caption="Мне незачем бить бедняжку." action="Use worm with piece of wood" />
+	<171_speech caption="Мне незачем бить бедняжку." action="Use worm with two pieces of wood" />
+	<172_speech caption="Мне незачем бить бедняжку." action="Use worm with three pieces of wood" />
+	<173_speech caption="Я наживил крючок червячком." action="Use worm with fishing rod" />
+	<174_speech caption="-------condition-------" action="Use shovel with fish" caption1="Кажется, это убило рыбу." condition1="checkState('killed_fish') == false" caption2="Рыба уже мертва, и я не хочу превращать её в месиво." condition2="checkState('killed_fish') == true" />
+	<175_speech caption="Это только устроит беспорядок." action="Use baby oil with letter pieces" />
+	<176_speech caption="Это только сделает его более трудным для чтения." action="Use baby oil with letter" />
+	<177_speech caption="Я могу открыть его своими руками." action="Use baby oil with mail" />
+	<178_speech caption="Кажется, это не требует смазки." action="Use baby oil with envelope" />
+	<179_speech caption="Я не хочу класть его туда обратно." action="Use letter with envelope" />
+	<180_speech caption="Мне не нужно класть их в конверт." action="Use letter pieces with envelope" />
+	<181_speech caption="Я почти уверен, что телефон из-за этого сломается." action="Use baby oil with telephone" />
+	<182_speech caption="Телефон слишком большой, чтобы поместиться в конверт." action="Use telephone with envelope" />
+	<183_speech caption="Монтировку так не используют." action="Use crowbar with coat hanger" />
+	<184_speech caption="Нет, я не могу позволить себе снова насадить бедняжку на крючок." action="Use fish with fishing rod" />
+	<185_speech caption="Нет, я не могу это выкапывать." action="Use shovel with fishing rod" />
+	<186_speech caption="Сейчас мне лучше не вмешиваться в работу предохранителя." action="Use coat hanger with fuse" />
+	<187_speech caption="Мне не нужно класть её обратно." action="Use coat hanger with sofa" />
+	<188_speech caption="Было бы забавно заставить его проглотить это, но Алисия не одобрила бы такого." action="Use coat hanger with mover" />
+	<189_speech caption="Я могу извлечь предохранитель своими руками." action="Use coat hanger with burned fuse" />
+	<190_speech caption="Ни за что! Я могу её поцарапать." action="Use coat hanger with guitar" />
+	<191_speech caption="Ага, потому что никто не любит холодные вешалки." action="Use coat hanger with radiator" />
+	<192_speech caption="Мне не нужно это хранить." action="Use coat hanger with box" />
+	<193_speech caption="Мне не нужно это хранить." action="Use coat hanger with boxes" />
+	<194_speech caption="Если я буду возиться с этой лампой, меня, скорее всего, ударит током." action="Use coat hanger with lamp" />
+	<195_speech caption="Не думаю, что ему бы это понравилось." action="Use coat hanger with Mr Morton" />
+	<196_speech caption="Возможно, мне удастся её улучшить, но я всё равно думаю, что Алисия хотела бы, чтобы я от неё избавился." action="Use coat hanger with painting" />
+	<197_speech caption="Мне не нужно возиться с дверьми." action="Use coat hanger with left apartment door" />
+	<198_speech caption="Мне не нужно возиться с дверьми." action="Use coat hanger with right apartment door" />
+	<199_speech caption="Возня с дверьми не произведёт хорошего первого впечатления на соседей." action="Use coat hanger with right apartment" />
+	<200_speech caption="Мне не нужно возиться с дверьми." action="Use coat hanger with your apartment door" />
+	<201_speech caption="Возня с дверьми не произведёт хорошего первого впечатления на соседей." action="Use coat hanger with your apartment" />
+	<202_speech caption="There's no need to cook the coat hanger." action="Use coat hanger with stove" />
+	<203_speech caption="Я бы предпочёл не возиться с ним. Он в хорошем рабочем состоянии." action="Use coat hanger with alarm clock" />
+	<204_speech caption="Вешалкам тоже нужно спать." action="Use coat hanger with bed" />
+	<205_speech caption="Этого на неё не повесить." action="Use coat hanger with gear" />
+	<206_speech caption="Они уже мертвы." action="Use coat hanger with plants" />
+	<207_speech caption="Вид такой красивый, что я бы хотел вставить его в рамку и повесить!" action="Use coat hanger with window" />
+	<208_speech caption="Я бы хотел с ней повозиться, но я также знаю, что лучше не портить улики." action="Use coat hanger with camera" />
+	<209_speech caption="Она и так довольно холодная." action="Use coat hanger with fridge" />
+	<210_speech caption="Я вижу себя держащим вешалку!" action="Use coat hanger with mirror" />
+	<211_speech caption="Она и так чистая." action="Use coat hanger with sink" />
+	<212_speech caption="Открой ты, у меня руки заняты." action="Use mail with Alicia" />
+	<213_speech caption="Да, возможно он сыроват в центре." action="Use apartment key with stove" />
+	<214_speech caption="Пожалуй, для этой коробки есть более подходящее применение." action="Use empty box with box" />
+	<215_speech caption="Время для развратного действа коробка-на-коробке!" action="Use empty box with boxes" />
+	<216_speech caption="Снятся ли картонным коробкам картонные овцы!" action="Use empty box with bed" />
+	<217_speech caption="Если её прикрыть, она не исчезнет." action="Use empty box with floorboard" />
+	<218_speech caption="Разорванному письму ещё не пора спать." action="Use letter pieces with bed" />
+	<219_speech caption="Я мог бы создать шедевр современного искусства с помощью этого!" action="Use letter pieces with painting" />
+	<220_speech caption="Я мог бы создать шедевр современного искусства с помощью этого!" action="Use crumpled paper with painting" />
+	<221_speech caption="Я мог бы создать шедевр современного искусства с помощью этого!" action="Use telephone with painting" />
+	<222_speech caption="Просовывание их через щели не приведёт ни к чему хорошему." action="Use letter pieces with floorboard" />
+	<223_speech caption="Просовывание его через щели не приведёт ни к чему хорошему." action="Use letter with floorboard" />
+	<224_speech caption="Просовывание письма через щели не приведёт ни к чему хорошему." action="Use mail with floorboard" />
+	<225_speech caption="Это только сделает его более трудным для чтения." action="Use letter with sink" />
+	<226_speech caption="Я предпочитаю мягкие подушки." action="Use coat hanger with pillow" />
+	<227_speech caption="Думаю, она бы предпочла любовное письмо." action="Use mail with pillow" />
+	<228_speech caption="Я бы не хотел вмешиваться в работу предохранителя." action="Use envelope with fuse" />
+	<229_speech caption="Просовывание его через щели не приведёт ни к чему хорошему." action="Use envelope with floorboard" />
+	<230_speech caption="Я могу поднять крышку без посторонней помощи." action="Use envelope with lid" />
+	<231_speech caption="Это не подходящий инструмент для таких задач." action="Use crowbar with key" />
+	<232_speech caption="Я не хочу класть его обратно." action="Use telephone with box" />
+	<233_speech caption="Я не хочу класть его обратно." action="Use telephone with boxes" />
+	<234_speech caption="'Алло? Есть там кто внизу?'" action="Use telephone with floorboard" />
+	<235_speech caption="Я бы с удовольствием, но если его приготовить, он станет непригодным для использования." action="Use telephone with stove" />
+	<236_speech caption="На ней уже есть поплавок." action="Use fishing rod with piece of wood" />
+	<237_speech caption="Мне не нужно его разбавлять." action="Use baby oil with cold water tap" />
+	<238_speech caption="Электроника и вода — плохое сочетание." action="Use telephone with cold water tap" />
+	<239_speech caption="Электроника и вода — плохое сочетание." action="Use telephone with warm water tap" />
+	<240_speech caption="Электроника и вода — плохое сочетание." action="Use telephone with sink" />
+	<241_speech caption="Телефону ещё не пора спать." action="Use telephone with bed" />
+	<242_speech caption="Я бесполезен в постельных разговорах." action="Use telephone with pillow" />
+	<243_speech caption="Я не могу протиснуть его через решётку." action="Use telephone with ventilation grate" />
+	<244_speech caption="Если бы я захотел связаться с внешним миром, я мог бы просто открыть окно и закричать." action="Use telephone with window" />
+	<245_speech caption="Я предпочитаю, чтобы он не был скользким." action="Use baby oil with apartment key" />
+	<246_speech caption="-------condition-------" action="Use baby oil with floor" caption1="'Создайте смертельную ловушку, не выходя из собственного дома!'" caption2="'Веселье для всей семьи!'" condition="speechEvent" />
+	<247_speech caption="Это не произведёт хорошего первого впечатления на соседей." action="Use baby oil with right door" />
+	<248_speech caption="Это не произведёт хорошего первого впечатления на соседей." action="Use baby oil with left door" />
+	<249_speech caption="Мне не нужно это хранить." action="Use baby oil with box" />
+	<250_speech caption="Мне не нужно это хранить." action="Use baby oil with boxes" />
+	<251_speech caption="Мне не нужно загораживать камеру." action="Use letter with camera" />
+	<252_speech caption="Никакие ухищрения не вернут эти растения к жизни." action="Use crumpled paper with plants" />
+	<253_speech caption="Она слишком большая, чтобы поместиться в раковину." action="Use empty box with sink" />
+	<254_speech caption="Я бы предпочёл попридержать его." action="Use letter with lid" />
+	<255_speech caption="Мне не нужно загораживать камеру." action="Use envelope with camera" />
+	<256_speech caption="Я бы предпочёл попридержать его." action="Use apartment key with coat" />
+	<257_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with first mailbox" />
+	<258_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with second mailbox" />
+	<259_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with third mailbox" />
+	<260_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with fourth mailbox" />
+	<261_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with fifth mailbox" />
+	<262_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with sixth mailbox" />
+	<263_speech caption="На кровати нет замка." action="Use apartment key with bed" />
+	<264_speech caption="Я вообще-то периодически выбиваю наполнитель из подушки." action="Use crowbar with pillow" />
+	<265_speech caption="Я не могу достать так высоко." action="Use envelope with ventilation grate" />
+	<266_speech caption="Письмо недостаточно большое, чтобы закрыть уродливую картину." action="Use letter with painting" />
+	<267_speech caption="Сначала мне нужно поместить письмо в бутылку." action="Use mail with painting" />
+	<268_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with floor" />
+	<269_speech caption="Я бы предпочёл попридержать её." action="Use crumpled paper with floor" />
+	<270_speech caption="Я бы предпочёл попридержать его." action="Use letter with floor" />
+	<271_speech caption="Я бы предпочёл попридержать его." action="Use envelope with floor" />
+	<272_speech caption="Я бы предпочёл попридержать это." action="Use mail with floor" />
+	<273_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with sofa" />
+	<274_speech caption="Я бы предпочёл попридержать его." action="Use envelope with sink" />
+	<275_speech caption="На картине нет видимого замка." action="Use apartment key with painting" />
+	<276_speech caption="Я не могу достать так высоко." action="Use empty box with ventilation grate" />
+	<277_speech caption="Мне не нужно загораживать камеру." action="Use letter pieces with camera" />
+	<278_speech caption="Я бы предпочёл попридержать его." action="Use apartment key with box" />
+	<279_speech caption="Я бы предпочёл попридержать его." action="Use letter with coat" />
+	<280_speech caption="У меня нет каких-либо магнитиков на холодильник." action="Use letter with fridge" />
+	<281_speech caption="Я думаю, это будет храниться при комнатной температуре." action="Use mail with fridge" />
+	<282_speech caption="Я думаю, это будет храниться при комнатной температуре." action="Use crumpled paper with fridge" />
+	<283_speech caption="Хлипкое письмо не поможет освободить диван." action="Use letter with sofa" />
+	<284_speech caption="Это не выкапываемо." action="Use shovel with piece of wood" />
+	<285_speech caption="Я не хочу портить офисное оборудование мистера Мортона." action="Use letter pieces with stamp" />
+	<286_speech caption="Проникающий сквозь него свет, не откроет ничего нового." action="Use envelope with lamp" />
+	<287_speech caption="Они выглядят хорошо отдохнувшими." action="Use letter pieces with pillow" />
+	<288_speech caption="На бутылке нет петли для крючка." action="Use baby oil with towel hanger" />
+	<289_speech caption="Вешалка на вешалке — мой любимый вид порно с предметами домашнего обихода." action="Use coat hanger with towel hanger" />
+	<290_speech caption="Гитара слишком большая, чтобы поместиться в эту коробку." action="Use empty box with guitar" />
+	<291_speech caption="Я бы предпочёл попридержать его." action="Use letter with door" />
+	<292_speech caption="Наверное, будет лучше, если я просто буду использовать свои руки для работы с ней." action="Use crumpled paper with lid" />
+	<293_speech caption="Вам пришла почта!" action="Use letter with mirror" />
+	<294_speech caption="Вам пришла почта!" action="Use mail with mirror" />
+	<295_speech caption="-------condition-------" action="Use telephone with letter" caption1="Я запомнил номер." condition1="checkState('neff_letter_read') == true" caption2="Сначала мне нужно прочитать письмо." condition2="checkState('neff_letter_read') == false" />
+	<296_speech caption="Коробка слишком большая, чтобы поместиться в холодильнике." action="Use empty box with fridge" />
+	<297_speech caption="Мне не нужно это хранить." action="Use baby oil with empty box" />
+	<298_speech caption="На ней нет замка." action="Use apartment key with sink" />
+	<299_speech caption="Ополаскивание водой, вероятно, разрушит её." action="Use crumpled paper with sink" />
+	<300_speech caption="Я, вероятно, смогу развернуть её руками." action="Use crumpled paper with lid" />
+	<301_speech caption="KS marB &#10; 21 tserC tnoPuD &#10; ffeN srM &amp; rM" action="Use envelope with mirror" />
+	<302_speech caption="Лучше я пока попридержу его." action="Use envelope with door" />
+	<303_speech caption="Лучше я пока попридержу их." action="Use letter pieces with door" />
+	<304_speech caption="Вы Привратник?" action="Use apartment key with mirror" />
+	<305_speech caption="Вы Привратник?" action="Use apartment key with lamp" />
+	<306_speech caption="Бездумно выбрасывать ключи из окна — очень плохая идея." action="Use apartment key with window" />
+	<307_speech caption="Проникающий сквозь него свет, не откроет ничего нового." action="Use letter with lamp" />
+	<308_speech caption="Проникающий сквозь письмо свет, не откроет ничего нового." action="Use mail with lamp" />
+	<309_speech caption="Я не хочу засорять вентиляцию. Я предпочитаю дышать." action="Use letter with ventilation grate" />
+	<310_speech caption="Это ничего не проясняет." action="Use letter with window" />
+	<311_speech caption="Лучше я пока попридержу его." action="Use envelope with window" />
+	<312_speech caption="Лучше я пока попридержу это." action="Use mail with window" />
+	<313_speech caption="Мне не нужно это хранить." action="Use apartment key with boxes" />
+	<314_speech caption="Я прокачаю радиатор позже, когда мы более основательно обустроимся." action="Use apartment key with radiator" />
+	<315_speech caption="Я прокачаю радиаторы позже, когда мы более основательно обустроимся." action="Use apartment key with radiators" />
+	<316_speech caption="-------condition-------" action="Use letter with fuse" caption1="Я могу вытащить его своими руками." condition1="checkState('fuseBlown') == true" caption2="Я пока оставлю его там. Кажется, он справляется со своей работой." condition2="checkState('fuseBlown') == false" />
+	<317_speech caption="-------condition-------" action="Use envelope with fuse" caption1="Я могу вытащить его своими руками." condition1="checkState('fuseBlown') == true" caption2="Я пока оставлю его там. Кажется, он справляется со своей работой." condition2="checkState('fuseBlown') == false" />
+	<318_speech caption="-------condition-------" action="Use letter pieces with fuse" caption1="Я могу вытащить его своими руками." condition1="checkState('fuseBlown') == true" caption2="Я пока оставлю его там. Кажется, он справляется со своей работой." condition2="checkState('fuseBlown') == false" />
+	<319_speech caption="Я не хочу больше вмешиваться в работу этого лифта." action="Use coat hanger with elevator" />
+	<320_speech caption="Я бы лучше попридержал его." action="Use letter with left apartment door" />
+	<321_speech caption="Я бы лучше попридержал его." action="Use envelope with left apartment door" />
+	<322_speech caption="Я бы лучше попридержал их." action="Use letter pieces with left apartment door" />
+	<323_speech caption="Я бы лучше попридержал его." action="Use letter with right apartment door" />
+	<324_speech caption="Я бы лучше попридержал его." action="Use envelope with right apartment door" />
+	<325_speech caption="Я бы лучше попридержал их." action="Use letter pieces with right apartment door" />
+	<326_speech caption="Я бы лучше попридержал его." action="Use letter with your apartment door" />
+	<327_speech caption="Я бы лучше попридержал его." action="Use envelope with your apartment door" />
+	<328_speech caption="Я бы лучше попридержал их." action="Use letter pieces with your apartment door" />
+	<329_speech caption="Перестановка может подождать, пока мы не обустроимся." action="Use crowbar with towel hanger" />
+	<330_speech caption="Перестановка может подождать, пока мы не обустроимся." action="Use empty box with lamp" />
+	<331_speech caption="Письмо и так уже достаточно изорвано." action="Use letter pieces with guitar" />
+	<332_speech caption="Это не почтовый ящик." action="Use letter with box" />
+	<333_speech caption="Это не почтовый ящик." action="Use envelope with box" />
+	<334_speech caption="Это не почтовый ящик." action="Use mail with box" />
+	<335_speech caption="Это не почтовые ящики." action="Use mail with boxes" />
+	<336_speech caption="Я бы предпочёл их попридержать." action="Use letter pieces with box" />
+	<337_speech caption="Мне не нужно это хранить." action="Use letter with boxes" />
+	<338_speech caption="Мне не нужно это хранить." action="Use envelope with boxes" />
+	<339_speech caption="-------condition-------" action="Use letter with telephone" caption1="Я уже запомнил номер." condition1="checkState('note_read') == true" caption2="Мне лучше прочитать письмо." condition2="checkState('note_read') == false" />
+	<340_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with box" />
+	<341_speech caption="Мне бы лучше сначала прочитать записку." action="Use crumpled paper with ventilation grate" />
+	<342_speech caption="Мне бы лучше сначала прочитать записку." action="Use crumpled paper with ventilation grate" />
+	<343_speech caption="Если я попытаюсь отправить её по почте, она вернётся сюда же." action="Use envelope with painting" />
+	<344_speech caption="Коробка олдскульная. Она не работает от электричества." action="Use empty box with power outlet" />
+	<345_speech caption="Говорят, что с растениями нужно разговаривать, но читать им письма — это уже перебор." action="Use letter with plants" />
+	<346_speech caption="Если я попытаюсь отправить их по почте, они вернутся сюда же." action="Use envelope with plants" />
+	<347_speech caption="Так почту не отправляют!" action="Use envelope with elevator" />
+	<348_speech caption="Так почту не отправляют!" action="Use letter with elevator" />
+	<349_speech caption="Вы Привратник?" action="Use apartment key with gear" />
+	<350_speech caption="Это была бы реально плохая идея." action="Use apartment key with left power outlet" />
+	<351_speech caption="Это была бы реально плохая идея." action="Use apartment key with right power outlet" />
+	<352_speech caption="Мне не нужно мазать их чернилами." action="Use letter pieces with ink pad" />
+	<353_speech caption="Мне не нужно мазать его чернилами." action="Use letter with ink pad" />
+	<354_speech caption="Мне не нужно мазать его чернилами." action="Use envelope with ink pad" />
+	<355_speech caption="Вы Привратник?" action="Use apartment key with pillow" />
+	<356_speech caption="Вы Привратник?" action="Use apartment key with pillow" />
+	<357_speech caption="Перестановка может подождать, пока мы не обустроимся." action="Use empty box with alarm clock" />
+	<358_speech caption="Боюсь, это слишком извращённо для меня." action="Use baby oil with telephone outlet" />
+	<359_speech caption="Он не нуждается в охлаждении." action="Use envelope with fridge" />
+	<360_speech caption="Он не нуждается в охлаждении." action="Use envelope with fridge" />
+	<361_speech caption="Её не нужно нагревать." action="Use crumpled paper with radiator" />
+	<362_speech caption="Их не нужно нагревать." action="Use letter pieces with radiator" />
+	<363_speech caption="Его не нужно нагревать." action="Use letter with radiator" />
+	<364_speech caption="Его не нужно нагревать." action="Use envelope with radiator" />
+	<365_speech caption="Письмо не нужно нагревать." action="Use mail with radiator" />
+	<366_speech caption="Письмо не нужно нагревать." action="Use mail with radiator" />
+	<367_speech caption="В этой комнате нет телефонной розетки." action="Use telephone with floor" />
+	<368_speech caption="Разрушение напольного покрытия, вероятно, приведёт к тому, что нас выселят." action="Use crowbar with floor" />
+	<369_speech caption="Здесь нечего отпирать." action="Use apartment key with floor" />
+	<370_speech caption="Вам пришла почта!" action="Use letter with gear" />
+	<371_speech caption="Вам пришла почта!" action="Use envelope with gear" />
+	<372_speech caption="Это, вероятно, сделает их ещё более трудными для чтения, чем они уже есть." action="Use letter pieces with gear" />
+	<373_speech caption="На вешалке нет замка." action="Use coat hanger with apartment key" />
+	<374_speech caption="Мне не нужно класть её обратно." action="Use piece of wood with ground" />
+	<375_speech caption="Мне не нужно класть их обратно." action="Use two pieces of wood with ground" />
+	<376_speech caption="Мне не нужно класть их обратно." action="Use three pieces of wood with ground" />
+	<377_speech caption="Конечно, он будет хорошо смотреться висящим на этой стене, но я бы предпочёл попридержать его." action="Use apartment key with towel hanger" />
+	<378_speech caption="Конечно, она будет хорошо смотреться на этом месте, но я бы предпочёл попридержать её." action="Use empty box with lid" />
+	<379_speech caption="Они, конечно, хорошо бы смотрелись висящими на этой стене, но я предпочёл бы попридержать их." action="Use letter pieces with towel hanger" />
+	<380_speech caption="Конечно, оно будет хорошо смотреться висящим на этой стене, но я бы предпочёл попридержать его." action="Use letter with towel hanger" />
+	<381_speech caption="Конечно, он будет хорошо смотреться висящим на этой стене, но я бы предпочёл попридержать его." action="Use envelope with towel hanger" />
+	<382_speech caption="Конечно, письмо будет хорошо смотреться висящим на этой стене, но я бы предпочёл попридержать его." action="Use mail with towel hanger" />
+	<383_speech caption="Конечно, он будет хорошо смотреться висящим на этой стене, но я бы предпочёл попридержать его." action="Use telephone with towel hanger" />
+	<384_speech caption="Он заводится ключом, но это не тот ключ." action="Use apartment key with alarm clock" />
+	<385_speech caption="Он заводится ключом, но это не тот ключ." action="Use apartment key with alarm clock" />
+	<386_speech caption="Это только разрушило бы его ещё больше." action="Use crumpled paper with baby oil" />
+	<387_speech caption="Перестановка может подождать, пока мы не обустроимся." action="Use empty box with painting" />
+	<388_speech caption="Я бы лучше попридержал их." action="Use letter pieces with alarm clock" />
+	<389_speech caption="Я бы лучше попридержал это." action="Use mail with alarm clock" />
+	<390_speech caption="Я бы лучше попридержал его." action="Use letter with alarm clock" />
+	<391_speech caption="Я бы лучше попридержал его." action="Use envelope with alarm clock" />
+	<392_speech caption="Он слишком хлипкий, чтобы перебирать им струны как медиатором." action="Use envelope with guitar" />
+	<393_speech caption="Письмо слишком хлипкое, чтобы перебирать им струны как медиатором." action="Use mail with guitar" />
+	<394_speech caption="Оно слишком хлипкое, чтобы перебирать им струны как медиатором." action="Use letter with guitar" />
+	<395_speech caption="Из неё получился бы идеальный аквариум!" action="Use empty box with cold water tap" />
+	<396_speech caption="Из неё получился бы идеальный аквариум!" action="Use empty box with warm water tap" />
+	<397_speech caption="Мне не нужно класть их в конверт." action="Use letter pieces with mail" />
+	<398_speech caption="Мне не нужно это хранить." action="Use telephone with empty box" />
+	<399_speech caption="Мне не нужно это хранить." action="Use crumpled paper with empty box" />
+	<400_speech caption="Мне не нужно их хранить." action="Use letter pieces with empty box" />
+	<401_speech caption="Мне не нужно это хранить." action="Use letter with empty box" />
+	<402_speech caption="Мне не нужно это хранить." action="Use envelope with empty box" />
+	<403_speech caption="Мне не нужно это хранить." action="Use mail with empty box" />
+	<404_speech caption="Мне не нужно это хранить." action="Use apartment key with empty box" />
+	<405_speech caption="Я не хочу ломать ключ." action="Use crowbar with apartment key" />
+	<406_speech caption="Мне не нужен ключ, чтобы нажимать на кнопку." action="Use apartment key with alarm button" />
+	<407_speech caption="Не хочу расстраивать нашего нового соседа." action="Use baby oil with left apartment door" />
+	<408_speech caption="Дверь не выглядит скрипучей." action="Use baby oil with right apartment door" />
+	<409_speech caption="Дверь не выглядит скрипучей." action="Use baby oil with your apartment door" />
+	<410_speech caption="Я бы лучше попридержал его." action="Use letter with left door" />
+	<411_speech caption="Я бы лучше попридержал его." action="Use envelope with left door" />
+	<412_speech caption="Я бы лучше попридержал её." action="Use crumpled paper with left door" />
+	<413_speech caption="Я бы лучше попридержал их." action="Use letter pieces with left door" />
+	<414_speech caption="Я бы лучше попридержал его." action="Use letter with right door" />
+	<415_speech caption="Я бы лучше попридержал его." action="Use envelope with right door" />
+	<416_speech caption="Я бы лучше попридержал её." action="Use crumpled paper with right door" />
+	<417_speech caption="Я бы лучше попридержал их." action="Use letter pieces with right door" />
+	<418_speech caption="На обрывках письма нет замков." action="Use apartment key with letter pieces" />
+	<419_speech caption="На письме нет замка." action="Use apartment key with letter" />
+	<420_speech caption="Я могу просто развернуть бумагу руками." action="Use apartment key with crumpled paper" />
+	<421_speech caption="Конверт уже вскрыт." action="Use apartment key with envelope" />
+	<422_speech caption="Он не может помочь мне с этим. Или с чем-либо другим, раз уж на то пошло." action="Use crumpled paper with mover" />
+	<423_speech caption="Оно слишком хлипкое, чтобы быть здесь хоть сколько-нибудь полезным." action="Use letter with sofa" />
+	<424_speech caption="Он слишком хлипкий, чтобы быть здесь хоть сколько-нибудь полезным." action="Use envelope with sofa" />
+	<425_speech caption="Она слишком хлипкая, чтобы быть здесь хоть сколько-нибудь полезной." action="Use crumpled paper with sofa" />
+	<426_speech caption="Они слишком хлипкие, чтобы быть полезными здесь." action="Use letter pieces with sofa" />
+	<427_speech caption="У меня не будет достаточного рычага." action="Use apartment key with sofa" />
+	<428_speech caption="На ней нет замка." action="Use apartment key with lid" />
+	<429_speech caption="Она бы прекрасно смотрелась висящей на этой стене, но я бы предпочёл держать её у себя." action="Use empty box with towel hanger" />
+	<430_speech caption="Это привело бы только к беспорядку." action="Use baby oil with crumpled paper" />
+	<431_speech caption="Скомканной бумаге ещё не пора спать." action="Use crumpled paper with bed" />
+	<432_speech caption="Скомканной бумаге ещё не пора спать." action="Use crumpled paper with pillow" />
+	<433_speech caption="В городе уже и так достаточно мусора." action="Use crumpled paper with window" />
+	<434_speech caption="Я бы лучше попридержал её." action="Use crumpled paper with alarm clock" />
+	<435_speech caption="Проникающий сквозь неё свет, не откроет ничего нового." action="Use crumpled paper with lamp" />
+	<436_speech caption="Мне не нужно это хранить." action="Use crumpled paper with box" />
+	<437_speech caption="Мне не нужно это хранить." action="Use crumpled paper with boxes" />
+	<438_speech caption="Мне не нужно это хранить." action="Use empty box with pillow" />
+	<439_speech caption="Конверту ещё не пора спать." action="Use envelope with bed" />
+	<440_speech caption="Письму ещё не пора спать." action="Use letter with bed" />
+	<441_speech caption="Конверту ещё не пора спать." action="Use envelope with pillow" />
+	<442_speech caption="Письму ещё не пора спать." action="Use letter with pillow" />
+	<443_speech caption="Письму ещё не пора спать." action="Use mail with bed" />
+	<444_speech caption="Я бы лучше попридержал их." action="Use letter pieces with hole" />
+	<445_speech caption="Я бы лучше попридержал его." action="Use letter with hole" />
+	<446_speech caption="Я бы лучше попридержал его." action="Use envelope with hole" />
+	<447_speech caption="Я бы лучше попридержал его." action="Use envelope with hole" />
+	<448_speech caption="Я не могу их совместить." action="Use letter with letter pieces" />
+	<449_speech caption="Я не могу их совместить." action="Use coat hanger with letter" />
+	<450_speech caption="Я не могу их совместить." action="Use coat hanger with envelope" />
+	<451_speech caption="Я не могу их совместить." action="Use coat hanger with letter pieces" />
+	<452_speech caption="Она слишком хлипкая, чтобы перебирать ей струны как медиатором." action="Use crumpled paper with guitar" />
+	<453_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter pieces with power outlet" />
+	<454_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter with power outlet" />
+	<455_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use envelope with power outlet" />
+	<456_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use mail with power outlet" />
+	<457_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use crumpled paper with power outlet" />
+	<458_speech caption="На обрывках письма нет номера телефона." action="Use letter pieces with telephone" />
+	<459_speech caption="На конверте нет номера телефона." action="Use envelope with telephone" />
+	<460_speech caption="На конверте нет номера телефона." action="Use mail with telephone" />
+	<461_speech caption="Я не вижу номера телефона на скомканной бумажке." action="Use crumpled paper with telephone" />
+	<462_speech caption="Они бы прекрасно смотрелись висящими на этой стене, но я бы предпочёл держать их у себя." action="Use letter pieces with hook" />
+	<463_speech caption="Оно бы прекрасно смотрелось висящим на этой стене, но я бы предпочёл держать его у себя." action="Use letter with hook" />
+	<464_speech caption="Он бы прекрасно смотрелся висящим на этой стене, но я бы предпочёл держать его у себя." action="Use envelope with hook" />
+	<465_speech caption="Письмо бы прекрасно смотрелось висящим на этой стене, но я бы предпочёл держать его у себя." action="Use mail with hook" />
+	<466_speech caption="Вешалка-на-крючке — мой второй любимый вид порно с предметами домашнего обихода." action="Use coat hanger with hook" />
+	<467_speech caption="Я пока попридержу его." action="Use apartment key with hook" />
+	<468_speech caption="-------condition-------" action="Use letter pieces with Alicia" caption1="Она разговаривает по телефону." condition1="checkState('cameraDiscoveryCutsceneShowed') == true" caption2="Она слишком далеко." condition2="checkState('cameraDiscoveryCutsceneShowed') == false" condition="currentLocation == 'neff_hallway'" />
+	<469_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter pieces with telephone outlet" />
+	<470_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use crumpled paper with telephone outlet" />
+	<471_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter with telephone outlet" />
+	<472_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use envelope with telephone outlet" />
+	<473_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use mail with telephone outlet" />
+	<474_speech caption="Коробка олдскульная. Она не работает от электричества." action="Use empty box with telephone outlet" />
+	<475_speech caption="Нет, телефон ещё может пригодиться." action="Use crowbar with telephone" />
+	<476_speech caption="Мне не нужно ополаскивать вешалку." action="Use coat hanger with warm water tap" />
+	<477_speech caption="Мне не нужно ополаскивать вешалку." action="Use coat hanger with cold water tap" />
+	<478_speech caption="Разрушение водопровода, вероятно, приведет к тому, что нас выселят." action="Use crowbar with warm water tap" />
+	<479_speech caption="Разрушение водопровода, вероятно, приведет к тому, что нас выселят." action="Use crowbar with cold water tap" />
+	<480_speech caption="Здесь нечего отпирать." action="Use apartment key with plants" />
+	<481_speech caption="-------condition-------" action="Use apartment key with right apartment" caption1="Мне не нужно запирать дверь." condition1="currentLocation == 'estate_floor_2'" caption2="Это не подходящий ключ." condition2="currentLocation != 'estate_floor_2'" />
+	<482_speech caption="-------condition-------" action="Use apartment key with your apartment" caption1="Мне не нужно запирать дверь." condition1="currentLocation == 'estate_floor_2'" caption2="Это не подходящий ключ." condition2="currentLocation != 'estate_floor_2'" />
+	<483_speech caption="Это не подходящий ключ." action="Use apartment key with right door" />
+	<484_speech caption="Это не подходящий ключ." action="Use apartment key with left apartment" />
+	<485_speech caption="Это не подходящий ключ." action="Use apartment key with left door" />
+	<486_speech caption="Я могу просто развернуть бумагу руками." action="Use crumpled paper with elevator" />
+	<487_speech caption="Мне не нужно засовывать бумагу в лифт." action="Use crumpled paper with elevator" />
+	<488_speech caption="Мне не нужно засовывать бумагу в двери." action="Use crumpled paper with left apartment door" />
+	<489_speech caption="Мне не нужно засовывать бумагу в двери." action="Use crumpled paper with right apartment door" />
+	<490_speech caption="Мне не нужно засовывать бумагу в двери." action="Use crumpled paper with your apartment door" />
+	<491_speech caption="Мне не нужно засовывать бумагу в двери." action="Use crumpled paper with left door" />
+	<492_speech caption="Мне не нужно засовывать бумагу в двери." action="Use crumpled paper with right door" />
+	<493_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use crumpled paper with alarm button" />
+	<494_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use letter pieces with alarm button" />
+	<495_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use letter with alarm button" />
+	<496_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use envelope with alarm button" />
+	<497_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use crowbar with alarm button" />
+	<498_speech caption="Мне не требуется это, чтобы нажать на кнопку." action="Use coat hanger with alarm button" />
+	<499_speech caption="Мне не нужно уничтожать обрывки письма." action="Use crowbar with letter pieces" />
+	<500_speech caption="Мне не нужно уничтожать письмо." action="Use crowbar with letter" />
+	<501_speech caption="Мне не требуется монтировка, чтобы открыть конверт." action="Use crowbar with envelope" />
+	<502_speech caption="Я могу развернуть бумажку своими руками." action="Use crowbar with crumpled paper" />
+	<503_speech caption="Я не знаю как взламывать замки, и я не думаю, что это подходящий инструмент для этого в любом случае." action="Use letter pieces with keyhole" />
+	<504_speech caption="Я не знаю как взламывать замки, и я не думаю, что это подходящий инструмент для этого в любом случае." action="Use letter with keyhole" />
+	<505_speech caption="Я не знаю как взламывать замки, и я не думаю, что это подходящий инструмент для этого в любом случае." action="Use envelope with keyhole" />
+	<506_speech caption="Я не знаю как взламывать замки, и я не думаю, что это подходящий инструмент для этого в любом случае." action="Use crumpled paper with keyhole" />
+	<507_speech caption="Так огонь не разожжёшь." action="Use piece of wood with rock" />
+	<508_speech caption="Так огонь не разожжёшь." action="Use two pieces of wood with rock" />
+	<509_speech caption="Так огонь не разожжёшь." action="Use three pieces of wood with rock" />
+	<510_speech caption="Объекты в зеркале ближе, чем кажутся." action="Use empty box with mirror" />
+	<511_speech caption="Я и так достаточно разговариваю сам с собой." action="Use telephone with mirror" />
+	<512_speech caption="На холодильнике нет замка." action="Use apartment key with fridge" />
+	<513_speech caption="Это, вероятно, уничтожило бы её." action="Use crumpled paper with warm water tap" />
+	<514_speech caption="Это, вероятно, уничтожило бы её." action="Use crumpled paper with cold water tap" />
+	<515_speech caption="Пролитая на письмо вода только затруднит чтение." action="Use mail with sink" />
+	<516_speech caption="Это, вероятно, уничтожило бы письмо." action="Use mail with warm water tap" />
+	<517_speech caption="Это, вероятно, уничтожило бы письмо." action="Use mail with cold water tap" />
+	<518_speech caption="Это, вероятно, уничтожило бы его." action="Use envelope with warm water tap" />
+	<519_speech caption="Это, вероятно, уничтожило бы его." action="Use envelope with cold water tap" />
+	<520_speech caption="Это, вероятно, уничтожило бы его." action="Use letter with warm water tap" />
+	<521_speech caption="Это, вероятно, уничтожило бы его." action="Use letter with cold water tap" />
+	<522_speech caption="Это, вероятно, уничтожило бы их." action="Use letter pieces with warm water tap" />
+	<523_speech caption="Это, вероятно, уничтожило бы их." action="Use letter pieces with cold water tap" />
+	<524_speech caption="Это не почтовый ящик." action="Use mail with box" />
+	<525_speech caption="Это не почтовые ящики." action="Use mail with boxes" />
+	<526_speech caption="Лучше я пока попридержу это." action="Use mail with coat" />
+	<527_speech caption="Говорят, что с растениями нужно разговаривать, но читать им письма — это уже перебор." action="Use mail with plants" />
+	<528_speech caption="Это похоже на спам, но я всё равно хочу прочитать письмо, прежде чем его выбросить." action="Use mail with lid" />
+	<529_speech caption="Мне не нужно его хранить. Алисия пользуется им." action="Use empty box with coat" />
+	<530_speech caption="Лучше я пока попридержу их." action="Use letter pieces box with coat" />
+	<531_speech caption="Лучше я пока попридержу её." action="Use crumpled paper box with coat" />
+	<532_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use crumpled paper with right power outlet" />
+	<533_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use crumpled paper with left power outlet" />
+	<534_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter pieces with right power outlet" />
+	<535_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter pieces with left power outlet" />
+	<536_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use envelope with right power outlet" />
+	<537_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use envelope with left power outlet" />
+	<538_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter with right power outlet" />
+	<539_speech caption="Засовывать случайные предметы в розетки — плохая идея." action="Use letter with left power outlet" />
+	<540_speech caption="Оно не проводит электричество." action="Use letter with socket" />
+	<541_speech caption="Они не проводят электричество." action="Use letter pieces with socket" />
+	<542_speech caption="Он не проводит электричество." action="Use envelope with socket" />
+	<543_speech caption="В карманах Алисии и так достаточно всякого дерьма." action="Use letter pieces with coat" />
+	<544_speech caption="В карманах Алисии и так достаточно всякого дерьма." action="Use crumpled paper with coat" />
+	<545_speech caption="В карманах Алисии и так достаточно всякого дерьма." action="Use envelope with coat" />
+	<546_speech caption="Мне не нужны инструменты, чтобы развернуть её." action="Use crumpled paper with towel hanger" />
+	<547_speech caption="Мне не нужны инструменты, чтобы развернуть её." action="Use crumpled paper with gear" />
+	<548_speech caption="Я не хочу выбрасывать её, она может пригодиться." action="Use piece of wood with ocean" />
+	<549_speech caption="Я не хочу выбрасывать её, она может пригодиться." action="Use shovel with ocean" />
+	<550_speech caption="Они нравятся друг другу, я могу сказать." action="Use two pieces of wood with forked branch" />
+	<551_speech caption="Мне не нужна помощь мистера Мортона, чтобы развернуть бумажку." action="Use crumpled paper with Mr Morton" />
+	<552_speech caption="Засовывать металлические предметы в источники питания — РЕАЛЬНО плохая идея." action="Use apartment key with power outlet" />
+	<553_speech caption="Это не корзина для мусора." action="Use crumpled paper with hole" />
+	<554_speech caption="Мне не нужна изоляция, я могу вытащить его голыми руками." action="Use envelope with burned fuse" />
+	<555_speech caption="Мне не нужна изоляция, я могу вытащить его голыми руками." action="Use letter with burned fuse" />
+	<556_speech caption="Мне не нужно его ополаскивать." action="Use apartment key with warm water tap" />
+	<557_speech caption="Мне не нужно его ополаскивать." action="Use apartment key with cold water tap" />
+	<558_speech caption="Мне не нужны инструменты, чтобы развернуть её." action="Use crumpled paper with coat hanger" />
+	<559_speech caption="Класть большой бумажный предмет на поверхность для приготовления пищи — плохая идея." action="Use empty box with stove" />
+	<560_speech caption="Люди и так получают достаточно спама." action="Use envelope with mail boxes" />
+	<561_speech caption="Люди и так получают достаточно спама." action="Use letter with mail boxes" />
+	<562_speech caption="Я не хочу беспокоить своих новых соседей. Они могут воспринять порванные, сожжённые письма как угрозу." action="Use letter pieces with mail boxes" />
+	<563_speech caption="Она слишком хлипкая, чтобы получить хоть какой-то рычаг." action="Use crumpled paper with floorboard" />
+	<564_speech caption="Это не приносит никакой пользы." action="Use crumpled paper with letter" />
+	<565_speech caption="Мне не нужно класть её в конверт." action="Use envelope with crumpled paper" />
+	<566_speech caption="Мне не нужно класть письмо в конверт." action="Use mail with crumpled paper" />
+	<567_speech caption="Это не подходящий ключ." action="Use apartment key with keyhole" />
+	<568_speech caption="Я не хочу её сжигать." action="Use lighter with map" />
+	<569_speech caption="Алисия бы этого не оценила." action="Use baby oil with shampoo" />
+	<570_speech caption="Алисия бы этого не оценила." action="Use baby oil with sofa" />
+	<571_speech caption="На визитной карточке нет замка." action="Use calling card with key" />
+	<572_speech caption="Я вполне уверен, что ему не нужно звонить самому себе." action="Use calling card with mover" />
+	<573_speech caption="Чтобы пустить искры? Для этого камень должен быть кремнем." action="Use shovel with rock" />
+	<574_speech caption="Мне не нужно смазывать её петли." action="Use baby oil with door" />
+	<575_speech caption="Это заманчиво..." action="Use baby oil with mover" />
+	<576_speech caption="Алисия бы этого не оценила." action="Use baby oil with conditioner" />
+	<577_speech caption="Алисия бы этого не оценила." action="Use baby oil with skin lotion" />
+	<578_speech caption="Мне не нужно её смазывать." action="Use baby oil with keyhole" />
+	<579_speech caption="Это не наша дверь." action="Use apartment key with left apartment door" />
+	<580_speech caption="На визитке нет замка." action="Use calling card with apartment key" />
+	<581_speech caption="Мне не нужно её смазывать." action="Use coat hanger with baby oil" />
+	<582_speech caption="Ни за что, я даже не люблю суши." action="Use fish with yourself" />
+	<583_speech caption="Мне больше не нужно её готовить." action="Use grilled fish with lighter" />
+	<584_speech caption="Мне не нужно её выкапывать." action="Use shovel with forked branch" />
+	<585_speech caption="Мне не нужно его смазывать." action="Use baby oil with key" />
+	<586_speech caption="Это просто создаст беспорядок." action="Use coat hanger with skin lotion" />
+	<587_speech caption="Это просто создаст беспорядок." action="Use baby oil with floorboard" />
+
+</siteCopy>

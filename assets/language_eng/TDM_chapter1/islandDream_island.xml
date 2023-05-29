@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+	
+	<0_general caption="" />
+	<1_pole caption="I might be able to catch fish with this." />
+	
+	<2_trees caption="Are those coconuts?" />
+    
+	<3_boat caption="The boat has been smashed against that rock." />
+    <4_boat caption="Is that how I ended up here?" />
+    <5_boat caption="It's strange that I can't remember something like that..." />
+
+	<6_wood caption="It's surprisingly dry." />
+	<7_wood caption="I can probably use it for kindling." />
+    
+	<8_general caption="" />
+	
+	<9_rock caption="That seems to have killed the fish." />
+	<10_rock caption="The fish is already dead." />
+    <11_rock caption="Hitting the rock with the shovel won't achieve anything." />
+    
+	<12_general caption="" />
+	
+	<13_general caption="" />
+	<14_general caption="" />
+	
+	<15_general caption="" />
+	<16_general caption="" />
+	<17_general caption="" />
+	
+	<18_general caption="" />
+	<19_general caption="" />
+	
+	<20_general caption="" />
+	<21_general caption="" />
+	
+	<22_general caption="" />
+	<23_general caption="" />
+	<24_general caption="" />
+	<25_general caption="" />
+	<26_general caption="" />
+	<27_general caption="" />
+	<28_general caption="" />
+	<29_general caption="" />
+	<30_general caption="" />
+	<31_general caption="" />
+	<32_general caption="" />
+	<33_general caption="" />
+	
+</siteCopy>

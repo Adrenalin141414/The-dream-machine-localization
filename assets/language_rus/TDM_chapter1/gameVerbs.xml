@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteCopy>
+
+	<!-- ******************************** -->
+	<!-- * Location: islandDream_island * -->
+	<!-- ******************************** -->
+	
+	<0_verbs caption="Закрыть" />
+	<1_verbs caption="Войти в" />
+	<2_verbs caption="Осмотреть" />
+	<3_verbs caption="Смыть" />
+	<4_verbs caption="Идти" />
+	<5_verbs caption="Повесить трубку" />
+	<6_verbs caption="Поднять" />
+	<7_verbs caption="Посмотреть на" />
+	<8_verbs caption="Смотреть в" />
+	<9_verbs caption="Подвинуть" />
+	<10_verbs caption="Открыть" />
+	<11_verbs caption="Подобрать" />
+	<12_verbs caption="Нажать" />
+	<13_verbs caption="Нажать" />
+	<14_verbs caption="Положить" />
+	<15_verbs caption="Выловить" />
+	<16_verbs caption="Встать сюда" />
+	<17_verbs caption="Выключить" />
+	<18_verbs caption="Включить" />
+	<19_verbs caption="Применить" />
+	<20_verbs caption="Смотреть" />
+	<21_verbs caption="на" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_bedRoom * -->
+	<!-- ************************** -->
+
+	<22_verbs caption="Извлечь" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_greyRoom * -->
+	<!-- *************************** -->
+
+	<23_verbs caption="Заглянуть в" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_hallway * -->
+	<!-- ************************** -->
+
+	<24_verbs caption="Покинуть" />
+
+
+
+	<!-- ************************** -->
+	<!-- * Location: neff_kitchen * -->
+	<!-- ************************** -->
+
+	<25_verbs caption="Говорить с" />
+	<26_verbs caption="Повернуть" />
+
+
+
+	<!-- ***************************** -->
+	<!-- * Location: neff_livingRoom * -->
+	<!-- ***************************** -->
+	
+	<27_verbs caption="Сесть за" />
+
+
+
+	<!-- *************************** -->
+	<!-- * Location: neff_bathRoom * -->
+	<!-- *************************** -->
+
+	<28_verbs caption="Принять" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_2 * -->
+	<!-- **************************** -->
+
+	<29_verbs caption="Вызвать" />
+	<30_verbs caption="Покинуть" />
+	<31_verbs caption="Позвонить в" />
+
+
+
+	<!-- **************************** -->
+	<!-- * Location: estate_floor_1 * -->
+	<!-- **************************** -->
+
+	<32_verbs caption="Завершить" />
+
+	<!-- * morton_window * -->
+	<33_verbs caption="Поднять" />
+
+</siteCopy>
