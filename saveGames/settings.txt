@@ -1,0 +1,1 @@
+commentary:off;interactionAreaSetting:on;hints:off;gamepad:on;userLanguage:rus;useLanguage:rus;walkingSpeed:2;readingSpeed:Выкл;colorAid:off;readingAid:off;hearingAid:off;fullscreen:on;displayTutorial:off;animationEffects:off;music:on;sound:on;renderQuality:HIGH;
