@@ -82,8 +82,8 @@
 
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
 	<text en="That's not how you catch a fish." ru="Так рыбу не поймаешь." action="Use fishing rod with ground" />
-	<text en="I'm not stupid enough to bite--" ru="Я не настолько глуп, чтобы попасться--" action="Use fishing rod with yourself" />
-	<text en="--but I sure would be a prize catch!" ru="--но я точно был бы призовым уловом!" action="Use fishing rod with yourself" />
+	<text en="I'm not stupid enough to bite--" ru="Я не настолько глуп, чтобы попасться..." action="Use fishing rod with yourself" />
+	<text en="--but I sure would be a prize catch!" ru="...но я точно был бы призовым уловом!" action="Use fishing rod with yourself" />
 	<text en="I'm hot enough as it is." ru="Я и без того достаточно горяч." action="Use lighter with yourself" />
 	<text en="I'm hungry, but I'm not THAT hungry." ru="Я голоден, но я не НАСТОЛЬКО голоден." action="Use worm with yourself" condition="currentLocation == 'islandDream_island'" />
 	<text en="I already dig myself." ru="Я уже закопал себя." action="Use shovel with yourself" />
@@ -93,12 +93,12 @@
 	<text en="I'm too hungry to just let it go." ru="Я слишком голоден, чтобы просто отпустить её." action="Use fish with ocean" />
 	<text en="I can't bear to hook the poor thing again." ru="Я не могу позволить себе снова насадить бедняжку на крючок." action="Use fish with fishing rod" />
 	<text en="I can't eat raw fish." ru="Я не могу есть сырую рыбу." action="Use fish with yourself" />
-	<text en="Just as I suspected--" ru="Как я и предполагал--" action="Use grilled fish with yourself" condition="!checkState('youngVictorMapFound')" />
-	<text en="--there's a piece of paper in the belly of the fish." ru="--в брюхе рыбы лежит клочок бумаги." action="Use grilled fish with yourself" />
-	<text en="It tastes great, but--" ru="На вкус отлично, но--" action="Use grilled fish with yourself" condition="currentLocation == 'islandDream_island'" />
-	<text en="--what's this?" ru="--что это?" action="Use grilled fish with yourself" condition="currentLocation == 'islandDream_island'" />
+	<text en="Just as I suspected--" ru="Как я и предполагал..." action="Use grilled fish with yourself" condition="!checkState('youngVictorMapFound')" />
+	<text en="--there's a piece of paper in the belly of the fish." ru="...в брюхе рыбы лежит клочок бумаги." action="Use grilled fish with yourself" />
+	<text en="It tastes great, but--" ru="На вкус отлично, но..." action="Use grilled fish with yourself" condition="currentLocation == 'islandDream_island'" />
+	<text en="--what's this?" ru="...что это?" action="Use grilled fish with yourself" condition="currentLocation == 'islandDream_island'" />
 	<text en="There's a piece of paper in the belly of the fish." ru="В брюхе рыбы лежит клочок бумаги." action="Use grilled fish with yourself" condition="currentLocation == 'islandDream_island'" />
-	<text en="Use shovel with forked branch" ru="Ей хорошо там, где она и есть." action="Use shovel with forked branch" />
+	<text en="It's fine where it is." ru="Этому хорошо там, где оно и есть." action="Use shovel with forked branch" />
 	<text en="It would be better to use it as bait." ru="Лучше использовать его в качестве наживки." action="Use worm with forked branch" />
 	<text en="The fire is already burning." ru="Огонь уже горит." action="Use lighter with fireplace" condition="checkState('fire_started')" />
 	<text en="There's not enough kindling to sustain a fire." ru="Недостаточно хвороста, чтобы поддерживать огонь." action="Use lighter with fireplace" condition="checkState('one_wood_placed') or checkState('two_wood_placed')" />
@@ -137,6 +137,11 @@
 
 	<!-- Examine -->
 	<text en="It's almost noon!" ru="Уже почти полдень!" action="Examine alarm clock" />
+	<!-- after breakfast -->
+	<text en="This used to belong to my dad." ru="Раньше это принадлежало моему отцу." action="Examine alarm clock" />
+	<text en="It's really old, but it still runs perfectly." ru="Штуковина очень старая, но до сих пор отлично работает." action="Examine alarm clock" />
+	<text en="They don't build things like this anymore." ru="Таких вещей больше не делают." action="Examine alarm clock" />
+
 	<text en="I guess I must've been really tired after all that lugging." ru="Полагаю, я, должно быть, очень устал после всей этой возни." action="Examine alarm clock" />
 	<text en="The board is nailed to the floor." ru="Доска прибита к полу." action="Examine floorboard" />
 	<text en="I can’t get it up with my bare hands." ru="Я не могу вытащить её голыми руками." action="Examine floorboard" />
@@ -172,7 +177,7 @@
 	<text en="There's a surveillance camera pointed straight at the bed." ru="Камера слежения направлена прямо на кровать." action="Examine camera" />
 	<text en="I feel like smashing it, but the police won't like it if I destroy evidence." ru="Мне хочется разбить её, но полиции не понравится, если я уничтожу улики." action="Examine camera" />
 
-	<text en="The circuit has been overloaded." ru="Электрическая цепь была подверглась перегрузке." action="Examine floorboard" />
+	<text en="The circuit has been overloaded." ru="Электрическая цепь подверглась перегрузке." action="Examine floorboard" />
 	<text en="There's nothing more I can do with it." ru="Больше я ничего не могу с этим сделать." action="Examine floorboard" />
 
 	<!-- Push -->
@@ -205,10 +210,10 @@
 
 	<text en="It could be any one of the neighbors." ru="Это мог бы быть кто угодно из соседей." />
 	<text en="A neighbor?" ru="Соседи?" speaker="Alicia" />
-	<text en="They would have to break in--" ru="Им пришлось бы вломиться--" speaker="Alicia" />
-	<text en="--cut a hole in the wall--" ru="--проделать дыру в стене--" speaker="Alicia" />
-	<text en="--mount the camera--" ru="--установить камеру--" speaker="Alicia" />
-	<text en="--draw a cable through some walls." ru="--провести кабель через несколько стен." speaker="Alicia" />
+	<text en="They would have to break in--" ru="Им пришлось бы вломиться..." speaker="Alicia" />
+	<text en="--cut a hole in the wall--" ru="...проделать дыру в стене..." speaker="Alicia" />
+	<text en="--mount the camera--" ru="...установить камеру..." speaker="Alicia" />
+	<text en="--draw a cable through some walls." ru="...провести кабель через несколько стен." speaker="Alicia" />
 	<text en="All this without anyone noticing." ru="И всё это незаметно для окружающих." speaker="Alicia" />
 	<text en="You're right, it sounds a bit far-fetched." ru="Ты права, звучит немного неправдоподобно." />
 
@@ -279,6 +284,18 @@
 	<text en="I wonder what it operated?" ru="Интересно, чем она управляла?" />
 
 
+
+	<!-- **************************** -->
+	<!-- * Location: neff_floorhole * -->
+	<!-- **************************** -->
+
+
+	<!-- [Speech] -->
+
+	<text en="The circuit path seems to have reset itself." ru="Похоже, что схема сбросилась сама собой." />
+	<text en="I guess it's on a timer or something." ru="Наверное, она на таймере или что-то вроде того." />
+
+
 	<!-- *************************** -->
 	<!-- * Location: neff_greyRoom * -->
 	<!-- *************************** -->
@@ -344,8 +361,8 @@
 	<text en="Prosser &amp; Ankovich didn’t have you listed as the caretaker." ru="В 'Prosser &amp; Ankovich' не было указано, что вы являетесь смотрителем." action="Open door" />
 	<text en="I can see how that would be confusing." ru="Понимаю, как это может сбить с толку." action="Open door" speaker="Mr Morton" />
 	<text en="My family’s owned the house for generations." ru="Моя семья владеет этим домом уже несколько поколений." action="Open door" speaker="Mr Morton" />
-	<text en="I rent out the apartments I don’t need and try to take care of the estate as best that I can--" ru="Я сдаю квартиры, в которых не нуждаюсь, и стараюсь заботиться об этом поместье как можно лучше--" action="Open door" speaker="Mr Morton" />
-	<text en="--making me both the caretaker and your landlord." ru="--что делает меня одновременно и смотрителем, и вашим домовладельцем." action="Open door" speaker="Mr Morton" />
+	<text en="I rent out the apartments I don’t need and try to take care of the estate as best that I can--" ru="Я сдаю квартиры, в которых не нуждаюсь, и стараюсь заботиться об этом поместье как можно лучше..." action="Open door" speaker="Mr Morton" />
+	<text en="--making me both the caretaker and your landlord." ru="...что делает меня одновременно и смотрителем, и вашим домовладельцем." action="Open door" speaker="Mr Morton" />
 	<text en="I see." ru="Ясно." action="Open door" />
 	<text en="If I need you again, where do I find you?" ru="Если вы мне снова понадобитесь, где я могу вас найти?" action="Open door" />
 	<text en="I have an office downstairs." ru="У меня офис вниз по лестнице." action="Open door" speaker="Mr Morton" />
@@ -395,7 +412,7 @@
 	<text en="All right." ru="Хорошо." action="Leave apartment" />
 	<text en="All right..." ru="Хорошо..." action="Leave apartment" />
 	<text en="All right. Goodbye." ru="Хорошо. До свидания." action="Leave apartment" />
-	<text en="--I'll stay until he's been here then." ru="--Тогда я останусь, пока он не появится здесь." action="Leave apartment" />
+	<text en="--I'll stay until he's been here then." ru="...тогда я останусь, пока он не появится здесь." action="Leave apartment" />
 	<text en="I'll stay until he's been here then." ru="Тогда я останусь, пока он не появится здесь." action="Leave apartment" />
 	<text en="He hasn’t forgotten us, has he?" ru="Он ведь не забыл про нас, не так ли?" action="Leave apartment" />
 	<text en="Why don’t I call him and make sure he hasn’t?" ru="Почему бы мне не позвонить ему и не убедиться, что он не забыл?" action="Leave apartment" />
@@ -417,7 +434,7 @@
 	<text en="All right, I guess they can do without me for a little longer." ru="Ладно, думаю, они смогут обойтись без меня ещё немного." action="Leave apartment" />
 
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
-	<text en="It's fine where it is." ru="Ему хорошо там, где оно и есть." action="Use coat hanger with coat" />
+	<text en="It's fine where it is." ru="Этому хорошо там, где оно и есть." action="Use coat hanger with coat" />
 	
 	<text en="[Call Mr Morton]" ru="[Позвонить Mr Morton]" />
 	<text en="Morton here." ru="Morton слушает." />
@@ -757,7 +774,11 @@
 	<text en="It's to your left, Victor." ru="Она слева от тебя, Виктор." action="Use empty box with Alicia" speaker="Alicia" />
 	<text en="I'm too tired, Alicia. Can't you do it?" ru="Я слишком устал, Алисия. Ты не можешь сама это сделать?" action="Use empty box with Alicia" />
 	<text en="I'm too big to fit in this box." ru="Я слишком большой, чтобы поместиться в эту коробку." action="Use empty box with yourself" />
-	<text en="I think it might be a hoax." ru="Я думаю, это может быть розыгрыш." action="Use letter pieces with Alicia" speaker="Alicia" />
+	<text en="You mind if I squirt some baby oil on you?" ru="Не возражаешь, если я выплесну на тебя немного детского масла?" action="Use baby oil with Alicia" />
+	<text en="I thought you'd never ask." ru="Я думала, что ты никогда бы не стал спрашивать." action="Use baby oil with Alicia" speaker="Alicia" />
+	<text en="It seems to be the remains of a letter." ru="Похоже, это остатки письма." action="Use crumpled paper with yourself" />
+	<text en="Hm... Let me see." ru="Хм... Дай-ка посмотрю." action="Use letter pieces with Alicia" speaker="Alicia" />
+	<text en="I think it might be a hoax." ru="Думаю, это может быть розыгрыш." action="Use letter pieces with Alicia" speaker="Alicia" />
 	<text en="It sounds too good to be true, otherwise." ru="Иначе это звучит слишком хорошо, чтобы быть правдой." action="Use letter pieces with Alicia" speaker="Alicia" />
 	<text en="Like something you'd read in a crime novel." ru="Как будто читаешь нечто из криминального романа." action="Use letter pieces with Alicia" speaker="Alicia" />
 	<text en="He probably left us a present under the floorboards and wanted to rile us up a bit before we found it." ru="Возможно, он оставил нам подарок под половицами и хотел немного взбудоражить нас, прежде чем мы его найдем." action="Use letter pieces with Alicia" speaker="Alicia" />
@@ -766,10 +787,7 @@
 	<text en="He seems to have made sure we can read the important parts at least." ru="Похоже, он позаботился о том, чтобы мы могли прочитать хотя бы важные части." action="Use letter pieces with Alicia" speaker="Alicia" />
 	<text en="Either way, I think we should check what’s under the floorboards in the bedroom." ru="В любом случае, я думаю, мы должны проверить, что находится под половицами в спальне." action="Use letter pieces with Alicia" />
 	<text en="You do that, honey." ru="Сделай это, милый." action="Use letter pieces with Alicia" speaker="Alicia" />
-	<text en="Hm... Let me see." ru="Хм... Дай-ка посмотрю." action="Use letter pieces with Alicia" speaker="Alicia" />
-	<text en="It seems to be the remains of a letter." ru="Хм... Дай-ка посмотрю." action="Use crumpled paper with yourself" speaker="Alicia" />
-	<text en="You mind if I squirt some baby oil on you?" ru="Не возражаешь, если я выплесну на тебя немного детского масла?" action="Use baby oil with Alicia" />
-	<text en="I thought you'd never ask." ru="Я думала, что ты никогда бы не стал спрашивать." action="Use baby oil with Alicia" speaker="Alicia" />
+	<text en="Good. You do that, honey." ru="Хорошо. Сделай это, милый." speaker="Alicia" />
 
 
 
@@ -781,8 +799,8 @@
 	<!-- [Speech] -->
 
 	<!-- Examine -->
-	<text en="These three contain various nick-nacks for the modern living room." ru="В этих трех хранятся различные мелочи для современной гостиной." action="Examine boxes" />
-	<text en="Some outgrown baby clothes donated by thoughtful relatives." ru="Некоторая отслужившая свое детская одежда, подаренная заботливыми родственниками." action="Examine boxes" />
+	<text en="These three contain various nick-nacks for the modern living room." ru="В этих трёх хранятся различные мелочи для современной гостиной." action="Examine boxes" />
+	<text en="Some outgrown baby clothes donated by thoughtful relatives." ru="Некоторая отслужившая своё детская одежда, подаренная заботливыми родственниками." action="Examine boxes" />
 	<text en="Some wilted plants, probably left here by the previous tenant." ru="Какие-то увядшие растения, вероятно, оставленные здесь предыдущим жильцом." action="Examine boxes" />
 	<text en="It seems to be the remains of a letter." ru="Похоже, это остатки письма." action="Examine crumpled paper" />
 	<text en="Somebody tried to destroy it, but the fire didn't consume it entirely." ru="Кто-то пытался уничтожить его, но огонь не поглотил его полностью." action="Examine crumpled paper" />
@@ -837,9 +855,9 @@
 	<text en="It was a treasure map." ru="Это была карта сокровищ." action="Sit down by box" />
 	<text en="How exciting!" ru="Как захватывающе!" action="Sit down by box" speaker="Alicia" />
 	<text en="Did you find the treasure?" ru="Ты нашёл сокровища?" action="Sit down by box" speaker="Alicia" />
-	<text en="I was just about to--" ru="Я как раз собирался--" action="Sit down by box" />
-	<text en="--but the alarm clock went off and the sound must’ve fused with my dream." ru="--но тут зазвонил будильник, и звук, видимо, слился с моим сном." action="Sit down by box" />
-	<text en="That’s when I woke up." ru="В этот момент я и проснулся." action="Sit down by box" />
+	<text en="I was just about to--" ru="Я как раз собирался..." action="Sit down by box" />
+	<text en="--but the alarm clock went off and the sound must’ve fused with my dream." ru="...но тут зазвонил будильник, и звук, видимо, слился с моим сном." action="Sit down by box" />
+	<text en="[Victor]: That’s when I woke up." ru="Так я и проснулся." action="Sit down by box" />
 	<text en="It’s strange how the mind incorporates real things into dreams like that." ru="Поразительно то, каким образом разум воплощает реальные вещи в подобных снах." action="Sit down by box" speaker="Alicia" />
 	<text en="I’ve read that it does that for us to get our precious rest no matter what." ru="Я читал, что он делает это для нас, чтобы мы получили свой драгоценный отдых, несмотря ни на что." action="Sit down by box" />
 	<text en="It only wakes you up if it thinks you're in danger." ru="Он разбудит тебя, только если решит, что ты в опасности." action="Sit down by box" />
@@ -853,15 +871,15 @@
 	<text en="I knew you’d say that." ru="Я знал, что ты это скажешь." action="Sit down by box" />
 	<text en="You want to hear what I think your dream means?" ru="Хочешь услышать, что, по моему мнению, означает твой сон?" action="Sit down by box" speaker="Alicia" />
 	<text en="Sure." ru="Конечно." action="Sit down by box" />
-	<text en="Do you want my appeasing answer--" ru="Ты хочешь услышать от меня успокоительный ответ--" action="Sit down by box" speaker="Alicia" />
-	<text en="--or do you want to know what I really think?" ru="--или ты хочешь знать, что я на самом деле думаю?" action="Sit down by box" speaker="Alicia" />
+	<text en="Do you want my appeasing answer--" ru="Ты хочешь услышать от меня успокоительный ответ..." action="Sit down by box" speaker="Alicia" />
+	<text en="--or do you want to know what I really think?" ru="...или ты хочешь знать, что я на самом деле думаю?" action="Sit down by box" speaker="Alicia" />
 	<text en="I want you to tell me the truth, of course." ru="Я хочу, чтобы ты сказала мне правду, конечно." action="Sit down by box" />
 	<text en="It sounds pretty much like your standard escapist fare." ru="Звучит довольно похоже на стандартный эскапистский жанр." action="Sit down by box" speaker="Alicia" />
 	<text en="You’re scared of your new situation, and you’re longing back to the simpler life we had before –" ru="Тебя пугает новая ситуация, и ты жаждешь вернуться к более простой жизни, которая была у нас раньше –" action="Sit down by box" speaker="Alicia" />
 	<text en="The old cushy job. Your old slacker friends." ru="Старая удобная работа. Твои старые друзья-бездельники." action="Sit down by box" speaker="Alicia" />
 	<text en="You know that’s not true!" ru="Ты же знаешь, что это неправда!" action="Sit down by box" />
 	<text en="Moving here, trying to raise a family with you, is going to be the best thing I’ve ever done." ru="Переехать сюда, попытаться создать семью с тобой — да это, должно быть, лучшее, что я когда-либо делал." action="Sit down by box" />
-	<text en="It still sounds like you’re viewing it like some grand adventure." ru="Это всё ещё звучит так, как будто ты смотришь на это как на какое-то грандиозное приключение." action="Sit down by box" speaker="Alicia" />
+	<text en="It still sounds like you’re viewing it like some grand adventure." ru="Это всё ещё звучит так, будто ты смотришь на это как на какое-то грандиозное приключение." action="Sit down by box" speaker="Alicia" />
 	<text en="It was just a dream, Alicia." ru="Это был всего лишь сон, Алисия." action="Sit down by box" speaker="Alicia" />
 	<text en="You're taking it too seriously." ru="Ты воспринимаешь его слишком серьёзно." action="Sit down by box" />
 	<text en="I’m sorry, Victor." ru="Прости, Виктор." action="Sit down by box" speaker="Alicia" />
@@ -1058,6 +1076,7 @@
 
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
 	<text en="I'm hung enough already, thank you very much." ru="Я уже и так в подвешенном состоянии, спасибо вам большое." action="Use coat hanger with yourself" />
+	<text en="I'm already on the third floor." ru="Я и так уже на третьем этаже." action="Press floor 3 button" />
 
 
 
@@ -1182,10 +1201,32 @@
 	<text en="I'm sorry if the sound disturbed you, m'am. I'll leave you in peace now." ru="Простите, если звук вас потревожил, мэм. Теперь я оставлю вас в покое." action="Ring left apartment door bell" />
 	<text en="That's all, m'am." ru="Это всё, мэм." action="Ring left apartment door bell" />
 
+  <!-- Surveillance Camera discovered -->
+	<text en="I just discovered a surveillance camera in our bedroom." ru="Я только что обнаружил камеру наблюдения в нашей спальне." action="Ring left apartment door bell" />
+	<text en="A camera, you say?" ru="Камера, говорите?" action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="It was hidden behind a panel in the bedroom." ru="Она была спрятана за панелью в спальне." action="Ring left apartment door bell" />
+	<text en="I don't mean to throw accusations around, but..." ru="Я не хочу разбрасываться обвинениями, но..." action="Ring left apartment door bell" />
+	<text en="You think Mr Morton's behind it, don't you?" ru="Вы думаете, что за этим стоит мистер Мортон, не так ли?" action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="He does seem like the most likely culprit, given the circumstances." ru="Он действительно кажется наиболее вероятным виновником, учитывая обстоятельства." action="Ring left apartment door bell" />
+	<text en="[Edie Jones]: Agreed." ru="Согласна." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="I always knew there was something wrong with him--" ru="Я всегда знала, что с ним что-то не так..." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="--but this is far more sinister than I could ever imagine." ru="...но это гораздо более зловеще, чем я могла себе представить." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="My wife is calling the police right now." ru="Моя жена прямо сейчас звонит в полицию." action="Ring left apartment door bell" />
+	<text en="They'll hopefully be here soon." ru="Надеюсь, они скоро будут здесь." action="Ring left apartment door bell" />
+	<text en="I just wanted to give you advance warning--" ru="Я просто хотел предупредить вас заранее..." action="Ring left apartment door bell" />
+	<text en="--in case he's installed cameras in your apartment too." ru="...на случай, если он установил камеры и в вашей квартире." action="Ring left apartment door bell" />
+	<text en="I appreciate that, Victor." ru="Я ценю это, Виктор." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="I'll start looking as soon as my guests leave." ru="Я начну искать, как только мои гости уйдут." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="My sofa is stuck in the entrance, could you help me get it free?" ru="Мой диван застрял прямо на входе, не могли бы вы помочь мне освободить его?" />
+	<text en="I'm afraid I'm a bit too old for that sort of thing." ru="Боюсь, я уже слишком стара для подобных вещей." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="A stunt like that would likely kill me." ru="Такой трюк, скорее всего, убьёт меня." action="Ring left apartment door bell" speaker="Edie Jones" />
+	<text en="I was afraid you'd say that." ru="Я боялся, что вы так и скажете." />
+
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
 	<text en="It's not the right key." ru="Это не подходящий ключ." action="Use apartment key with closet door" />
 	<text en="I'm not yet accustomed to the city habit of locking the door, even if you're home." ru="Я еще не до конца привык к городской повадке запирать дверь, даже если ты дома." action="Use apartment key with your apartment door" />
 	<text en="I don't need to smear baby oil on this." ru="Мне незачем мазать это детским маслом." action="Use baby oil with elevator" />
+	<text en="Why would I want to break into my own home?" ru="Зачем мне врываться в свой собственный дом?" action="Use crowbar with your apartment door" />
 
 
 
@@ -1295,6 +1336,7 @@
 	<text en="I'm here if you need me." ru="Я здесь, если вдруг вам понадоблюсь." speaker="Mr Morton" />
 
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
+	<text en="The key doesn't fit this lock." ru="Ключ не подходит к этому замку." action="Use apartment key with door" />
 	<text en="This isn't the right key." ru="Это не подходящий ключ." action="Use Morton's office key with keyhole" />
 	<text en="This key opens Morton's office. It doesn't fit this lock." ru="Этот ключ открывает офис Мортона. Он не подходит к этому замку." action="Use Morton's office key with keyhole" />
 	<text en="I don't know how to pick locks." ru="Я не знаю, как взламывать замки." action="Use coat hanger with door" />
@@ -1315,6 +1357,7 @@
 	<text en="I don't think Mr Morton would like it if I messed with his key." ru="Не думаю, что мистеру Мортону понравится, если я буду возиться с его ключом." action="Use coat hanger with key" />
 	<text en="The envelope isn't long enough." ru="Конверт недостаточно длинный." action="Use envelope with key" />
 	<text en="I already have the key." ru="У меня уже есть ключ." action="Use coat hanger with opening" />
+	<text en="I don't want to get in there badly enough." ru="Я не настолько сильно хочу туда попасть." action="Use crowbar with left door" />
 
 
 
@@ -1422,6 +1465,7 @@
 	<text en="Seeing as I can't get out, I thought I might as well take a little lunch break." ru="Ввиду того, что я не могу выбраться отсюда, я подумал, что мне не помешало бы сделать небольшой перерыв на обед." />
 
 	<!-- Use <item1> with <item2> [see combinationHolder.xml for more combinations] -->
+	<text en="Tempting, but no." ru="Заманчиво, но нет." action="Use crowbar with yourself" />
 	<text en="Tampering with peoples mail is illegal." ru="Вмешательство в чужую почту является незаконным." action="Use coat hanger with mail boxes" />
 	<text en="Tampering with other people's mail is illegal." ru="Вмешательство в чужую почту является незаконным." action="Use coat hanger with first mailbox" />
 	<text en="I don't want to send this." ru="Я не хочу это отправлять." action="Use envelope with first mailbox" />

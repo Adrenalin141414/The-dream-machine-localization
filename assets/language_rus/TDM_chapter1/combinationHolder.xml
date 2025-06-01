@@ -103,7 +103,7 @@
 	<99_speech caption="Нет необходимости смазывать его." action="Use baby oil with fridge" />
 	<100_speech caption="Я могу поднять её голыми руками." action="Use crowbar with lid" />
 	<101_speech caption="'Холодильник, позвони домой!'" action="Use telephone with fridge" />
-	<102_speech caption="Нет, Алисия только заставит меня купить новое." action="Use crowbar with mirror" />
+	<102_speech caption="Нет, Алисия попросту заставит меня купить новое." action="Use crowbar with mirror" />
 	<103_speech caption="Если положить обрывки письма в холодильник, они не станут от этого легче читаться." action="Use letter pieces with fridge" />
 	<104_speech caption="Нет, я предпочитаю, чтобы мои окна были чистыми." action="Use baby oil with window" />
 	<105_speech caption="Они уже мертвы." action="Use crowbar with plants" />
@@ -140,7 +140,7 @@
 	<136_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with boxes" />
 	<137_speech caption="'Батарея, позвони домой!'" action="Use telephone with radiator" />
 	<138_speech caption="Нет, она больше подходит для копания." action="Use lighter with shovel" />
-	<139_speech caption="Я не хочу совершать преступление, если у меня нет чертовски веской причины." action="Use crowbar with keyhole" />
+	<139_speech caption="Я не хочу совершать преступление, если у меня нет чертовски веской на то причины." action="Use crowbar with keyhole" />
 	<140_speech caption="Мммм... Тёплое детское масло. Мое любимое!" action="Use baby oil with warm water tap" />
 	<141_speech caption="Нет, это может вызвать короткое замыкание." action="Use baby oil with power outlet" />
 	<142_speech caption="Нет, это может вызвать короткое замыкание." action="Use baby oil with right power outlet" />
@@ -165,7 +165,7 @@
 	<161_speech caption="Я бы предпочёл попридержать их." action="Use letter pieces with sixth mailbox" />
 	<162_speech caption="Крышку подпирать не нужно." action="Use coat hanger with lid" />
 	<163_speech caption="В ванной нет телефонной розетки." action="Use telephone with lid" />
-	<164_speech caption="Мне не нужно её открывать, и эта вешалка была бы слишком непрочной, если бы я это делал." action="Use coat hanger with ventilation grate" />
+	<164_speech caption="Мне не нужно её открывать, и эта вешалка оказалась бы слишком непрочной, если бы я это делал." action="Use coat hanger with ventilation grate" />
 	<165_speech caption="Это не настроечный ключ." action="Use apartment key with guitar" />
 	<166_speech caption="Нет, нет, нет." action="Use coat hanger with Alicia" />
 	<167_speech caption="Мне не нужен факел при таком ярком солнечном свете." action="Use lighter with piece of wood" />
@@ -217,7 +217,7 @@
 	<213_speech caption="Да, возможно он сыроват в центре." action="Use apartment key with stove" />
 	<214_speech caption="Пожалуй, для этой коробки есть более подходящее применение." action="Use empty box with box" />
 	<215_speech caption="Время для развратного действа коробка-на-коробке!" action="Use empty box with boxes" />
-	<216_speech caption="Снятся ли картонным коробкам картонные овцы!" action="Use empty box with bed" />
+	<216_speech caption="Снятся ли картонным коробкам картонные овцы?!" action="Use empty box with bed" />
 	<217_speech caption="Если её прикрыть, она не исчезнет." action="Use empty box with floorboard" />
 	<218_speech caption="Разорванному письму ещё не пора спать." action="Use letter pieces with bed" />
 	<219_speech caption="Я мог бы создать шедевр современного искусства с помощью этого!" action="Use letter pieces with painting" />
@@ -244,7 +244,7 @@
 	<240_speech caption="Электроника и вода — плохое сочетание." action="Use telephone with sink" />
 	<241_speech caption="Телефону ещё не пора спать." action="Use telephone with bed" />
 	<242_speech caption="Я бесполезен в постельных разговорах." action="Use telephone with pillow" />
-	<243_speech caption="Я не могу протиснуть его через решётку." action="Use telephone with ventilation grate" />
+	<243_speech caption="Я не могу протиснуть это через решётку." action="Use telephone with ventilation grate" />
 	<244_speech caption="Если бы я захотел связаться с внешним миром, я мог бы просто открыть окно и закричать." action="Use telephone with window" />
 	<245_speech caption="Я предпочитаю, чтобы он не был скользким." action="Use baby oil with apartment key" />
 	<246_speech caption="-------condition-------" action="Use baby oil with floor" caption1="'Создайте смертельную ловушку, не выходя из собственного дома!'" caption2="'Веселье для всей семьи!'" condition="speechEvent" />
