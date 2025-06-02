@@ -45,7 +45,7 @@ My email: adrenalin141414@gmail.com
 </details>
 
 > [!NOTE]
-> More information about this translation can be found in the [Russian-language steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2982345999).
+> More information about this translation can be found in the [Russian-language steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2982345999) (it is recommended to open in a new tab).
 > <br>Feel free to ask questions or leave your feedback in the comments section of that guide.
 
-[^1]: [How to download a github repository](https://github.com/Adrenalin141414/shared/blob/main/images/gif/github/github-download-zip.gif)
+[^1]: [How to download a github repository](https://github.com/Adrenalin141414/shared/blob/main/images/gif/github/github-download-zip.gif) (it is recommended to open in a new tab)
