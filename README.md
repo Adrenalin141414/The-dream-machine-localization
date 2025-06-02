@@ -9,7 +9,7 @@ After installing the old version, try to run the game.
 
 If you get an error saying the game's executable file is not found, don't worry.
 
-Just copy the existing executable file ```the_dream_machine.exe``` into the same game folder where it resides, but change its name by adding an underscore to the beginning: ```_the_dream_machine.exe```. So you should have two identical files with different names.
+Just copy the existing executable file ```the_dream_machine.exe``` into the same game folder where it resides, but change its name by adding an underscore to the beginning: ```_the_dream_machine.exe```. So you should have two identical files with different names in the same folder.
 
 > **Important:** if you simply rename the file (without copying it first), then when you try to launch the game, Steam will detect a discrepancy and redownload the game files. This may result in the translation being lost and you will have to reinstall it (see below).
 
