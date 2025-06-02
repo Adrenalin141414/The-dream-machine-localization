@@ -22,11 +22,12 @@ Just copy the existing executable file ```the_dream_machine.exe``` into the same
 So you should have two identical files with different names in the same folder: ```_the_dream_machine.exe``` and ```the_dream_machine.exe```.
 
 > [!IMPORTANT]
-> If you simply rename the file (without copying it first), then when you try to launch the game, Steam will detect a discrepancy and redownload the game files. This may result in the translation (if any) being lost or not working correctly, and you will have to reinstall it (see below).
+> If you simply rename the file (without copying it first), then when you try to launch the game, Steam will detect a discrepancy and redownload the game files. This may result in the translation (if any) being lost or not working correctly, and you will have to reinstall it ([see below](#localization)).
 
+<a name="localization"></a>
 ## How to install localization?
 ### Prerequisites
-Install the old version of the game via Steam (see above).
+Install the old version of the game via Steam ([see above](#old-version)).
 
 ### Install
 > [!CAUTION]
