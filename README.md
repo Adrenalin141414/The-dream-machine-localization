@@ -18,6 +18,6 @@ Just copy the existing executable file ```the_dream_machine.exe``` into the same
 Install the old version of the game via Steam (see above)
 
 ### Install
-> It is highly NOT recommended to install this translation on the latest version of the game (due to memory leaks and frequent crashes, probably caused by some incompatibility between the old and new code).
+> **Important:** it is highly NOT recommended to install this translation on the latest version of the game (due to memory leaks and frequent crashes, probably caused by some incompatibility between the old and new code).
 1. Clone the repository or download it as a zip archive
 2. Copy files into your game directory (for example, ```C:\Program Files (x86)\Steam\steamapps\common\The Dream Machine```)
