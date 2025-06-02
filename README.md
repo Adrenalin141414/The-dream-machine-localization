@@ -26,7 +26,7 @@ So you should have two identical files with different names in the same folder: 
 
 ## How to install localization?
 ### Prerequisites
-Install the old version of the game via Steam (see above)
+Install the old version of the game via Steam (see above).
 
 ### Install
 > [!CAUTION]
