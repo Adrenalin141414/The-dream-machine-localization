@@ -24,3 +24,8 @@ Install the old version of the game via Steam (see above)
 
 ## Recommendations
 - During the game, press the ```Space``` key more often. It is responsible for highlighting the objects you can interact with (so you don't have to click on everything).
+
+## Contacts
+My email: adrenalin141414@gmail.com
+
+More information about this translation can be found in the [Russian-language steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2982345999).
