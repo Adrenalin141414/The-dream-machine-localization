@@ -23,4 +23,4 @@ Install the old version of the game via Steam (see above)
 2. Copy files into your game directory (for example, ```C:\Program Files (x86)\Steam\steamapps\common\The Dream Machine```)
 
 ## Recommendations
-- During the game, press the ``Space'' key more often. It is responsible for highlighting the objects you can interact with (so you don't have to click on everything).
+- During the game, press the ```Space``` key more often. It is responsible for highlighting the objects you can interact with (so you don't have to click on everything).
