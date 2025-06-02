@@ -21,3 +21,6 @@ Install the old version of the game via Steam (see above)
 > **Important:** it is highly NOT recommended to install this translation on the latest version of the game (due to memory leaks and frequent crashes, probably caused by some incompatibility between the old and new code).
 1. Clone the repository or download it as a zip archive
 2. Copy files into your game directory (for example, ```C:\Program Files (x86)\Steam\steamapps\common\The Dream Machine```)
+
+## Recommendations
+- During the game, press the ``Space'' key more often. It is responsible for highlighting the objects you can interact with (so you don't have to click on everything).
